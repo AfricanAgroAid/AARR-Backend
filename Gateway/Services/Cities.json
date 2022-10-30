@@ -1,0 +1,4219 @@
+﻿
+  [
+    {
+      "Country": "Algeria",
+      "CountryCode": "DZ",
+      "Cities": [
+        "Algiers",
+        "Oran",
+        "Constantine",
+        "Blida",
+        "Batna",
+        "Sétif",
+        "Djelfa",
+        "Annaba",
+        "Sidi-Bel-Abbès",
+        "Biskra",
+        "Tébessa",
+        "Tiaret",
+        "Bejaïa",
+        "Tlemcen",
+        "Bordj-Bou-Arreridj",
+        "Béchar",
+        "Skikda",
+        "Souk-Ahras",
+        "Chlef",
+        "M’Sila",
+        "Mostaganem",
+        "Médéa",
+        "Tizi-Ouzou",
+        "El-Oued",
+        "Laghouat",
+        "Ouargla",
+        "Jijel",
+        "Relizane",
+        "Saïda",
+        "Guelma",
+        "Ghardaïa",
+        "Mascara",
+        "Khenchela",
+        "Oum-el-Bouaghi",
+        "El-Bayadh",
+        "Tamanrasset",
+        "Tissemsilt",
+        "Bouira",
+        "Adrar",
+        "Tindouf",
+        "Boumerdes",
+        "El-Tarf",
+        "Tipasa",
+        "Illizi",
+        "Naama",
+        "Aïn-Temouchent",
+        "Aïn-Defla",
+        "Mila"
+      ]
+
+    },
+
+    {
+      "Country": "Angola",
+      "CountryCode": "AO",
+      "Cities": [
+        "Luanda",
+        "Huambo",
+        "Lubango",
+        "Cabinda",
+        "Belas",
+        "Lobito",
+        "Saurimo",
+        "Cubal",
+        "Uíge",
+        "Menongue",
+        "Vila-Teixeira-da",
+        "Silva",
+        "Sumbe",
+        "Caála",
+        "Matala",
+        "Moçâmedes",
+        "Ganda",
+        "Catumbela",
+        "Catape",
+        "Ndalatando",
+        "Lucapa",
+        "Benguela",
+        "Negage",
+        "Porto-Amboim",
+        "Chinguar",
+        "Catabola",
+        "Malanje",
+        "Ondjiva",
+        "Cassongue",
+        "Cuito",
+        "Quilengues",
+        "Luau",
+        "Capenda-Camulemba",
+        "Soio",
+        "Mbanza-Kongo",
+        "Cuito-Cuanavale",
+        "Porto-Alexandre",
+        "Mavinga",
+        "Caxito",
+        "Caluquembe",
+        "Longonjo",
+        "Luena",
+        "Camacupa",
+        "Ambriz",
+        "Camabatela",
+        "Uacu-Cungo",
+        "Dundo",
+        "Nzeto",
+        "Songo",
+        "Quibala",
+        "Dondo",
+        "Muconda",
+        "Chibemba",
+        "Chibia",
+        "Cangamba",
+        "Cacolo",
+        "Calulo",
+        "Calenga",
+        "Tchitado",
+        "Xangongo",
+        "Cazombo"
+
+
+      ]
+    },
+
+    {
+      "Country": "Benin",
+      "CountryCode": "BJ",
+      "Cities": [
+        "Abomey",
+        "Abomey-Calavi",
+        "Athiémè",
+        "Banikoara",
+        "Bassila",
+        "Bembèrèkè",
+        "Bétérou",
+        "Bohicon",
+        "Bori",
+        "Boukoumbé",
+        "Comè",
+        "Cotonou",
+        "Cové",
+        "Dassa-Zoumé",
+        "Djougou",
+        "Dogbo-Tota",
+        "Ganvie",
+        "Godomey",
+        "Grand-Popo",
+        "Kandi",
+        "Kérou",
+        "Kétou",
+        "Kouandé",
+        "Lokossa",
+        "Malanville",
+        "Natitingou",
+        "Ndali",
+        "Nikki",
+        "Ouidah",
+        "Parakou",
+        "Péhonko",
+        "Pobè",
+        "Porga",
+        "Sakété",
+        "Savalou",
+        "Savé",
+        "Ségbana",
+        "Tanguiéta",
+        "Tchaourou"
+      ]
+    },
+
+    {
+      "Country": "Botswana",
+      "CountryCode": "BW",
+      "Cities": [
+        "Gaborone",
+        "Francistown",
+        "Molepolole",
+        "Maun",
+        "Mahalapye",
+        "Selibe-Phikwe",
+        "Serowe",
+        "Kanye",
+        "Mochudi",
+        "Lobatse",
+        "Tshabong",
+        "Kasane",
+        "Ghanzi",
+        "Ramotswa",
+        "Masunga",
+        "Sowa-Town",
+        "Jwaneng"
+
+      ]
+    },
+
+    {
+      "Country": "Burkina Faso",
+      "CountryCode": "BF",
+      "Cities": [
+        "Aribinda",
+        "Bagré",
+        "Banfora",
+        "Batié",
+        "Bobo-Dioulasso",
+        "Bogandé",
+        "Boromo",
+        "Boulsa",
+        "Boussé",
+        "Dano",
+        "Dédougou",
+        "Diapaga",
+        "Diébougou",
+        "Djibo",
+        "Dori",
+        "Fada-N'gourma",
+        "Gaoua",
+        "Garango",
+        "Gayéri",
+        "Gorom-Gorom",
+        "Gourcy",
+        "Houndé",
+        "Kantchari",
+        "Kaya",
+        "Kindi",
+        "Kokologo",
+        "Kombissiri",
+        "Kongoussi",
+        "Kordié",
+        "Koudougou",
+        "Kouka-Bam",
+        "Kouka-Banwa",
+        "Koupéla",
+        "Léo",
+        "Loropeni",
+        "Manga",
+        "Méguet",
+        "Mogtedo",
+        "Niangoloko",
+        "Nouna",
+        "Orodara",
+        "Ouagadougou-(Capital)",
+        "Ouahigouya",
+        "Ouargaye",
+        "Pama",
+        "Pissila",
+        "Pô",
+        "Pouytenga",
+        "Réo",
+        "Saponé",
+        "Sapouy",
+        "Sebba",
+        "Séguénéga",
+        "Sindou",
+        "Solenzo",
+        "Tangin-Dassouri",
+        "Tenkodogo",
+        "Tikaré",
+        "Titao",
+        "Toma",
+        "Tougan",
+        "Villy",
+        "Yako",
+        "Ziniaré",
+        "Zorgo"
+      ]
+    },
+
+    {
+      "Country": "Burundi",
+      "CountryCode": "BI",
+      "Cities": [
+        "Bubanza",
+        "Buhongo",
+        "Bujumbura-(former-capital)",
+        "Bukirasazi",
+        "Bururi",
+        "Cankuzo",
+        "Cibitoke",
+        "Gitega-(current-capital)",
+        "Kabezi",
+        "Karuzi",
+        "Kayanza",
+        "Kayero",
+        "Kayogoro",
+        "Kibondo",
+        "Kirundo",
+        "Kisozi",
+        "Luhwa",
+        "Makamba",
+        "Magara",
+        "Mukenke",
+        "Muramvya",
+        "Murore",
+        "Musenyi",
+        "Muyaga",
+        "Muyinga",
+        "Mwaro",
+        "Ngozi",
+        "Nyanza-Lac",
+        "Rugari",
+        "Rumonge",
+        "Rutana",
+        "Ruyigi",
+        "Ruzunga",
+        "Zanandore"
+      ]
+    },
+
+    {
+      "Country": "Cameroon",
+      "CountryCode": "CM",
+      "Cities": [
+        "Abong-Mbang",
+        "Ako",
+        "Akonolinga",
+        "Ambam",
+        "Bafang",
+        "Bafia",
+        "Bafoussam-(Regional-capital)",
+        "Bafut-(Kingdom)",
+        "Bali",
+        "Bambili-(French)",
+        "Bamenda-(Regional-capital)",
+        "Batibo",
+        "Bandjoun",
+        "Bangem",
+        "Banyo",
+        "Batouri",
+        "Bélabo",
+        "Bertoua-(Regional-capital)",
+        "Buea-(Regional-capital)",
+        "Campo",
+        "Dimako",
+        "Dizangue",
+        "Djoum",
+        "Douala-(Regionalcapital,port,railhead)",
+        "Dschang",
+        "Ebolowa-(Regional-Capital)",
+        "Edéa",
+        "Eyumojock",
+        "Fontem",
+        "Foumban",
+        "Foumbot",
+        "Fundong",
+        "Garoua-(Regional-capital)",
+        "Garoua-Boulaï",
+        "Guider",
+        "Idenau",
+        "Kaélé",
+        "Kousséri",
+        "Kribi",
+        "Kumba",
+        "Kumbo",
+        "Limbé",
+        "Lomié",
+        "Loum",
+        "Makénéné",
+        "Mamfe",
+        "Manjo",
+        "Maroua-(Regional-capital)",
+        "Martap",
+        "Mbalmayo",
+        "Mbandjock-(Mbandjok)",
+        "Mbanga",
+        "Mbê",
+        "Mbengwi",
+        "Mbouda",
+        "Meiganga",
+        "Melong",
+        "Menji",
+        "Muyuka",
+        "Nkoteng",
+        "Mokolo",
+        "Monatélé",
+        "Mora",
+        "Mouloudou",
+        "Mutengene",
+        "Nanga-Eboko",
+        "Ndu",
+        "Ndop",
+        "Ngaoundéré-(Regional-capital-railhead)",
+        "Nkambe",
+        "Nkongsamba",
+        "Nkwen",
+        "Obala",
+        "Penja",
+        "Sa'a",
+        "Sangmélima",
+        "Santa",
+        "Tibati",
+        "Tiko",
+        "Wum",
+        "Yaoundé-(capital)",
+        "Yagoua",
+        "Yokadouma"
+      ]
+    },
+
+    {
+      "Country": "Cape Verde",
+      "CountryCode": "CV",
+      "Cities": [
+        "Assomada",
+        "Calheta de São Miguel",
+        "Cidade Velha(Santiago de Cabo Verde)",
+        "Cova Figueira",
+        "Espargos",
+        "João Teves",
+        "Mindelo",
+        "Mosteiros (Igreja)",
+        "Nova Sintra",
+        "Pedra Badejo",
+        "Picos (Achada Igreja)",
+        "Pombas",
+        "Ponta do Sol",
+        "Porto Inglês (Cidade do Maio)",
+        "Porto Novo",
+        "Praia",
+        "Ribeira Brava",
+        "Ribeira Grande (Povoação)",
+        "Sal Rei",
+        "Santa Maria",
+        "São Domingos (Várzea da Igreja)",
+        "São Filipe",
+        "Tarrafal",
+        "Tarrafal de São Nicolau"
+      ]
+    },
+
+    {
+      "Country": "Central African Republic",
+      "CountryCode": "CF",
+      "Cities": [
+        "Alindao",
+        "Baboua",
+        "Bahamo",
+        "Bambari",
+        "Bangassou",
+        "Bangui",
+        "Baoro",
+        "Batangafo",
+        "Berbérati",
+        "Bimbo",
+        "Birao",
+        "Boali",
+        "Bobangui",
+        "Boda",
+        "Bossangoa",
+        "Bossembélé",
+        "Bouar",
+        "Bouca",
+        "Bozoum",
+        "Bria",
+        "Carnot",
+        "Damara",
+        "Gambo",
+        "Gamboula",
+        "Guen",
+        "Ippy",
+        "Kabo",
+        "Kaga-Bandoro",
+        "Kembé",
+        "Kouango",
+        "Mbaïki",
+        "Mobaye",
+        "Mongoumba",
+        "N'Délé",
+        "Nola",
+        "Obo",
+        "Ouadda",
+        "Ouango",
+        "Paoua",
+        "Rafaï",
+        "Sibut",
+        "Zinga"
+
+      ]
+    },
+
+    {
+      "Country": "Chad",
+      "CountryCode": "TD",
+      "Cities": [
+        "Abéché (أبشي)",
+        "Abou-Deïa (أبوديا)",
+        "Adé (أدي)",
+        "Adré (أدري)",
+        "Am Dam (أمدام)",
+        "Amdjarass (أمجرس)",
+        "Am Timan (أمتيمان)",
+        "Aouzou (أوزو)",
+        "Arada (أردا)",
+        "Ati (أتي)",
+        "Baïbokoum (بيبوكمم)",
+        "Bardaï (برداي)",
+        "Bébédjia (بيبيدخيا)",
+        "Béboto (بيبوتو)",
+        "Beinamar (بينامار)",
+        "Bénoye (بينوي)",
+        "Béré (بيري)",
+        "Biltine (بلتن)",
+        "Bitkine (نيتكتن)",
+        "Bokoro (بوكورو)",
+        "Bol (بول)",
+        "Bongor (بونقور)",
+        "Bousso (بوسو)",
+        "Djédaa (جيدا)",
+        "Doba (دوبا)",
+        "Dourbali (دوربالي)",
+        "Fada (فادا)",
+        "Faya-Largeau (فايالارجو)",
+        "Fianga (فيانكا)",
+        "Gaoui (غاوي)",
+        "Goré (غوري)",
+        "Goundi (غوندي)",
+        "Gounou Gaya (غونوغايا)",
+        "Goz Beïda (قوزبيدا)",
+        "Guélengdeng (جليندينغ)",
+        "Guéréda (غيريدا)",
+        "Haraze (حراز)",
+        "Iriba (هريبا)",
+        "Kélo (كيلو)",
+        "Koro Toro (كوروتورو)",
+        "Koumra (قمرة)",
+        "Kyabé (كيابي)",
+        "Laï (لادي)",
+        "Léré (ليري)",
+        "Linia (لينيا)",
+        "Mangalmé (مانقالمي)",
+        "Mao (ماو)",
+        "Massaguet (مساقط)",
+        "Massakory (ماساكوري)",
+        "Massenya (ماسينيا)",
+        "Melfi (ملفي)",
+        "Moïssala (مويسالا)",
+        "Moundou (ماوندو)",
+        "Mongo (مونقو)",
+        "Moussoro (موسورو)",
+        "N'Djamena (انجامينا)",
+        "Ngama (نجمة)",
+        "Ouara (وارا)",
+        "Oum Hadjer (أمهاجر)",
+        "Pala (بالا)",
+        "Sarh (ساره)",
+        "Zouar (زوار)"
+      ]
+    },
+
+    {
+      "Country": "Comoros",
+      "CountryCode": "KM",
+      "Cities": [
+        "Adda-Douéni",
+        "Akibani",
+        "Antsahé",
+        "Assimpao",
+        "Bada Kouni",
+        "Bada la Djandza",
+        "Bambao Mtrouni",
+        "Bandajou",
+        "Bandra Lamahalé",
+        "Bandrani",
+        "Bandrani-Mtangani",
+        "Barakani",
+        "Bazimini",
+        "Bimbini",
+        "Boungoueni",
+        "Chandra",
+        "Chaouéni",
+        "Chironkamba",
+        "Chiroroni",
+        "Chitrouni",
+        "Daji",
+        "Dar-Salama",
+        "Dindri",
+        "Domoni",
+        "Dziani",
+        "Dzidri-I",
+        "Dzindri",
+        "Gnambo Mouro",
+        "Gnatranga-Moiou",
+        "Hachimpenda",
+        "Hajoho",
+        "Hamchako",
+        "Harembo",
+        "Jimilimé",
+        "Jimlimi",
+        "Kangani",
+        "Koki",
+        "Komoni",
+        "Koni Ngani",
+        "Koni-Djodjo",
+        "Kowé-Cosini",
+        "Limbi",
+        "Lingoni",
+        "Magnassini",
+        "Magnassini-Nindri",
+        "Maraharé",
+        "Mbambao Mtsanga",
+        "Mboigoma",
+        "Milémbéni",
+        "Mirongani",
+        "Mirontsi",
+        "Mjamaoue",
+        "Mjimandra",
+        "Moujimvia",
+        "Moya",
+        "Mramani",
+        "Mrémani",
+        "Mridjou",
+        "Mromadji",
+        "Mutsamudu (Island capital)",
+        "Ndrodoni",
+        "Ngandzalé",
+        "Ongodjou",
+        "Ongoni",
+        "Ongoujou",
+        "Ouani",
+        "Ouzinii",
+        "Patsy",
+        "Pomoni",
+        "Pomoni-Nindri",
+        "Saandani",
+        "Salamani",
+        "Sima",
+        "Tsimbeo",
+        "Vassi",
+        "Vouani",
+        "Bahani",
+        "Bambadjani",
+        "Bambani",
+        "Bandamadji-Ladomba",
+        "Bangoi-Hamtsaha-Madjeoué",
+        "Bangoi-Mafousa",
+        "Nkoa",
+        "Batsa",
+        "Boeni ya Bambao",
+        "Boudadjou",
+        "Bouni",
+        "Chamlé",
+        "Chezani",
+        "Chindini",
+        "Chouani",
+        "Dembéni",
+        "Dimadjou",
+        "Dimadjou-Mdé",
+        "Djomani-Mchenazi",
+        "Djoumoichongo-Nyoumbadjou",
+        "Domoni ya Djou",
+        "Douniani",
+        "Dzahadjou",
+        "Dzahadjou Lamzandé",
+        "Dzahani",
+        "Dzoidjou",
+        "Foumbouni",
+        "Founga-Anihani",
+        "Gnadombéni",
+        "Hadjambou",
+        "Hahaya-Aéroport",
+        "Hambou",
+        "Hantsambou",
+        "Hantsindzi",
+        "Héléindjé-Salimani-Zounda",
+        "Heroumbili",
+        "Hirohé",
+        "Iconi",
+        "Idjinkoundzi",
+        "Ifoundihé Chamboini",
+        "Itsandzéni",
+        "Itsikoudi",
+        "Itsinkoundi",
+        "Ivémbéni-Bandasamoulini",
+        "Ivoini",
+        "Kandzilé-Mdjoihaya",
+        "Koimbani",
+        "Koua",
+        "Madjéouéni",
+        "Mandza",
+        "Maouéni",
+        "Maouéni-Ladjiri",
+        "Mavingouni",
+        "Mbachilé-Napabo",
+        "Mbangoi-Koni-Mizidjou",
+        "Mbéni",
+        "Mdé-Sahani",
+        "Mdjankagnoi",
+        "Mdjouézi",
+        "Mdjoyezi",
+        "Mémboi-Djou",
+        "Mitsamiouli",
+        "Mitsoudjé",
+        "Mitsoudjé-Troumbeni",
+        "Mmnoungou",
+        "Mohoro",
+        "Moidja",
+        "Moidzaza Mboini",
+        "Moroni (National and island capital)",
+        "Mtsamdou",
+        "Mtsangadjou",
+        "Mvouni",
+        "Ndrouani",
+        "Ndzaouzé",
+        "Ngnoumadzaha Mvoubari",
+        "Nioumamilima",
+        "Nkourani",
+        "Nouma Milima",
+        "Noumadzaha",
+        "Nroundé",
+        "Ntsadjéni",
+        "Ntsaouéni",
+        "Ntsoralé",
+        "Ntsoudjini",
+        "Nyambéni",
+        "Ouéllah-Tayfa",
+        "Ouhozi",
+        "Ounkazi",
+        "Ourovéni",
+        "Ousivo",
+        "Ouzioini",
+        "Panda",
+        "Pidjani",
+        "Salimani",
+        "Salimani-Mdjiparé",
+        "Samba-Kouni",
+        "Samba-Mbondoni",
+        "Séléa",
+        "Seleani-Tsoralé",
+        "Simamboini",
+        "Simboussa",
+        "Singani",
+        "Tsidjé",
+        "Tsinimoichongo",
+        "Tsinimoipanga-Mihaboini",
+        "Vanadjou",
+        "Vanamboini",
+        "Vouvouni",
+        "Zivandani",
+        "Bandar Salama",
+        "Barakani",
+        "Djoièzi",
+        "Fomboni (Island capital)",
+        "Hoani",
+        "Kangani",
+        "Mbatsé",
+        "Miringoni",
+        "Mtakoudja",
+        "Ndrondroni",
+        "Nioumachoua",
+        "Ouallah",
+        "Sambia",
+        "Wanani",
+        "Ziroudani"
+
+
+      ]
+    },
+
+    {
+      "Country": "Djibouti",
+      "CountryCode": "DJ",
+      "Cities": [
+        "Djibouti City",
+        "Ali Sabieh",
+        "Dikhil",
+        "Tadjoura",
+        "Arta",
+        "Obock",
+        "As Ela (ايلى)",
+        "Assa Hougoud (أساهوغود‎)",
+        "Assamo (أسامو)",
+        "Balho (بالهو)",
+        "Chebelle (شبيلي)",
+        "Daimoli (دايمولي)",
+        "Daoudaouya (داوديا)",
+        "Dorale (دورال)",
+        "Doumera (دوميرا)",
+        "Godoria (غودوريا)",
+        "Khor Angar (خورأنغار)",
+        "Randa (راندا)",
+        "Ras Siyyan (رأسسيان)",
+        "Sagallou (ساجالو)",
+        "Yoboki (يوبوكي)"
+      ]
+    },
+
+    {
+      "Country": "Democratic Republic of Congo",
+      "CountryCode": "CD",
+      "Cities": [
+        "Kinshasa",
+        "Kananga",
+        "Lubumbashi",
+        "Mbuji-Mayi",
+        "Kisangani",
+        "Kikwit",
+        "Bukavu",
+        "Likasi",
+        "Kolwezi",
+        "Beni",
+        "Matadi",
+        "Mbandaka",
+        "Tshikapa",
+        "Kindu",
+        "Goma",
+        "Butembo",
+        "Kalemie",
+        "Gemena",
+        "Mbanza-Ngungu",
+        "Mwene-Ditu",
+        "Boma",
+        "Uvira",
+        "Isiro",
+        "Gandajika",
+        "Moanda",
+        "Wamba",
+        "Kamina",
+        "Bandundu",
+        "Kipushi",
+        "Ilebo",
+        "Kongolo",
+        "Bumba",
+        "Bunia",
+        "Lisala",
+        "Lodja",
+        "Binga",
+        "Kasongo",
+        "Idiofa",
+        "Kabinda",
+        "Aketi",
+        "Basankusu",
+        "Mweka",
+        "Gbadolite",
+        "Kahemba",
+        "Bulungu",
+        "Manono",
+        "Buta",
+        "Basoko",
+        "Lubao",
+        "Lusambo",
+        "Inongo",
+        "Tshela",
+        "Bukama",
+        "Mangai",
+        "Kampene",
+        "Kambove",
+        "Kaniama",
+        "Yangambi",
+        "Luebo",
+        "Businga",
+        "Mushie",
+        "Boende",
+        "Kabalo",
+        "Kasangulu",
+        "Bolobo",
+        "Libenge",
+        "Watsa",
+        "Kenge"
+
+
+
+      ]
+    },
+
+    {
+      "Country": "Egypt",
+      "CountryCode": "EG",
+      "Cities": [
+        "Cairo",
+        "Giza",
+        "Alexandria",
+        "Madīnat as Sādis min Uktūbar",
+        "Shubrā al Khaymah",
+        "Al Manşūrah",
+        "Ḩalwān",
+        "Al Maḩallah al Kubrá",
+        "Port Said",
+        "Suez",
+        "Ţanţā",
+        "Asyūţ",
+        "Al Fayyūm",
+        "Az Zaqāzīq",
+        "Ismailia",
+        "Aswān",
+        "Kafr ad Dawwār",
+        "Damanhūr",
+        "Al Minyā",
+        "Damietta",
+        "Luxor",
+        "Qinā",
+        "Sūhāj",
+        "Banī Suwayf",
+        "Shibīn al Kawm",
+        "Al ‘Arīsh",
+        "Al Ghardaqah",
+        "Banhā",
+        "Kafr ash Shaykh",
+        "Disūq",
+        "Bilbays",
+        "Mallawī",
+        "Idfū",
+        "Mīt Ghamr",
+        "Munūf",
+        "Jirjā",
+        "Akhmīm",
+        "Ziftá",
+        "Samālūţ",
+        "Manfalūţ",
+        "Banī Mazār",
+        "Armant",
+        "Maghāghah",
+        "Kawm Umbū",
+        "Būr Fu’ād",
+        "Al Qūşīyah",
+        "Rosetta",
+        "Isnā",
+        "Maţrūḩ",
+        "Abnūb",
+        "Hihyā",
+        "Samannūd",
+        "Dandarah",
+        "Al Khārjah",
+        "Al Balyanā",
+        "Maţāy",
+        "Naj‘ Ḩammādī",
+        "Şān al Ḩajar al Qiblīyah",
+        "Dayr Mawās",
+        "Ihnāsyā al Madīnah",
+        "Darāw",
+        "AbūnQīr",
+        "Fāraskūr",
+        "Ra’s Ghārib",
+        "Al Ḩusaynīyah",
+        "Safājā",
+        "Qiman al ‘Arūs",
+        "Qahā",
+        "Al Karnak",
+        "Hirrīyat Raznah",
+        "Al Quşayr",
+        "Kafr Shukr",
+        "Sīwah",
+        "Kafr Sa‘d",
+        "Shārūnah",
+        "Aţ",
+        "Ţūr",
+        "Rafaḩ",
+        "Ash Shaykh Zuwayd",
+        "Bi’r al ‘Abd"
+      ]
+    },
+
+    {
+      "Country": "Equitorial Guinea",
+      "CountryCode": "GQ",
+      "Cities": [
+        "Bata",
+        "Malabo",
+        "Ebebiyín",
+        "Aconibe",
+        "Añisoc",
+        "Luba",
+        "Evinayong",
+        "Mongomo",
+        "Mengomeyén",
+        "Micomeseng",
+        "Rebola",
+        "Bidjabidjan",
+        "Niefang",
+        "Cogo",
+        "Nsok",
+        "San Antonio de Palé",
+        "Mbini",
+        "Nsork",
+        "Ayene",
+        "Nkimi",
+        "Machinda",
+        "Accurenam",
+        "Corisco",
+        "Baney",
+        "Bicurga",
+        "Nsang",
+        "Ncue",
+        "Bitica",
+        "Río Campo",
+        "Riaba",
+        "Acalayong",
+        "Bolondo",
+        "Moca",
+        "Oyala"
+      ]
+    },
+
+    {
+      "Country": "Eritrea",
+      "CountryCode": "ER",
+      "Cities": [
+        "Asmara",
+        "Keren",
+        "Teseney",
+        "Mendefera",
+        "Agordat",
+        "Assab",
+        "Massawa",
+        "Adi Quala",
+        "Senafe",
+        "Dekemhare",
+        "Segheneyti",
+        "Nakfa",
+        "Adi Keyh",
+        "Barentu",
+        "Beilul",
+        "Edd",
+        "Ghinda",
+        "Mersa Fatuma",
+        "Himbirti",
+        "Nefasit"
+      ]
+    },
+
+
+    {
+      "Country": "Eswatini",
+      "CountryCode": "SZ",
+      "Cities": [
+        "Manzini",
+        "Mbabane",
+        "Big Bend",
+        "Nhlangano",
+        "Mhlume",
+        "Hluti",
+        "Simunye",
+        "Siteki",
+        "Piggs Peak",
+        "Lobamba",
+        "Ngomane",
+        "Vuvulane",
+        "Mpaka",
+        "Kwaluseni",
+        "Bhunya",
+        "Mhlambanyatsi",
+        "Mondi",
+        "Tabankulu",
+        "Hlatikulu",
+        "Bulembu",
+        "Kubuta",
+        "Tjaneni",
+        "Sidvokodvo",
+        "Lavumisa",
+        "Ngwenya",
+        "Nsoko",
+        "Mankayane"
+      ]
+    },
+
+    {
+      "Country": "Euthopia",
+      "CountryCode": "ET",
+      "Cities": [
+        "Addis Ababa",
+        "Gondar",
+        "Mekelle",
+        "Adama",
+        "Bahir Dar",
+        "Dire Dawa",
+        "Dessie",
+        "Jimma",
+        "Jijiga",
+        "Shashamane",
+        "Bishoftu",
+        "Arba Minch",
+        "Hosaena",
+        "Harar",
+        "Dilla",
+        "Nekemte",
+        "Debre Birhan",
+        "Asella",
+        "Debre Mark'os",
+        "Kombolcha",
+        "Debre Tabor",
+        "Adigrat",
+        "Areka",
+        "Weldiya",
+        "Sebeta",
+        "Burayu",
+        "Shire (Inda Selassie)",
+        "Ambo",
+        "Arsi Negele",
+        "Aksum",
+        "Gambela",
+        "Bale Robe",
+        "Butajira",
+        "Batu",
+        "Boditi",
+        "Adwa",
+        "Yirgalem",
+        "Waliso",
+        "Welkite",
+        "Gode",
+        "Meki",
+        "Negele Borana",
+        "Alaba Kulito",
+        "Alamata",
+        "Chiro",
+        "Tepi",
+        "Durame",
+        "Goba",
+        "Assosa",
+        "Gimbi",
+        "Wukro",
+        "Haramaya",
+        "Mizan Teferi",
+        "Sawla",
+        "Mojo",
+        "Dembi Dolo",
+        "Aleta Wendo",
+        "Metu",
+        "Mota",
+        "Fiche",
+        "Finote Selam",
+        "Bule Hora Town",
+        "Bonga",
+        "Kobo",
+        "Jinka",
+        "Dangila",
+        "Degehabur",
+        "Dimtu",
+        "Agaro"
+      ]
+    },
+
+    {
+      "Country": "Gabon",
+      "CountryCode": "GA",
+      "Cities": [
+        "Libreville",
+        "Port-Gentil",
+        "Oyem",
+        "Franceville",
+        "Moanda",
+        "Lambaréné",
+        "Mouila",
+        "Tchibanga",
+        "Makokou",
+        "Koulamoutou"
+      ]
+    },
+
+    {
+      "Country": "Gambia",
+      "CountryCode": "GM",
+      "Cities": [
+        "Abuko",
+        "Bakau",
+        "Banjul",
+        "Bansang",
+        "Basse Santa Su",
+        "Brikama",
+        "Brufut",
+        "Farafenni",
+        "Gimara Bakadaji",
+        "Gunjur",
+        "Janjanbureh (Georgetown)",
+        "Jufureh",
+        "Kalagi",
+        "Kanilai",
+        "Kerewan",
+        "Kololi",
+        "Kuntaur",
+        "Lamin (North Bank Division)",
+        "Lamin (Western Division)",
+        "Mansa Konko",
+        "Nema Kunku",
+        "Serekunda",
+        "Soma",
+        "Sukuta",
+        "Tanji"
+      ]
+    },
+
+    {
+      "Country": "Ghana",
+      "CountryCode": "GH",
+      "Cities": [
+        "Accra",
+        "Kumasi",
+        "Tamale",
+        "Sekondi-Takoradi",
+        "Ashaiman",
+        "Sunyani",
+        "Cape-Coast",
+        "Obuasi",
+        "Teshie",
+        "Tema",
+        "Madina",
+        "Koforidua",
+        "Wa",
+        "Techiman",
+        "Ho",
+        "Nungua",
+        "Lashibi",
+        "Dome",
+        "Tema-New-Town",
+        "Gbawe",
+        "Oduponkpehe",
+        "Ejura",
+        "Taifa",
+        "Bawku",
+        "Aflao",
+        "Agona-Swedru",
+        "Bolgatanga",
+        "Tafo",
+        "Berekum",
+        "Nkawkaw",
+        "Akim-Oda",
+        "Winneba",
+        "Hohoe",
+        "Yendi",
+        "Suhum",
+        "Kintampo",
+        "Adenta-East",
+        "Nsawam",
+        "Mampong",
+        "Konong",
+        "Asamankese",
+        "Wenchi",
+        "Savelugu",
+        "Agogo",
+        "Anloga",
+        "Prestea",
+        "Effiakuma",
+        "Tarkwa",
+        "Elmina",
+        "Dunkwa-on-Offin",
+        "Begoro",
+        "Kpandu",
+        "Kintampo",
+        "Navrongo",
+        "Axim",
+        "Apam",
+        "Salaga",
+        "Saltpond",
+        "Akwatia",
+        "Shama",
+        "Keta",
+        "Nyakrom",
+        "Bibiani",
+        "Somanya",
+        "Foso",
+        "Nyankpala",
+        "Aburi",
+        "Mumford",
+        "Bechem",
+        "Duayaw-Nkwanta",
+        "Kade",
+        "Anomabu",
+        "Akropong",
+        "Kete-Krachi",
+        "Kibi",
+        "Kpandae",
+        "Mpraeso",
+        "Akim -Swedru",
+        "Aboso",
+        "Bekwai",
+        "Drobo",
+        "Banda-Ahenkro",
+        "Dodowa",
+        "Larteh-Akuapim"
+      ]
+    },
+
+    {
+      "Country": "Guinea",
+      "CountryCode": "GN",
+      "Cities": [
+        "Beyla",
+        "Boffa",
+        "Boké",
+        "Conakry (capital)",
+        "Coyah",
+        "Dabola",
+        "Dalaba",
+        "Dinguiraye",
+        "Dubréka",
+        "Faranah",
+        "Forécariah",
+        "Fria",
+        "Gaoual",
+        "Guéckédou",
+        "Kankan",
+        "Kérouané",
+        "Kindia",
+        "Kissidougou",
+        "Koubia",
+        "Koundara",
+        "Kouroussa",
+        "Labé",
+        "Lélouma",
+        "Lola",
+        "Macenta",
+        "Mandiana",
+        "Mali",
+        "Mamou",
+        "Nzérékoré",
+        "Pita",
+        "Siguiri",
+        "Télimélé",
+        "Timbo",
+        "Tougué",
+        "Yomou",
+        "Wheek"
+      ]
+    },
+
+    {
+      "Country": "Guinea Bissau",
+      "CountryCode": "GW",
+      "Cities": [
+        "Bissau",
+
+        "Bafatá",
+
+        "Gabú",
+
+        "Bissorã",
+
+        "Bolama",
+
+        "Cacheu",
+
+        "Bubaque",
+
+        "Catió",
+
+        "Mansôa",
+
+        "Buba",
+
+        "Quebo",
+
+        "Canchungo",
+
+        "Farim",
+
+        "Quinhámel",
+
+        "Fulacunda"
+      ]
+    },
+
+
+    {
+      "Country": "Ivory Coast",
+      "CountryCode": "CI",
+      "Cities": [
+        "Abidjan",
+
+        "Bouaké",
+
+        "Daloa",
+
+        "Yamoussoukro",
+
+        "San-Pédro",
+
+        "Divo",
+
+        "Korhogo",
+
+        "Anyama",
+
+        "Abengourou",
+
+        "Man",
+
+        "Gagnoa",
+
+        "Soubré",
+
+        "Agboville",
+
+        "Dabou",
+
+        "Grand-Bassam",
+
+        "Bouaflé",
+
+        "Issia",
+
+        "Sinfra",
+
+        "Katiola",
+
+        "Bingerville",
+
+        "Adzopé",
+
+        "Séguéla",
+
+        "Bondoukou",
+
+        "Oumé",
+
+        "Ferkessedougou",
+
+        "Dimbokro",
+
+        "Odienné",
+
+        "Duékoué",
+
+        "Danané",
+
+        "Tingréla",
+
+        "Guiglo",
+
+        "Boundiali",
+
+        "Agnibilékrou",
+
+        "Daoukro",
+
+        "Vavoua",
+
+        "Zuénoula",
+
+        "Tiassalé",
+
+        "Toumodi",
+
+        "Akoupé",
+
+        "Lakota"
+      ]
+    },
+
+    {
+      "Country": "Kenya",
+      "CountryCode": "KE",
+      "Cities": [
+        "Nairobi",
+
+        "Mombasa",
+
+        "Nakuru",
+
+        "Ruiru",
+
+        "Eldoret",
+
+        "Kisumu",
+
+        "Kikuyu",
+
+        "Thika",
+
+        "Naivasha",
+
+        "Karuri",
+
+        "Ongata-Rongai",
+
+        "Malindi",
+
+        "Naivasha",
+
+        "Kitui",
+
+        "Machakos",
+
+        "Mlolongo",
+
+        "Athi-River-(Mavoko)",
+
+        "Karuri",
+
+        "Kilifi",
+
+        "Garissa",
+
+        "Vihiga",
+
+        "Wote",
+
+        "Mumias",
+
+        "Bomet",
+
+        "Molo",
+
+        "Ngong",
+
+        "Kitale",
+
+        "Litein",
+
+        "Limuru",
+
+        "Kericho",
+
+        "Kimilili",
+
+        "Awasi",
+
+        "Kakamega",
+
+        "Kapsabet",
+
+        "Mariakani",
+
+        "Kiambu",
+
+        "Mandera",
+
+        "Nyamira",
+
+        "Mwingi",
+
+        "Kisii",
+
+        "Wajir",
+
+        "Rongo",
+
+        "Bungoma",
+
+        "Ahero",
+
+        "Nandi-Hills",
+
+        "Makuyu",
+
+        "Kapenguria",
+
+        "Taveta",
+
+        "Narok",
+
+        "Ol-Kalou",
+
+        "Kakuma",
+
+        "Webuye",
+
+        "Malaba",
+
+        "Mbita-Point",
+
+        "Ukunda",
+
+        "Wundanyi",
+
+        "Busia",
+
+        "Runyenjes",
+
+        "Migori",
+
+        "Malava",
+
+        "Suneka",
+
+        "Embu",
+
+        "Ogembo",
+
+        "Homa-Bay",
+
+        "Lodwar",
+
+        "Kitengela",
+
+        "Ukwala",
+
+        "Keroka",
+
+        "Matuu",
+
+        "Oyugis",
+
+        "Nyahururu",
+
+        "Kipkelion",
+
+        "Luanda",
+
+        "Nanyuki",
+
+        "Maua",
+
+        "Mtwapa",
+
+        "Isiolo",
+
+        "Eldama-Ravine",
+
+        "Voi",
+
+        "Siaya",
+
+        "Nyansiongo",
+
+        "Londiani",
+
+        "Iten/Tambach",
+
+        "Chuka",
+
+        "Malakisi",
+
+        "Juja",
+
+        "Ongata-Rongai",
+
+        "Bondo",
+
+        "Moyale",
+
+        "Maralal",
+
+        "Gilgil",
+
+        "Nambale",
+
+        "Tabaka",
+
+        "Muhoroni",
+
+        "Kerugoya/Kutus"
+
+      ]
+    },
+
+    {
+      "Country": "Lesotho",
+      "CountryCode": "LS",
+      "Cities": [
+        "Maseru",
+
+        "Teyateyaneng",
+
+        "Mafeteng",
+
+        "Hlotse",
+
+        "Mohale's-Hoek",
+
+        "Maputsoe",
+
+        "Qacha's-Nek",
+
+        "Quthing",
+
+        "Butha-Buthe",
+
+        "Mokhotlong",
+
+        "Thaba-Tseka"
+      ]
+    },
+
+
+    {
+      "Country": "Liberia",
+      "CountryCode": "LR",
+      "Cities": [
+        "Arthington",
+        "Barclayville",
+        "Bensonville",
+        "Brewerville",
+        "Bopolu",
+        "Buchanan",
+        "Buutuo",
+        "Caldwell",
+        "Careysburg",
+        "Clay-Ashland",
+        "Edina",
+        "Fish Town",
+        "Ganta",
+        "Gbarnga",
+        "Greenville",
+        "Harbel",
+        "Harper",
+        "Kakata",
+        "Monrovia (capital)",
+        "Marshall",
+        "Paynesville",
+        "Pleebo",
+        "River-Cess",
+        "Robertsport",
+        "Sacleipea",
+        "Sanniquellie",
+        "Tubmanburg",
+        "Tuzon",
+        "Virginia",
+        "Voinjama",
+        "Yekepa",
+        "Zorzor",
+        "Zwedru"
+      ]
+    },
+
+
+    {
+      "Country": "Libya",
+      "CountryCode": "LY",
+      "Cities": [
+        "Tripoli",
+
+        "Benghazi",
+
+        "Misrata",
+
+        "Zawiya",
+
+        "Bayda",
+
+        "Gharyan",
+
+        "Tobruk",
+
+        "Ajdabiya",
+
+        "Zliten",
+
+        "Derna",
+
+        "Sabha",
+
+        "Khoms",
+
+        "Sabratha",
+
+        "Zuwara",
+
+        "Kufra",
+
+        "Marj",
+
+        "Tocra",
+
+        "Tarhuna",
+
+        "Sirte",
+
+        "Gharyan",
+
+        "Msallata",
+
+        "Bani-Walid",
+
+        "Jumayl",
+
+        "Sorman",
+
+        "Al-Gseibat",
+
+        "Shahhat",
+
+        "Ubari أوباري",
+
+        "Asbi'a / الأصابعة",
+
+        "Jadid",
+
+        "Waddan ودان",
+
+        "El-Agheila العقيلة",
+
+        "Abyar الأبيار",
+
+        "Nofaliya النوفلية",
+
+        "Regdalin رقدالين",
+
+        "Gasr-Akhyar",
+
+        "Al Qubah القبة",
+
+        "Tawergha تاورغاء",
+
+        "Al-Maya",
+
+        "Murzuk مرزق",
+
+        "Brega",
+
+        "Teghsat",
+
+        "Hun",
+
+        "Jalu",
+
+        "Ajaylat",
+
+        "Nalut",
+
+        "Suluq",
+
+        "Shuhada'al-Buerat",
+
+        "Zaltan"
+      ]
+    },
+
+
+    {
+      "Country": "Madagascar",
+      "CountryCode": "MG",
+      "Cities": [
+        "Antananarivo",
+
+        "Antsirabe",
+
+        "Antsiranana",
+
+        "Fianarantsoa",
+
+        "Mahajanga",
+
+        "Toamasina",
+
+        "Toliara",
+
+        "Ambalavao",
+
+        "Ambanja",
+
+        "Ambatoboeny(Ambato-Boeny)",
+
+        "Ambatofinandrahana",
+
+        "Ambatolampy",
+
+        "Ambatomainty",
+
+        "Ambatondrazaka",
+
+        "Ambenja",
+
+        "Ambilobe",
+
+        "Amboasary",
+
+        "Ambohidratrimo",
+
+        "Ambohimahamasina",
+
+        "Ambohimahasoa",
+
+        "Ambositra",
+
+        "Ampanihy",
+
+        "Amparafaravola",
+
+        "Analalava",
+
+        "Andapa",
+
+        "Andilamena",
+
+        "Andramasina",
+
+        "Anjozorobe",
+
+        "Ankazoabo",
+
+        "Ankazobe",
+
+        "Anosibe-An'ala",
+
+        "Antalaha",
+
+        "Antanambao-Manampotsy",
+
+        "Antanifotsy",
+
+        "Antsalova",
+
+        "Antsirambazaha(Andoany Hell-Ville) Nosy Be(Nossi-bé)",
+
+        "Antsohihy",
+
+        "Arivonimamo",
+
+        "Bealanana",
+
+        "Befandriana-Avaratra (Befandriana Nord)",
+
+        "Befotaka",
+
+        "Bekily",
+
+        "Beloha",
+
+        "Belo-Tsiribihina(Belon'i-Tsiribihina,Belo-sur-Tsiribihina)",
+
+        "Benenitra",
+
+        "Beroroha",
+
+        "Besalampy",
+
+        "Betafo",
+
+        "Betioky",
+
+        "Betroka",
+
+        "Boriziny(Port-Bergé)",
+
+        "Fandriana",
+
+        "Farafangana",
+
+        "Faratsiho",
+
+        "Fenoarivo(Fenoarivobe ,Fenoarivo Be FenoarivoAfovoany)",
+
+        "Fenoarivo-Atsinanana-(Fénérive-Est)",
+
+        "Iakora",
+
+        "Ifanadiana",
+
+        "Ihosy",
+
+        "Ikalamavony",
+
+        "Ikongo",
+
+        "Ivohibe",
+
+        "Kandreho",
+
+        "Maevatanana",
+
+        "Mahabo",
+
+        "Mahanoro",
+
+        "Maintirano",
+
+        "Mampikony",
+
+        "Manakara-(Manakara Atsimo)",
+
+        "Mananara-Avaratra(Mananara Nord)",
+
+        "Manandriana",
+
+        "Mananjary",
+
+        "Mandritsara",
+
+        "Manja",
+
+        "Manjakandriana",
+
+        "Maroantsetra",
+
+        "Marolambo",
+
+        "Marovoay",
+
+        "Miarinarivo",
+
+        "Miandrivazo",
+
+        "Midongy-Atsimo(Midongy Sud)",
+
+        "Mitsinjo",
+
+        "Morafenobe",
+
+        "Moramanga",
+
+        "Morombe",
+
+        "Morondava",
+
+        "Nosy-Varika",
+
+        "Sainte-Marie-(Nosy-Boraha)",
+
+        "Sakaraha",
+
+        "Sambava",
+
+        "Soalala",
+
+        "Soanierana-Ivongo",
+
+        "Soavinandriana",
+
+        "Tôlanaro(Tolagnaro Tola'aro, Faradofay)",
+
+        "Tsaratanana",
+
+        "Tsiombe",
+
+        "Tsiroanomandidy",
+
+        "Vangaindrano",
+
+        "Vatomandry",
+
+        "Vavatenina",
+
+        "Vohemar(Vohémar)",
+
+        "Vohibinany-(Ampasimanolotra-Brickaville)",
+
+        "Vohipeno",
+
+        "Vondrozo"
+
+
+
+
+      ]
+    },
+
+
+    {
+      "Country": "Malawi",
+      "CountryCode": "MW",
+      "Cities": [
+        "Chitipa",
+        "Chilumba",
+        "Ekwendeni",
+        "Karonga",
+        "Likoma",
+        "Livingstonia",
+        "Mzimba",
+        "Mzuzu",
+        "Nkhata Bay",
+        "Rumphi",
+        "Chintheche",
+        "Embangweni",
+        "Aaron",
+        "Chipoka",
+        "Dedza",
+        "Dowa",
+        "Kasungu",
+        "Lilongwe",
+        "Mchinji",
+        "Mponela",
+        "Mua",
+        "Namitete",
+        "Madisi",
+        "Nkhotakota",
+        "Nkhoma",
+        "Ntcheu",
+        "Ntchisi",
+        "Salima",
+        "Balaka",
+        "Bangula",
+        "Blantyre",
+        "Chikwawa",
+        "Chiradzulu",
+        "Chiwembe",
+        "Domasi",
+        "Limbe",
+        "Liwonde",
+        "Luchenza",
+        "Machinga",
+        "Malosa",
+        "Mangochi",
+        "Marka",
+        "Monkey Bay",
+        "Mulanje",
+        "Njata",
+        "Nkaya",
+        "Nsanje",
+        "Phalombe",
+        "Thyolo",
+        "Zalewa",
+        "Zomba"
+      ]
+    },
+
+
+
+    {
+      "Country": "Mali",
+      "CountryCode": "ML",
+      "Cities": [
+
+        "Baguineda-Camp",
+
+        "Bamako",
+
+        "Bla",
+
+        "Bougouni",
+
+        "Gao",
+
+        "Kadiolo",
+
+        "Kalabancoro",
+
+        "Kaladougou",
+
+        "Kati",
+
+        "Kayes",
+
+        "Kolokani",
+
+        "Kolondiéba",
+
+        "Koro",
+
+        "Koumantou",
+
+        "Koury",
+
+        "Koutiala",
+
+        "Mandé",
+
+        "Massigui",
+
+        "Mopti",
+
+        "Niono",
+
+        "Ouelesse-bougou",
+
+        "Pelengana",
+
+        "San",
+
+        "Ségou",
+
+        "Sikasso",
+
+        "Tombouctou",
+
+        "Tonka",
+
+        "Wassoulou-Balle",
+
+        "Bandiagara",
+
+        "Bourem",
+
+        "Diré",
+
+        "Djenné",
+
+        "Douentza",
+
+        "Fatao",
+
+        "Fégui",
+
+        "Goundam",
+
+        "Karan",
+
+        "Kidal",
+
+        "Kita",
+
+        "Koulikoro",
+
+        "Kouniakary",
+
+        "Kourounikoto",
+
+        "Nioro",
+
+        "Somankidi",
+
+        "Ténenkou",
+
+        "Toya",
+
+        "Troungoumbé",
+
+        "Youri"
+
+
+
+
+
+      ]
+    },
+
+
+
+
+    {
+      "Country": "Mauritana",
+      "CountryCode": "MR",
+      "Cities": [
+        "Nouakchott",
+
+        "Nouadhibou",
+
+        "Kiffa",
+
+        "Mbera Refugee Camp",
+
+        "Kaédi",
+
+        "Zouérat",
+
+        "Rosso",
+
+        "Sélibabi",
+
+        "Boû Gâdoûm",
+
+        "Boutilimit",
+
+        "Atar",
+
+        "Bareina",
+
+        "Ghabou",
+
+        "Hamoud",
+
+        "Mâl",
+
+        "Nbeika",
+
+        "Gouraye",
+
+        "Timbedra",
+
+        "Magta-Lahjar",
+
+        "Guerou",
+
+        "Soudoud",
+
+        "Sélibaby",
+
+        "Foum-Gleita",
+
+        "Legceïba",
+
+        "Bousteila",
+
+        "Sangrave",
+
+        "Tintane",
+
+        "Néma",
+
+        "Aleg",
+
+        "Tidjikdja",
+
+        "Oualata",
+
+        "Ayoûn-el-Atroûs"
+      ]
+    },
+
+
+    {
+      "Country": "Mauritius",
+      "CountryCode": "MU",
+      "Cities": [
+        "Port Louis",
+
+        " Vacoas-Phoenix",
+
+        "Beau Bassin-Rose Hill",
+
+        "Curepipe",
+
+        "Quatre Bornes",
+
+        "Villages Albion",
+
+        "Amaury",
+
+        "Amitié-Gokhoola",
+
+        "Anse La Raie",
+
+        "Arsenal",
+
+        "Baie du Cap",
+
+        "Baie du Tombeau",
+
+        "Bambous",
+
+        "Bambous Virieux",
+
+        "Bananes",
+
+        "Beau Vallon",
+
+        "Bel Air Rivière Sèche",
+
+        "Bel Ombre",
+
+        "Belle Vue Haurel",
+
+        "Bénarès",
+
+        "Bois Chéri",
+
+        "Bois des Amourettes",
+
+        "Bon Accueil",
+
+        "Bramsthan",
+
+        "Brisée Verdière",
+
+        "Britannia",
+
+        "Calebasses",
+
+        "Camp Carol",
+
+        "Camp de Masque",
+
+        "Camp de Masque Pavé",
+
+        "Camp Diable",
+
+        "Camp Ithier",
+
+        "Camp Thorel",
+
+        "Cap Malheureux",
+
+        "Cascavelle",
+
+        "Case Noyale",
+
+        "Centre de Flacq",
+
+        "Chamarel",
+
+        "Chamouny",
+
+        "Chemin Grenier",
+
+        "Clémencia",
+
+        "Cluny",
+
+        "Congomah",
+
+        "Cottage",
+
+        "Crève Coeur",
+
+        "D'Épinay",
+
+        "Dagotière",
+
+        "Dubreuil",
+
+        "Écroignard",
+
+        "Espérance",
+
+        "Espérance Trébuchet",
+
+        "Flic en Flac",
+
+        "Fond du Sac",
+
+        "Goodlands",
+
+        "Grand Baie",
+
+        "Grand Bel Air",
+
+        "Grand Bois",
+
+        "Grand Gaube",
+
+        "Grand Sable",
+
+        "Grande Retraite",
+
+        "Grande Rivière Noire",
+
+        "Grande Rivière Sud Est",
+
+        "Gros Cailloux",
+
+        "L'Avenir",
+
+        "L'Escalier",
+
+        "La Flora",
+
+        "La Gaulette",
+
+        "La Laura-Malenga",
+
+        "Lalmatie",
+
+        "Laventure",
+
+        "Le Hochet",
+
+        "Le Morne",
+
+        "Le Vale",
+
+        "Mahébourg",
+
+        "Mapou",
+
+        "Mare Chicose",
+
+        "Mare d'Albert",
+
+        "Mare La Chaux",
+
+        "Mare Tabac",
+
+        "Médine Camp de Masque",
+
+        "Melrose",
+
+        "Midlands",
+
+        "Moka",
+
+        "Montagne Blanche",
+
+        "Montagne Longue",
+
+        "Morcellement Saint André",
+
+        "New Grove",
+
+        "Notre Dame",
+
+        "Nouvelle Découverte",
+
+        "Nouvelle France",
+
+        "Olivia",
+
+        "Pailles",
+
+        "Pamplemousses",
+
+        "Petit Bel Air",
+
+        "Petit Raffray",
+
+        "Petite Rivière",
+
+        "Piton",
+
+        "Plaine des Papayes",
+
+        "Plaine des Roches",
+
+        "Plaine Magnien",
+
+        "Pointe aux Piments",
+
+        "Poste de Flacq",
+
+        "Poudre d'Or",
+
+        "Poudre d'Or Hamlet",
+
+        "Providence",
+
+        "Quartier Militaire",
+
+        "Quatre Cocos",
+
+        "Quatre Soeurs",
+
+        "Queen Victoria",
+
+        "Richelieu",
+
+        "Ripailles",
+
+        "Rivière des Anguilles",
+
+        "Rivière des Créoles",
+
+        "Rivière du Poste",
+
+        "Rivière du Rempart",
+
+        "Roche Terre",
+
+        "Roches Noires",
+
+        "Rose Belle",
+
+        "Saint Aubin",
+
+        "Saint Hubert",
+
+        "Saint Julien Village",
+
+        "Saint Julien d'Hotman",
+
+        "Saint Pierre",
+
+        "Sébastopol",
+
+        "Seizième Mille",
+
+        "Souillac",
+
+        "Surinam",
+
+        "Tamarin",
+
+        "Terre Rouge",
+
+        "Triolet",
+
+        "Trois Boutiques",
+
+        "Trou aux Biches",
+
+        "Trou d'Eau Douce",
+
+        "Tyack",
+
+        "Union Park",
+
+        "Vale",
+
+        "Verdun",
+
+        "Vieux GrandPort",
+
+        "Ville Bague"
+
+
+
+      ]
+    },
+
+
+
+    {
+      "Country": "Morocco",
+      "CountryCode": "MA",
+      "Cities": [
+        "Ain Harrouda",
+
+        "Aït",
+        "Melloul",
+
+        "Al Hoceima",
+
+        "Azrou",
+
+        "Ben Guerir",
+
+        "Beni Ansar",
+
+        "Beni Mellal",
+
+        "Benslimane",
+
+        "Berkane",
+
+        "Berrechid",
+
+        "Bouskoura",
+
+        "Casablanca",
+
+
+        "Dar Bouazza",
+
+        "Dcheira El Jihadia",
+
+        "Drargua",
+
+
+        "El Jadida",
+
+        "El Kelaa Des Sraghna",
+
+        "Errachidia",
+
+        "Essaouira",
+
+        "Fez",
+
+
+        "Fnideq",
+
+        "Fquih Ben Salah",
+
+        "Guelmim",
+
+        "Guercif",
+
+        "Inezgane",
+
+        "Kenitra",
+
+        "Khemisset",
+
+        "Khenifra",
+
+        "Khouribga",
+
+        "Ksar El Kebir",
+
+        "Lahraouyine",
+
+        "Larache",
+
+        "Lqliaa",
+
+        "M'diq",
+
+        "Marrakesh",
+
+
+        "Martil",
+
+        "Meknes",
+
+
+        "Midelt",
+
+        "Mohammedia",
+
+        "Nador",
+
+        "Ouarzazate",
+
+        "Ouazzane",
+
+        "Oued Zem",
+
+        "Oujda",
+
+        "Oulad Teima",
+
+        "Rabat",
+
+
+        "Safi",
+
+        "Salé",
+
+
+        "Sefrou",
+
+        "Settat",
+
+        "Sidi Bennour",
+
+        "Sidi Kacem",
+
+        "Sidi Slimane",
+
+        "Skhirat",
+
+        "Souk El Arbaa",
+
+        "Suq as-Sabt Awlad an-Nama",
+
+        "Tan-Tan",
+
+        "Tangier",
+
+
+        "Taourirt",
+
+        "Taroudant",
+
+        "Taza",
+
+        "Temara",
+
+        "Tetouan",
+
+        "Tifelt",
+
+        "Tiznit",
+
+        "Youssoufia"
+
+
+      ]
+    },
+
+
+
+    {
+      "Country": "Mozambique",
+      "CountryCode": "MZ",
+      "Cities": [
+        "Angoche",
+        "Beira",
+        "Bilene",
+        "Catandica",
+        "Chibuto",
+        "Chicualacuala",
+        "Chimoio",
+        "Chinde",
+        "Chokwé",
+        "Cuamba",
+        "Dondo",
+        "Gurúè",
+        "Inhambane",
+        "Lichinga",
+        "Manica",
+        "Maputo (Capital)",
+        "Marracuene",
+        "Matola",
+        "Maxixe",
+        "Moatize",
+        "Moçambique",
+        "Mocímboa da Praia",
+        "Mocuba",
+        "Montepuez",
+        "Mueda",
+        "Naamcha",
+        "Nacala",
+        "Nampula",
+        "Palma",
+        "Pemba",
+        "Ponta d'Ouro",
+        "Quelimane",
+        "Tete",
+        "Vilankulo",
+        "Xai-Xai",
+        "Zavala"
+      ]
+    },
+
+
+    {
+      "Country": "Namibia",
+      "CountryCode": "NA",
+      "Cities": [
+        "Gobabis",
+
+        "Grootfontein",
+
+        "Henties",
+        "Bay",
+
+        "Keetmanshoop",
+
+        "Mariental",
+
+        "Okahandja",
+
+        "Omaruru",
+
+        "Otjiwarongo",
+
+        "Outjo",
+
+        "Swakopmund",
+
+        "Tsumeb",
+
+        "Walvis-Bay",
+
+        "Windhoek",
+
+        "Arandis",
+
+        "Aranos",
+
+        "Eenhana",
+
+        "Helao Nafidi",
+
+        "Karasburg",
+
+        "Karibib",
+
+        "Katima Mulilo",
+
+        "Khorixas",
+
+        "Lüderitz",
+
+        "Nkurenkuru",
+
+        "Okahao",
+
+        "Okakarara",
+
+        "Omuthiya",
+
+        "Ondangwa",
+
+        "Ongwediva",
+
+        "Oniipa",
+
+        "Opuwo",
+
+        "Oranjemund",
+
+        "Oshakati",
+
+        "Oshikuku",
+
+        "Otavi",
+
+        "Outapi",
+
+        "Rehoboth",
+
+        "Ruacana",
+
+        "Rundu",
+
+        "Usakos"
+
+
+
+
+      ]
+    },
+
+
+    {
+      "Country": "Niger",
+      "CountryCode": "NE",
+      "Cities": [
+        "Abala",
+
+        "Abalak",
+
+        "Agadez",
+
+        "Aguié",
+
+        "Arlit",
+
+        "Ayourou",
+
+        "Balléyara",
+
+        "Birni Ngaouré",
+
+        "Birni Nkonni",
+
+        "Bouza",
+
+        "Dakoro",
+
+        "Diffa",
+
+        "Dogondoutchi",
+
+        "Dosso",
+
+        "Filingué",
+
+        "Gaya",
+
+        "Gazaoua",
+
+        "Gouré",
+
+        "Guidan Roumji",
+
+        "Illéla",
+
+        "Keita",
+
+        "Kollo",
+
+        "Madaoua",
+
+        "Madarounfa",
+
+        "Magaria",
+
+        "Maïné-Soroa",
+
+        "Maradi",
+
+        "Matameye",
+
+        "Mayahi",
+
+        "Mirria",
+
+        "Nguigmi",
+
+        "Niamey",
+
+        "Ouallam",
+
+        "Say",
+
+        "Tahoua",
+
+        "Tânout",
+
+        "Tchintabaraden",
+
+        "Téra",
+
+        "Tessaoua",
+
+        "Tibiri",
+
+        "Tillabéri",
+
+        "Torodi",
+
+        "Zinder"
+
+
+
+      ]
+    },
+
+
+    {
+      "Country": "Nigeria",
+      "CountryCode": "NG",
+      "Cities": [
+        "Aba",
+        "Abakaliki",
+        "Abeokuta",
+        "Abonnema",
+        "Abuja",
+        "Ado Ekiti",
+        "Afikpo",
+        "Akpawfu",
+        "Akure",
+        "Asaba",
+        "Awgu",
+        "Awka",
+        "Bauchi",
+        "Batagarawa",
+        "Benin City",
+        "Bida",
+        "Birnin Kebbi",
+        "Buguma",
+        "Calabar",
+        "Damaturu",
+        "Dutse",
+        "Ede",
+        "Eket",
+        "Enugu",
+        "Gombe",
+        "Gusau",
+        "Ibadan",
+        "Ife",
+        "Ikeja",
+        "Ikirun",
+        "Ikot-Abasi",
+        "Ikot Ekpene",
+        "Ilorin",
+        "Iwo",
+        "Jalingo",
+        "Jebba",
+        "Jimeta",
+        "Jos",
+        "Kabba",
+        "Kaduna",
+        "Kano",
+        "Katsina",
+        "Karu",
+        "Kontagora",
+        "Kutigi",
+        "Kumariya",
+        "Lafia",
+        "Lagos",
+        "Lekki",
+        "Lokoja",
+        "Maiduguri",
+        "Makurdi",
+        "Minna",
+        "Nnewi",
+        "Nsukka",
+        "Offa",
+        "Ogbomoso",
+        "Onitsha",
+        "Okene",
+        "Ogaminana",
+        "Omu-Aran",
+        "Ondo City",
+        "Oron",
+        "Oshogbo",
+        "Owerri",
+        "Owo",
+        "Orlu",
+        "Oyo",
+        "Port Harcourt",
+        "Potiskum",
+        "Sokoto",
+        "Suleja",
+        "Umuahia",
+        "Uyo",
+        "Warri",
+        "Wukari",
+        "Yenagoa",
+        "Yola",
+        "Zaria"
+
+      ]
+    },
+
+
+    {
+      "Country": "Republic of congo",
+      "CountryCode": "CG",
+      "Cities": [
+        "Brazzaville",
+
+        "Pointe-Noire",
+
+        "Dolisie",
+
+        "Nkayi",
+
+        "Kindamba",
+
+        "Impfondo",
+
+        "Ouésso",
+
+        "Madingou",
+
+        "Owando",
+
+        "Sibiti",
+
+        "Loutété",
+
+        "Bouansa",
+
+        "Gamboma",
+
+        "Mossaka",
+
+        "Mindouli",
+
+        "Oyo",
+
+        "Makoua",
+
+        "Loudima",
+
+        "Mossendjo",
+
+        "Mouyondzi",
+
+        "Bétou",
+
+        "Djambala",
+
+        "Pokola",
+
+        "Ngo",
+
+        "Makabana",
+
+        "Kinkala",
+
+        "Ewo",
+
+        "Etoumbi",
+
+        "Boundji",
+
+        "Dongou",
+
+        "Komono",
+
+        "Kellé",
+
+        "Enyellé",
+
+        "Tchiamba-Nzassi",
+
+        "Ollombo",
+
+        "Loukoléla",
+
+        "Sembé",
+
+        "Mbinda",
+
+        "Zanaga",
+
+        "Lekana"
+
+
+
+      ]
+    },
+
+
+
+    {
+      "Country": "Rwanda",
+      "CountryCode": "RW",
+      "Cities": [
+        "Kigali (capital)",
+        "Kicukiro",
+        "Rutongo",
+        "Kacyiru",
+        "Huye (provincial capital)",
+        "Muhanga",
+        "Kamonyi",
+        "Ruhango",
+        "Butare",
+        "Gisagara",
+        "Nyaruguru",
+        "Nyamagabe",
+        "Nyanza",
+        "Byumba (provincial capital)",
+        "Ruhengeri",
+        "Kibuye (provincial capital)",
+        "Cyangugu",
+        "Gisenyi",
+        "Rwamagana (provincial capital)",
+        "Kibungo"
+
+      ]
+    },
+
+    {
+      "Country": "Sao Tome and Principle",
+      "CountryCode": "ST",
+      "Cities": [
+        "São Tomé (capital)",
+
+        "Santo Amaro",
+
+        "Neves",
+
+        "Santana",
+
+        "Trindade",
+
+        "Santa Cruz",
+
+        "Pantufo",
+
+        "Guadalupe",
+
+        "Santo António",
+
+        "Santa Catarina",
+
+        "Porto Alegre"
+      ]
+    },
+
+
+    {
+      "Country": "Senegal",
+      "CountryCode": "SN",
+      "Cities": [
+
+        "Dakar",
+
+        "Touba",
+
+        "Thiès",
+
+        "Rufisque",
+
+        "Kaolack",
+
+        "M'Bour",
+
+        "Ziguinchor",
+
+        "Saint-Louis",
+
+        "Diourbel",
+
+        "Louga",
+
+        "Tambacounda",
+
+        "Richard Toll",
+
+        "Kolda",
+
+        "Mbacké",
+
+        "Tivaouane",
+
+        "Joal-Fadiouth",
+
+        "Kaffrine",
+
+        "Dahra",
+
+        "Bignona",
+
+        "Fatick",
+
+        "Dagana",
+
+        "Bambey",
+
+        "Vélingara",
+
+        "Sédhiou",
+
+        "Sébikhotane",
+
+        "Kédougou",
+
+        "Nguékhokh",
+
+        "Kayar",
+
+        "Pout",
+
+        "Mékhé",
+
+        "Matam",
+
+        "Ouro Sogui",
+
+        "Nioro du Rip",
+
+        "Kébémer",
+
+        "Koungheul",
+
+        "Guinguinéo",
+
+        "Bakel",
+
+        "Mboro",
+
+        "Linguère",
+
+        "Sokone",
+
+        "Goudomp",
+
+        "Thiadiaye",
+
+        "Ndioum",
+
+        "Diamniadio",
+
+        "Khombole",
+
+        "Gossas",
+
+        "Kanel"
+
+
+      ]
+    },
+
+
+    {
+      "Country": "Seychelles",
+      "CountryCode": "SC",
+      "Cities": [
+        "Anse Boileau",
+        "Beau Vallon",
+        "Takamaka",
+        "Victoria (capital and largest city)",
+        "Grand Anse Mahe"
+
+      ]
+    },
+
+
+    {
+      "Country": "Sierra Leone",
+      "CountryCode": "SL",
+      "Cities": [
+
+        "Freetown",
+
+        "Kenema",
+
+        "Bo",
+
+        "Koidu",
+
+        "Makeni",
+
+        "Waterloo",
+
+        "Port Loko",
+        "Wangechi",
+        "Kalewa",
+        "Magburaka",
+        "Kabala",
+        "Moyamba",
+        "Kailahun",
+        "Bonthe",
+        "Kambia",
+        "Alikalia",
+        "Binkolo",
+        "Daru",
+        "Falaba",
+        "Gbinti",
+        "Kamakwie",
+        "Kaima",
+        "Koindu",
+        "Lungi",
+        "Lunsar",
+        "Madina",
+        "Mange",
+        "Mano",
+        "Matru",
+        "Momaligi",
+        "Njala",
+        "Pepel",
+        "Pendembu",
+        "Shenge",
+        "Sulima",
+        "Sumbaria",
+        "Taiama",
+        "Tongo",
+        "Tumbu",
+        "Worodu",
+        "Yana",
+        "Yele",
+        "Yengema",
+        "Yonibana"
+
+
+      ]
+    },
+
+
+
+    {
+      "Country": "Somalia",
+      "CountryCode": "SO",
+      "Cities": [
+        "Baraawe",
+        "Buurhakaba",
+        "Eyl",
+        "Bandarbeyla",
+        "Buur",
+        "Gaabo",
+        "Garoowe",
+        "Marka",
+        "Xuddur",
+        "Bu’aale",
+        "Dhuusamarreeb",
+        "Boorama",
+        "Hargeysa",
+        "Burco",
+        "Laascaanood",
+        "Ceerigaabo",
+        "Afgooye",
+        "Qoryooley",
+        "Lughaye",
+        "Laasqoray",
+        "Hobyo"
+
+      ]
+    },
+
+
+
+    {
+      "Country": "South Africa",
+      "CountryCode": "ZA",
+      "Cities": [
+        "Alice",
+        "Butterworth",
+        "East London",
+        "Graaff-Reinet",
+        "Grahamstown",
+        "King William’s Town",
+        "Mthatha",
+        "Port Elizabeth",
+        "Queenstown",
+        "Uitenhage",
+        "Zwelitsha",
+        "Bethlehem",
+        "Bloemfontein",
+        "Jagersfontein",
+        "Kroonstad",
+        "Odendaalsrus",
+        "Parys",
+        "Phuthaditjhaba",
+        "Sasolburg",
+        "Virginia",
+        "Welkom",
+        "Benoni",
+        "Boksburg",
+        "Brakpan",
+        "Carletonville",
+        "Germiston",
+        "Johannesburg",
+        "Krugersdorp",
+        "Pretoria",
+        "Randburg",
+        "Randfontein",
+        "Roodepoort",
+        "Soweto",
+        "Springs",
+        "Vanderbijlpark",
+        "Vereeniging",
+        "Durban",
+        "Empangeni",
+        "Ladysmith",
+        "Newcastle",
+        "Pietermaritzburg",
+        "Pinetown",
+        "Ulundi",
+        "Umlazi",
+        "Giyani",
+        "Lebowakgomo",
+        "Musina",
+        "Phalaborwa",
+        "Polokwane",
+        "Seshego",
+        "Sibasa",
+        "Thabazimbi",
+        "Emalahleni",
+        "Nelspruit",
+        "Secunda",
+        "Klerksdorp",
+        "Mahikeng",
+        "Mmabatho",
+        "Potchefstroom",
+        "Rustenburg",
+        "Kimberley",
+        "Kuruman",
+        "Port",
+        "Nolloth",
+        "Bellville",
+        "Cape Town",
+        "Constantia",
+        "George",
+        "Hopefield",
+        "Oudtshoorn",
+        "Paarl",
+        "Simon’s Town",
+        "Stellenbosch",
+        "Swellendam",
+        "Worcester"
+      ]
+    },
+
+
+
+    {
+      "Country": "South Sudan",
+      "CountryCode": "SS",
+      "Cities": [
+        "Abyei",
+
+        "Akobo",
+
+        "Aweil",
+
+        "Bentiu (Bantiu)",
+
+        "Bor",
+
+        "Juba",
+
+        "Kuajok",
+
+        "Malakal",
+
+        "Nimule",
+
+        "Rumbek",
+
+        "Tonj",
+
+        "Torit",
+
+        "Wau",
+
+        "Yambio",
+
+        "Yei",
+
+        "Yirol"
+      ]
+    },
+
+
+
+    {
+      "Country": "Sudan",
+      "CountryCode": "SD",
+      "Cities": [
+        "Khartoum",
+        "Omdurman",
+        "Nyala",
+        "Port Sudan",
+        "Kassala",
+        "El Obeid",
+        "Al Qadarif",
+        "Kosti",
+        "Wad Medani",
+        "El Daein",
+        "El Fasher",
+        "Singa",
+        "Ad-Damazin",
+        "Geneina",
+        "Rabak",
+        "Sinnar",
+        "Al Manaqil",
+        "Gereida",
+        "An Nuhud",
+        "Atbara",
+        "Ed Damer",
+        "Kadugli",
+        "Ad Douiem",
+        "Umm Ruwaba",
+        "Shendi",
+        "Dilling",
+        "As Suki",
+        "Ar Ruseris",
+        "Al Hasaheisa",
+        "Maiurno",
+        "Zalingei",
+        "Sawakin",
+        "Tandalti",
+        "Ar Rahad",
+        "Kinana",
+        "Al Hawatah",
+        "Berber",
+        "Tokar",
+        "Abu Jibeha",
+        "Al Mijlad",
+        "Doka",
+        "Kuraymah",
+        "El Bauga",
+        "Al Qitena",
+        "Al Hilaliyya",
+        "Barah",
+        "Abu Zabad",
+        "Ad Dindar",
+        "Dongola",
+        "Talodi",
+        "Aroma",
+        "Marabba",
+        "Wagar",
+        "Ad Dabbah",
+        "El Matama",
+        "Al Fulah",
+        "Gebeit",
+        "Al Lagowa",
+        "Umm Kaddadah",
+        "Kurmuk",
+        "Wad Rawah",
+        "Merowe",
+        "Al Kawa",
+        "Kutum",
+        "Al Kiremit al`Arakiyyin",
+        "Jalqani",
+        "Al Masallamiyya",
+        "Wad az Zaki",
+        "Um Jar Al Gharbiyya",
+        "Argo",
+        "Karmah an Nuzul",
+        "Najaru qryt njrw",
+        "Nagaro"
+
+
+      ]
+    },
+
+
+    {
+      "Country": "Tanzania",
+      "CountryCode": "TZ",
+      "Cities": [
+        "Arusha",
+
+        "Babati",
+
+        "Bukoba",
+
+        "Dar es Salaam",
+
+        "Dodoma",
+
+        "Handeni",
+
+        "Iringa",
+
+        "Kahama",
+
+        "Kasulu",
+
+        "Kibaha",
+
+        "Kigoma",
+
+        "Korogwe",
+
+        "Lindi",
+
+        "Mafinga",
+
+        "Makambako",
+
+        "Mbeya",
+
+        "Morogoro",
+
+        "Moshi",
+
+        "Mpanda",
+
+        "Mtwara",
+
+        "Musoma",
+
+        "Mwanza",
+
+        "Nansio",
+
+        "Njombe",
+
+        "Shinyanga",
+
+        "Singida",
+
+        "Songea",
+
+        "Sumbawanga",
+
+        "Tabora",
+
+        "Tanga",
+
+        "Tunduma",
+
+        "Zanzibar City"
+
+
+      ]
+    },
+
+
+
+    {
+      "Country": "Togo",
+      "CountryCode": "TG",
+      "Cities": [
+        "Amlamé",
+
+        "Aného",
+
+        "Atakpamé",
+
+        "Badou",
+
+        "Bafilo",
+
+        "Bassar",
+
+        "Biankouri",
+
+        "Dapaong",
+
+        "Galangachi",
+
+        "Kandé",
+
+        "Kara",
+
+        "Kpagouda",
+
+        "Kpalimé",
+
+        "Lomé",
+
+        "Mango",
+
+        "Niamtougou",
+
+        "Notsé",
+
+        "Sokodé",
+
+        "Sotouboua",
+
+        "Tabligbo",
+
+        "Tchamba",
+
+        "Tsévié",
+
+        "Vogan"
+
+
+      ]
+    },
+
+
+    {
+      "Country": "Tunisia",
+      "CountryCode": "TN",
+      "Cities": [
+        "Tunis",
+        "Sfax",
+        "Sousse",
+        "Kairouan",
+        "Métouia",
+        "Kebili",
+        "Bizerte",
+        "Sidi Bouzid",
+        "Gabès",
+        "Ariana",
+        "Jendouba",
+        "Gafsa",
+        "Msaken",
+        "Medenine",
+        "Béja",
+        "Kasserine",
+        "Monastir",
+        "Hammamet",
+        "Tataouine",
+        "La Marsa",
+        "Ben Arous",
+        "Sakiet ez Zit",
+        "Zarzis",
+        "Ben Gardane",
+        "Mahdia",
+        "Houmt Souk",
+        "Fouchana",
+        "Le Kram",
+        "Le Bardo",
+        "El Kef",
+        "El Hamma",
+        "Nabeul",
+        "Djemmal",
+        "Korba",
+        "Menzel Temime",
+        "Ghardimaou",
+        "Menzel Bourguiba",
+        "Radès",
+        "Manouba",
+        "Kélibia",
+        "Rass el Djebel",
+        "Tebourba",
+        "El Jem",
+        "Douz",
+        "Hammam Sousse",
+        "Hammam-Lif",
+        "Sbiba",
+        "Sejenane",
+        "Tozeur",
+        "Dar Chabanne",
+        "Aïne Draham",
+        "Bou Salem",
+        "Ez Zahra",
+        "Skhira",
+        "Akouda",
+        "Mateur",
+        "Rhennouch",
+        "Dahmani",
+        "El Alia",
+        "Siliana",
+        "Zaghouan"
+
+      ]
+    },
+
+
+    {
+      "Country": "Uganda",
+      "CountryCode": "UG",
+      "Cities": [
+        "Kampala",
+        "Mbale",
+        "Arua",
+        "Tororo",
+        "Gulu",
+        "Lira",
+        "Mbarara",
+        "Bombo",
+        "Jinja",
+        "Entebbe",
+        "Kasese",
+        "Masaka",
+        "Kitgum",
+        "Busia",
+        "Iganga",
+        "Kabale",
+        "Fort Portal",
+        "Mityana",
+        "Adjumani",
+        "Masindi",
+        "Pallisa",
+        "Nebbi",
+        "Moyo",
+        "Kayunga",
+        "Mubende",
+        "Pakwach",
+        "Ntungamo",
+        "Kiboga",
+        "Sironko",
+        "Kumi",
+        "Kisoro",
+        "Kamuli",
+        "Mpigi",
+        "Katakwi",
+        "Nakasongola",
+        "Kalangala",
+        "Kaberamaido",
+        "Kaabong",
+        "Soroti",
+        "Moroto",
+        "Koboko",
+        "Bugiri",
+        "Kapchorwa",
+        "Bundibugyo",
+        "Hoima",
+        "Mukono",
+        "Yumbe",
+        "Kasaali",
+        "Bududa",
+        "Wakiso",
+        "Lyantonde",
+        "Mayuge",
+        "Bulambuli",
+        "Maracha",
+        "Luwero",
+        "Namayingo",
+        "Luuka",
+        "Town",
+        "Kibuku",
+        "Bupoto",
+        "Apac",
+        "Rubirizi",
+        "Busesa",
+        "Buikwe",
+        "Kagadi",
+        "Bushenyi",
+        "Kaliro",
+        "Butebo",
+        "Namutumba",
+        "Manafwa",
+        "Ibanda",
+        "Rukungiri",
+        "Gombe",
+        "Kyenjojo",
+        "Mitoma",
+        "Kalungu",
+        "Bukomansimbi",
+        "Rubanda",
+        "Butaleja",
+        "Serere",
+        "Amuria",
+        "Nsiika",
+        "Kibiito",
+        "Kibingo",
+        "Bukedea",
+        "Ntara",
+        "Binyin",
+        "Mparo",
+        "Kinoni",
+        "Kole",
+        "Zombo",
+        "Rakai",
+        "Lwengo",
+        "Bukwo",
+        "Kasanda",
+        "Dokolo",
+        "Kamwenge",
+        "Ngora",
+        "Alebtong",
+        "Kanungu",
+        "Kanoni",
+        "Oyam",
+        "Sembabule",
+        "Kakumiro",
+        "Buyende",
+        "Kalaki",
+        "Isingiro",
+        "Kyegegwa",
+        "Butalangu",
+        "Amolatar",
+        "Lamwo",
+        "Palenga",
+        "Kotido",
+        "Pader",
+        "Agago",
+        "Bulisa",
+        "Amudat",
+        "Nabilatuk",
+        "Napak",
+        "Kiryandongo",
+        "Kiruhura",
+        "Abim",
+        "Ntoroko",
+        "Otuke",
+        "Amuru",
+        "Nakapiripirit",
+        "Kyankwanzi",
+        "Nwoya",
+        "Kitamilo",
+        "Kisoro",
+        "Kamuli",
+        "Mpigi",
+        "Katakwi",
+        "Nakasongola",
+        "Kalangala",
+        "Kaberamaido",
+        "Kaabong",
+        "Soroti",
+        "Moroto",
+        "Koboko",
+        "Bugiri",
+        "Kapchorwa",
+        "Bundibugyo",
+        "Hoima",
+        "Mukono",
+        "Yumbe",
+        "Kasaali",
+        "Bududa",
+        "Wakiso",
+        "Lyantonde",
+        "Mayuge",
+        "Bulambuli",
+        "Maracha",
+        "Luwero",
+        "Namayingo",
+        "Luuka Town",
+        "Kibuku",
+        "Bupoto",
+        "Apac",
+        "Rubirizi",
+        "Busesa",
+        "Buikwe",
+        "Kagadi",
+        "Bushenyi",
+        "Kaliro",
+        "Butebo",
+        "Namutumba",
+        "Manafwa",
+        "Ibanda",
+        "Rukungiri",
+        "Gombe",
+        "Kyenjojo",
+        "Mitoma",
+        "Kalungu",
+        "Bukomansimbi",
+        "Rubanda",
+        "Butaleja",
+        "Serere",
+        "Amuria",
+        "Nsiika",
+        "Kibiito",
+        "Kibingo",
+        "Bukedea",
+        "Ntara",
+        "Binyin",
+        "Mparo",
+        "Kinoni",
+        "Kole",
+        "Zombo",
+        "Rakai",
+        "Lwengo",
+        "Bukwo",
+        "Kasanda",
+        "Dokolo",
+        "Kamwenge",
+        "Ngora",
+        "Alebtong",
+        "Kanungu",
+        "Kanoni",
+        "Oyam",
+        "Sembabule",
+        "Kakumiro",
+        "Buyende",
+        "Kalaki",
+        "Isingiro",
+        "Kyegegwa",
+        "Butalangu",
+        "Amolatar",
+        "Lamwo",
+        "Palenga",
+        "Kotido",
+        "Pader",
+        "Agago",
+        "Bulisa",
+        "Amudat",
+        "Nabilatuk",
+        "Napak",
+        "Kiryandongo",
+        "Kiruhura",
+        "Abim",
+        "Ntoroko",
+        "Otuke",
+        "Amuru",
+        "Nakapiripirit",
+        "Kyankwanzi",
+        "Nwoya",
+        "Kitamilo"
+
+
+
+
+
+
+      ]
+    },
+
+
+    {
+      "Country": "Western Sahara",
+      "CountryCode": "EH",
+      "Cities": [
+        "Laayoun",
+
+
+        "Ad-Dakhla (Villa Cisneros)",
+
+        "Smara (Semara)",
+
+        "Cape Bojador (Cabo Boujdour)",
+
+        "El Marsa",
+
+
+        "Hawza",
+
+        "Mahbes",
+
+        "Guelta Zemmur",
+
+        "Bir Anzarane",
+
+        "Tichla",
+
+        "Ausert (Auserd Awserd)",
+
+        "El Argoub",
+
+        "Bou Craa",
+
+        "Lemseid",
+
+        "Umm Dreiga",
+
+        "Jdiriya",
+
+        "Farciya",
+
+        "Sebaiera",
+
+        "Chalwa Aridal",
+
+        "As-Sakn",
+
+        "Al Ga'da",
+
+        "Bir Gandus",
+
+        "Guerguerat",
+
+
+        "Amgala",
+
+        "Bir Lehlou",
+
+
+        "Tifariti",
+
+
+        "Meharrize",
+
+        "Zug",
+
+        "Dougaj",
+
+        "Agounit",
+
+        "Mijek (Miyek)",
+
+        "Bir Tiguisit",
+
+        "Lagouira (La Güera La Gouera)"
+
+
+      ]
+    },
+
+
+    {
+      "Country": "Zambia",
+      "CountryCode": "ZM",
+      "Cities": [
+        "Chililabombwe",
+        "Chingola",
+        "Chinsali",
+        "Chipata",
+        "Choma",
+        "Kabwe",
+        "Kafue",
+        "Kalabo",
+        "Kaoma",
+        "Kapiri Mposhi",
+        "Kasama",
+        "Kasempa",
+        "Kawambwa",
+        "Kitwe",
+        "Livingstone",
+        "Luanshya",
+        "Lukulu",
+        "Lundazi",
+        "Lusaka",
+        "Mansa",
+        "Mazabuka",
+        "Mbala",
+        "Mongu",
+        "Mpika",
+        "Mufulira",
+        "Mumbwa",
+        "Mwinilunga",
+        "Nchelenge",
+        "Ndola",
+        "Nyimba",
+        "Senanga",
+        "Sesheke",
+        "Solwezi",
+        "Zambezi"
+
+      ]
+    },
+
+
+    {
+      "Country": "Zimbabwe",
+      "CountryCode": "ZW",
+      "Cities": [
+        "Beitbridge",
+
+        "Bindura",
+
+        "Bulawayo",
+
+        "Chegutu",
+
+        "Chinhoyi",
+
+        "Chipinge",
+
+        "Chiredzi",
+
+        "Chitungwiza",
+
+        "Epworth",
+
+        "Gokwe",
+
+        "Gweru",
+
+        "Harare",
+
+        "Hwange",
+
+        "Kadoma",
+
+        "Kariba",
+
+        "Karoi",
+
+        "Kwekwe",
+
+        "Marondera",
+
+        "Masvingo",
+
+        "Mutare",
+
+        "Norton",
+
+        "Redcliff",
+
+        "Rusape",
+
+        "Ruwa",
+
+        "Shurugwi",
+
+        "Victoria Falls",
+
+        "Zvishavane"
+
+
+      ]
+    }
+  ]
