@@ -1,4 +1,4 @@
-using Application.Interfaces.Services.GatewayServices;
+using Application.Extensions;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Persistence.Extensions;
@@ -11,6 +11,7 @@ public static class ServiceCollectionExtension
         services.
         AddDbConfiguration(configuration)
         .AddRepositories()
+        .AddApplication()
         .AddGateway();
         return services;
     }
