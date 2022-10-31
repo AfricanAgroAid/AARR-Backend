@@ -64,9 +64,9 @@ public class Temperature
 {
     [JsonPropertyName("day")]
     public double Day { get; set; }
-    [JsonPropertyName("minimum")]
+    [JsonPropertyName("min")]
     public double Minimum { get; set; }
-    [JsonPropertyName("maximum")]
+    [JsonPropertyName("max")]
     public double Maximum { get; set; }
     [JsonPropertyName("night")]
 

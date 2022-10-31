@@ -26,6 +26,13 @@ public class GatewaysTestController : ControllerBase
         return Ok(response);
     }
 
+    [HttpGet("GetCountryAndCitiesAsync")]
+    public async Task<IActionResult> GetCountryAndCitiesAsync()
+    {
+        var response = await _cityService.GetAllCitiesAsync();
+        return Ok(response);
+    }
+
     [HttpGet("GetCurrentWeatherForecastAsync")]
     public async Task<IActionResult> GetCurrentWeatherForecastAsync(string cityName)
     {
@@ -34,14 +41,14 @@ public class GatewaysTestController : ControllerBase
     }
 
     [HttpGet("GetMonthClimaticForecastAsync")]
-    public async Task<IActionResult> GetMonthClimaticForecastAsync(List<string> farmLocations)
+    public async Task<IActionResult> GetMonthClimaticForecastAsync( [FromQuery] List<string> farmLocations)
     {
         var response = await _openWeatherMap.GetMonthClimaticForecastAsync(farmLocations);
         return Ok(response);
     }
 
     [HttpGet("GetDaysClimaticForecastAsync")]
-    public async Task<IActionResult> GetDaysClimaticForecastAsync(List<string> farmLocations)
+    public async Task<IActionResult> GetDaysClimaticForecastAsync([FromQuery] List<string> farmLocations)
     {
         var response = await _openWeatherMap.GetDaysClimaticForecastAsync(farmLocations);
         return Ok(response);
