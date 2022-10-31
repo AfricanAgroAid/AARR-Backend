@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "65egq75QHj2x7y/4uPzl1fOORKldlaG+l+3+2Tt3Vg9lWQRfhRhtl6OGFW8z5AdIOzLqQr2IoP8qUTj1dBx8lw==",
+  "dgSpecHash": "D6Z+iu9MLBW/5tcwJJFGv7PCRk5i6Tpyzee5krfyj08cuoRc+aNHVgSUUIPlxo8SOjKx0Sh96Q0a/dujNgFDFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\Extern\\Group\\AARR\\Persistence\\Persistence.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\AARR-Backend\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\mapster\\7.3.0\\mapster.7.3.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\mapster.core\\1.2.0\\mapster.core.1.2.0.nupkg.sha512",
