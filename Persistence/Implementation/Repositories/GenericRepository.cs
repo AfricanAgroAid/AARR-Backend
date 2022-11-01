@@ -12,7 +12,7 @@ public class GenericRepository<T> : IGenericRepository<T> where T : BaseEntity
     public async Task<T> CreateAsync(T entity)
     {
         await _context.Set<T>().AddAsync(entity);
-
+        await _context.SaveChangesAsync();
         return entity;
     }
 
@@ -48,6 +48,12 @@ public class GenericRepository<T> : IGenericRepository<T> where T : BaseEntity
     public async Task<int> SaveChanges()
     {
        var result = await _context.SaveChangesAsync();
+        return result;
+    }
+
+    public async Task<bool> ExistsAsync(Expression<Func<T, bool>> exp)
+    {
+        var result =  await _context.Set<T>().AnyAsync(exp);
         return result;
     }
 }

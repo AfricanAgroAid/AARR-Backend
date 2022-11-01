@@ -15,7 +15,7 @@ namespace Gateway.Services
             var cityList = new List<City>();
 
             string text = await File.ReadAllTextAsync(@"..\Gateway\Services\Cities.json");
-            var countries = JsonSerializer.Deserialize<IList<City>>(text);
+            var countries = JsonSerializer.Deserialize<IList<City>>(text,new JsonSerializerOptions{PropertyNameCaseInsensitive = true});
             foreach (City country in countries)
             {
                 cityList.Add(country);

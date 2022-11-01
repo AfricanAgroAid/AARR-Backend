@@ -10,12 +10,17 @@ public class Farmer : AuditableEntity
     public string PhoneNumber { get; private set; }
     public string Language { get; private set; }
     public ICollection<Farm> Farms { get; private set; }
-    public Farmer(string name, string phoneNum, string language)
+    public Farmer(string name, string phoneNum, string language, 
+    string countryPhoneCode, string countryCode, string createdBy,string modifiedBy)
     {
         Name = name;
         PhoneNumber = phoneNum;
         Farms = new HashSet<Farm>();
         Language = language;
+        CountryPhoneCode = countryPhoneCode;
+        CountryCode = countryCode;
+        CreatedBy = createdBy;
+        LastModifiedBy = modifiedBy;
     }
     public Farmer()
     {

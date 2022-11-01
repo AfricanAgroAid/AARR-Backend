@@ -19,7 +19,7 @@ public class GatewaysTestController : ControllerBase
         _numLookUp = numLookUp;
     }
 
-    [HttpGet("GetCityCoordinatesAsync")]
+    [HttpGet("GetCityCoordinatesAsync")] 
     public async Task<IActionResult> GetCityCoordinatesAsync(string cityName)
     {
         var response = await _openWeatherMap.GetCityCoordinatesAsync(cityName);
