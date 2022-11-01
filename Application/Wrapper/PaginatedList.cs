@@ -9,6 +9,7 @@ namespace Application.Wrapper
     {
         public PaginatedList()
         {
+            
         }
 
         public PaginatedList(IQueryable<T> source, int count)
