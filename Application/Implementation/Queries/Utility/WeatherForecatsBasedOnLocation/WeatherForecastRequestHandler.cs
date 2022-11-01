@@ -16,6 +16,6 @@ public class WeatherForecastRequestHandler : IQueryHandler<WeatherForeCastReques
                     var listOfFarmLocation = new List<string>();
                     listOfFarmLocation.Add(request.farmLocation);
                    var weatherForeCast = await _openWeatherMapService.GetDaysClimaticForecastAsync(listOfFarmLocation, "metric", 5);
-                    
+                    return await Result<PaginatedResult<WeatherForecastResponse>>.SuccessAsync();
           }
 }
