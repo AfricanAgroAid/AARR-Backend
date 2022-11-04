@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\user\\Desktop\\Extern\\Group\\AARR\\Domain\\Domain.csproj",
+      "projectUniqueName": "c:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "c:\\Users\\user\\Desktop\\Extern\\Group\\AARR\\Domain\\Domain.csproj",
+      "projectPath": "c:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\user\\Desktop\\Extern\\Group\\AARR\\Domain\\obj\\",
+      "outputPath": "c:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"

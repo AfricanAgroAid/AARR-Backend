@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\Extern\\Group\\AARR\\Persistence\\Persistence.csproj": {}
+    "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Persistence\\Persistence.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\Extern\\Group\\AARR\\Application\\Application.csproj": {
+    "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Extern\\Group\\AARR\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\user\\Desktop\\Extern\\Group\\AARR\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Extern\\Group\\AARR\\Application\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\Extern\\Group\\AARR\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\Extern\\Group\\AARR\\Domain\\Domain.csproj"
+              "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Domain\\Domain.csproj"
               }
             }
           }
@@ -83,14 +83,14 @@
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\Extern\\Group\\AARR\\Domain\\Domain.csproj": {
+    "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Extern\\Group\\AARR\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\user\\Desktop\\Extern\\Group\\AARR\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Extern\\Group\\AARR\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -136,14 +136,14 @@
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\Extern\\Group\\AARR\\Gateway\\Gateway.csproj": {
+    "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Gateway\\Gateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Extern\\Group\\AARR\\Gateway\\Gateway.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Gateway\\Gateway.csproj",
         "projectName": "Gateway",
-        "projectPath": "C:\\Users\\user\\Desktop\\Extern\\Group\\AARR\\Gateway\\Gateway.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Gateway\\Gateway.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Extern\\Group\\AARR\\Gateway\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Gateway\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -158,8 +158,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\Extern\\Group\\AARR\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\Extern\\Group\\AARR\\Application\\Application.csproj"
+              "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Application\\Application.csproj"
               }
             }
           }
@@ -199,14 +199,14 @@
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\Extern\\Group\\AARR\\Persistence\\Persistence.csproj": {
+    "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Extern\\Group\\AARR\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\user\\Desktop\\Extern\\Group\\AARR\\Persistence\\Persistence.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Extern\\Group\\AARR\\Persistence\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -221,14 +221,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\Extern\\Group\\AARR\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\Extern\\Group\\AARR\\Application\\Application.csproj"
+              "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Application\\Application.csproj"
               },
-              "C:\\Users\\user\\Desktop\\Extern\\Group\\AARR\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\Extern\\Group\\AARR\\Domain\\Domain.csproj"
+              "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\user\\Desktop\\Extern\\Group\\AARR\\Gateway\\Gateway.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\Extern\\Group\\AARR\\Gateway\\Gateway.csproj"
+              "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Gateway\\Gateway.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Gateway\\Gateway.csproj"
               }
             }
           }
