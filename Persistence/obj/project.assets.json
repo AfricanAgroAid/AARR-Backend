@@ -3022,11 +3022,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\Extern\\Group\\AARR\\Persistence\\Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Persistence\\Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "C:\\Users\\user\\Desktop\\Extern\\Group\\AARR\\Persistence\\Persistence.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Persistence\\Persistence.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\Extern\\Group\\AARR\\Persistence\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -3041,14 +3041,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\user\\Desktop\\Extern\\Group\\AARR\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\user\\Desktop\\Extern\\Group\\AARR\\Application\\Application.csproj"
+            "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Application\\Application.csproj"
             },
-            "C:\\Users\\user\\Desktop\\Extern\\Group\\AARR\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\user\\Desktop\\Extern\\Group\\AARR\\Domain\\Domain.csproj"
+            "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Domain\\Domain.csproj"
             },
-            "C:\\Users\\user\\Desktop\\Extern\\Group\\AARR\\Gateway\\Gateway.csproj": {
-              "projectPath": "C:\\Users\\user\\Desktop\\Extern\\Group\\AARR\\Gateway\\Gateway.csproj"
+            "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Gateway\\Gateway.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Gateway\\Gateway.csproj"
             }
           }
         }

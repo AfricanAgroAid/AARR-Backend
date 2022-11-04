@@ -3627,11 +3627,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\user\\Desktop\\Extern\\Group\\AARR\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "c:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "c:\\Users\\user\\Desktop\\Extern\\Group\\AARR\\WebApi\\WebApi.csproj",
+      "projectPath": "c:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\WebApi\\WebApi.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\user\\Desktop\\Extern\\Group\\AARR\\WebApi\\obj\\",
+      "outputPath": "c:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -3646,8 +3646,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\user\\Desktop\\Extern\\Group\\AARR\\IOC\\IOC.csproj": {
-              "projectPath": "C:\\Users\\user\\Desktop\\Extern\\Group\\AARR\\IOC\\IOC.csproj"
+            "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\IOC\\IOC.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\IOC\\IOC.csproj"
             }
           }
         }

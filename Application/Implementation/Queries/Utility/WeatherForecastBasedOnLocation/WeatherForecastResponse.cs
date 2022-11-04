@@ -1,6 +1,6 @@
 using Application.JSONResponseModel.OpenWeatherMapServiceResponseModels;
 
-namespace Application.Implementation.Queries.Utility.WeatherForecatsBasedOnLocation;
+namespace Application.Implementation.Queries.Utility.WeatherForecastBasedOnLocation;
 
 public class WeatherForecastResponse
 {
