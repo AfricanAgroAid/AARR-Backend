@@ -1,4 +1,6 @@
+using Application.DTOs.Farmers;
 using Application.Implementations.Commands;
+using Application.Implementations.Commands.Farmers.BulkFarmerRegistration;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
@@ -19,6 +21,12 @@ public class FarmerController : ControllerBase
     public async Task<IActionResult> RegisterFarmerAsync([FromBody] RegisterFarmerCommand command )
     {
        var response = await _mediatr.Send(command);
+       return response.Succeeded? Ok(response) : BadRequest(response);
+    }
+    [HttpPost("BulkFarmerRegistration")]
+    public async Task<IActionResult> BulkFarmerRegistrationAsync([FromBody] List<CreateFarmerRequestModel> memberRequests)
+    {
+       var response = await _mediatr.Send(new RegisterBulkFarmerCommand(memberRequests));
        return response.Succeeded? Ok(response) : BadRequest(response);
     }
 }

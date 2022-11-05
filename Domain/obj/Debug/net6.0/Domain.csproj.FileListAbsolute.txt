@@ -22,3 +22,15 @@ c:\Users\user\Desktop\Extern\Group\AARR\Domain\obj\Debug\net6.0\Domain.dll
 c:\Users\user\Desktop\Extern\Group\AARR\Domain\obj\Debug\net6.0\refint\Domain.dll
 c:\Users\user\Desktop\Extern\Group\AARR\Domain\obj\Debug\net6.0\Domain.pdb
 c:\Users\user\Desktop\Extern\Group\AARR\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\OLALEKAN\Desktop\MyFiles\Projects\Cloned Projects\AARR-Backend\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\OLALEKAN\Desktop\MyFiles\Projects\Cloned Projects\AARR-Backend\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\OLALEKAN\Desktop\MyFiles\Projects\Cloned Projects\AARR-Backend\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\OLALEKAN\Desktop\MyFiles\Projects\Cloned Projects\AARR-Backend\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\OLALEKAN\Desktop\MyFiles\Projects\Cloned Projects\AARR-Backend\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OLALEKAN\Desktop\MyFiles\Projects\Cloned Projects\AARR-Backend\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\OLALEKAN\Desktop\MyFiles\Projects\Cloned Projects\AARR-Backend\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\OLALEKAN\Desktop\MyFiles\Projects\Cloned Projects\AARR-Backend\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\OLALEKAN\Desktop\MyFiles\Projects\Cloned Projects\AARR-Backend\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\OLALEKAN\Desktop\MyFiles\Projects\Cloned Projects\AARR-Backend\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\OLALEKAN\Desktop\MyFiles\Projects\Cloned Projects\AARR-Backend\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\OLALEKAN\Desktop\MyFiles\Projects\Cloned Projects\AARR-Backend\Domain\obj\Debug\net6.0\ref\Domain.dll

@@ -10,11 +10,12 @@ public class Farm : AuditableEntity
     public CropType CropType { get; private set; }
     public string FarmerId { get; private set; }
     public Farmer Farmer { get; private set; }
-    public Farm(string farmName, string locatedCity, CropType type)
+    public Farm(string farmName, string locatedCity, CropType type, string farmerId)
     {
         FarmName = farmName;
         LocatedCity = locatedCity;
         CropType = type;
+        FarmerId = farmerId;
     }
     public Farm()
     {
