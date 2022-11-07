@@ -14,11 +14,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\OLALEKAN\\Desktop\\MyFiles\\Projects\\Cloned Projects\\AARR-Backend\\Domain\\Domain.csproj",
       "projectName": "Domain",
       "projectPath": "C:\\Users\\OLALEKAN\\Desktop\\MyFiles\\Projects\\Cloned Projects\\AARR-Backend\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\OLALEKAN\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\OLALEKAN\\Desktop\\MyFiles\\Projects\\Cloned Projects\\AARR-Backend\\Domain\\obj\\",
+=======
+      "projectUniqueName": "c:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Domain\\Domain.csproj",
+      "projectName": "Domain",
+      "projectPath": "c:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Domain\\Domain.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Domain\\obj\\",
+>>>>>>> c0d6bcf55d26d6de98fb96417bfd34c39c20abb2
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

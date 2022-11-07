@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "VBaBVpfwQ6zZXaQz46m+Smfqw+FoKXH1SP9EEhoRnCq838SbDsCxPjMs3U0nxp3TTXoLyRDuAwP0irxhGmv3Xg==",
   "success": true,
   "projectFilePath": "C:\\Users\\OLALEKAN\\Desktop\\MyFiles\\Projects\\Cloned Projects\\AARR-Backend\\Gateway\\Gateway.csproj",
+=======
+  "dgSpecHash": "2Tf0FahJYhIjDYCHHJecmt8nxlI7sTi3jxvBzWztofkadTv9REycK655EwaYyWj9IYsmCHDT4Wqi7CKGveX5oA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Gateway\\Gateway.csproj",
+>>>>>>> c0d6bcf55d26d6de98fb96417bfd34c39c20abb2
   "expectedPackageFiles": [
     "C:\\Users\\OLALEKAN\\.nuget\\packages\\mapster\\7.3.0\\mapster.7.3.0.nupkg.sha512",
     "C:\\Users\\OLALEKAN\\.nuget\\packages\\mapster.core\\1.2.0\\mapster.core.1.2.0.nupkg.sha512",

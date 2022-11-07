@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "0OHZhpTWuhtYO1+tm1dgz6x8Kq8EgPatnNiHu68CZGi5VTSgyFmsd1je59ycn+coBxl3Y2XekNSzjIAd0zbuOg==",
   "success": true,
   "projectFilePath": "C:\\Users\\OLALEKAN\\Desktop\\MyFiles\\Projects\\Cloned Projects\\AARR-Backend\\Domain\\Domain.csproj",
+=======
+  "dgSpecHash": "ImEWTNgjJ9JR0GNKmYIZjbtpNWZx6JMREmjHcOGl/8cygPCLkt8DTCm05ywZs3T44Q9Gi0L9BFmChgx/O2mZCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Domain\\Domain.csproj",
+>>>>>>> c0d6bcf55d26d6de98fb96417bfd34c39c20abb2
   "expectedPackageFiles": [],
   "logs": []
 }

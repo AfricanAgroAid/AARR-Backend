@@ -2441,11 +2441,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\OLALEKAN\\Desktop\\MyFiles\\Projects\\Cloned Projects\\AARR-Backend\\Gateway\\Gateway.csproj",
       "projectName": "Gateway",
       "projectPath": "C:\\Users\\OLALEKAN\\Desktop\\MyFiles\\Projects\\Cloned Projects\\AARR-Backend\\Gateway\\Gateway.csproj",
       "packagesPath": "C:\\Users\\OLALEKAN\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\OLALEKAN\\Desktop\\MyFiles\\Projects\\Cloned Projects\\AARR-Backend\\Gateway\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Gateway\\Gateway.csproj",
+      "projectName": "Gateway",
+      "projectPath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Gateway\\Gateway.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Gateway\\obj\\",
+>>>>>>> c0d6bcf55d26d6de98fb96417bfd34c39c20abb2
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -2465,8 +2473,13 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+<<<<<<< HEAD
             "C:\\Users\\OLALEKAN\\Desktop\\MyFiles\\Projects\\Cloned Projects\\AARR-Backend\\Application\\Application.csproj": {
               "projectPath": "C:\\Users\\OLALEKAN\\Desktop\\MyFiles\\Projects\\Cloned Projects\\AARR-Backend\\Application\\Application.csproj"
+=======
+            "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Application\\Application.csproj"
+>>>>>>> c0d6bcf55d26d6de98fb96417bfd34c39c20abb2
             }
           }
         }

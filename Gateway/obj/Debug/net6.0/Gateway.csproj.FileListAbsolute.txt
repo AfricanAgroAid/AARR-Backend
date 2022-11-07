@@ -32,6 +32,7 @@ c:\Users\user\Desktop\Extern\Group\AARR\Gateway\obj\Debug\net6.0\Gateway.dll
 c:\Users\user\Desktop\Extern\Group\AARR\Gateway\obj\Debug\net6.0\refint\Gateway.dll
 c:\Users\user\Desktop\Extern\Group\AARR\Gateway\obj\Debug\net6.0\Gateway.pdb
 c:\Users\user\Desktop\Extern\Group\AARR\Gateway\obj\Debug\net6.0\ref\Gateway.dll
+<<<<<<< HEAD
 C:\Users\OLALEKAN\Desktop\MyFiles\Projects\Cloned Projects\AARR-Backend\Gateway\obj\Debug\net6.0\Gateway.csproj.AssemblyReference.cache
 C:\Users\OLALEKAN\Desktop\MyFiles\Projects\Cloned Projects\AARR-Backend\Gateway\obj\Debug\net6.0\Gateway.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\OLALEKAN\Desktop\MyFiles\Projects\Cloned Projects\AARR-Backend\Gateway\obj\Debug\net6.0\Gateway.AssemblyInfoInputs.cache
@@ -40,3 +41,22 @@ C:\Users\OLALEKAN\Desktop\MyFiles\Projects\Cloned Projects\AARR-Backend\Gateway\
 C:\Users\OLALEKAN\Desktop\MyFiles\Projects\Cloned Projects\AARR-Backend\Gateway\obj\Debug\net6.0\Gateway.dll
 C:\Users\OLALEKAN\Desktop\MyFiles\Projects\Cloned Projects\AARR-Backend\Gateway\obj\Debug\net6.0\refint\Gateway.dll
 C:\Users\OLALEKAN\Desktop\MyFiles\Projects\Cloned Projects\AARR-Backend\Gateway\obj\Debug\net6.0\Gateway.pdb
+=======
+c:\Users\user\Desktop\Extern\new\AARR-Backend\Gateway\bin\Debug\net6.0\Gateway.deps.json
+c:\Users\user\Desktop\Extern\new\AARR-Backend\Gateway\bin\Debug\net6.0\Gateway.dll
+c:\Users\user\Desktop\Extern\new\AARR-Backend\Gateway\bin\Debug\net6.0\Gateway.pdb
+c:\Users\user\Desktop\Extern\new\AARR-Backend\Gateway\bin\Debug\net6.0\Application.dll
+c:\Users\user\Desktop\Extern\new\AARR-Backend\Gateway\bin\Debug\net6.0\Domain.dll
+c:\Users\user\Desktop\Extern\new\AARR-Backend\Gateway\bin\Debug\net6.0\Application.pdb
+c:\Users\user\Desktop\Extern\new\AARR-Backend\Gateway\bin\Debug\net6.0\Domain.pdb
+c:\Users\user\Desktop\Extern\new\AARR-Backend\Gateway\obj\Debug\net6.0\Gateway.csproj.AssemblyReference.cache
+c:\Users\user\Desktop\Extern\new\AARR-Backend\Gateway\obj\Debug\net6.0\Gateway.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\user\Desktop\Extern\new\AARR-Backend\Gateway\obj\Debug\net6.0\Gateway.AssemblyInfoInputs.cache
+c:\Users\user\Desktop\Extern\new\AARR-Backend\Gateway\obj\Debug\net6.0\Gateway.AssemblyInfo.cs
+c:\Users\user\Desktop\Extern\new\AARR-Backend\Gateway\obj\Debug\net6.0\Gateway.csproj.CoreCompileInputs.cache
+c:\Users\user\Desktop\Extern\new\AARR-Backend\Gateway\obj\Debug\net6.0\Gateway.csproj.CopyComplete
+c:\Users\user\Desktop\Extern\new\AARR-Backend\Gateway\obj\Debug\net6.0\Gateway.dll
+c:\Users\user\Desktop\Extern\new\AARR-Backend\Gateway\obj\Debug\net6.0\refint\Gateway.dll
+c:\Users\user\Desktop\Extern\new\AARR-Backend\Gateway\obj\Debug\net6.0\Gateway.pdb
+c:\Users\user\Desktop\Extern\new\AARR-Backend\Gateway\obj\Debug\net6.0\ref\Gateway.dll
+>>>>>>> c0d6bcf55d26d6de98fb96417bfd34c39c20abb2

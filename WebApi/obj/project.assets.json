@@ -19,11 +19,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\OLALEKAN\\Desktop\\MyFiles\\Projects\\Cloned Projects\\AARR-Backend\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
       "projectPath": "C:\\Users\\OLALEKAN\\Desktop\\MyFiles\\Projects\\Cloned Projects\\AARR-Backend\\WebApi\\WebApi.csproj",
       "packagesPath": "C:\\Users\\OLALEKAN\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\OLALEKAN\\Desktop\\MyFiles\\Projects\\Cloned Projects\\AARR-Backend\\WebApi\\obj\\",
+=======
+      "projectUniqueName": "c:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\WebApi\\WebApi.csproj",
+      "projectName": "WebApi",
+      "projectPath": "c:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\WebApi\\WebApi.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\WebApi\\obj\\",
+>>>>>>> c0d6bcf55d26d6de98fb96417bfd34c39c20abb2
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -43,11 +51,16 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+<<<<<<< HEAD
             "C:\\Users\\OLALEKAN\\Desktop\\MyFiles\\Projects\\Cloned Projects\\AARR-Backend\\Application\\Application.csproj": {
               "projectPath": "C:\\Users\\OLALEKAN\\Desktop\\MyFiles\\Projects\\Cloned Projects\\AARR-Backend\\Application\\Application.csproj"
             },
             "C:\\Users\\OLALEKAN\\Desktop\\MyFiles\\Projects\\Cloned Projects\\AARR-Backend\\IOC\\IOC.csproj": {
               "projectPath": "C:\\Users\\OLALEKAN\\Desktop\\MyFiles\\Projects\\Cloned Projects\\AARR-Backend\\IOC\\IOC.csproj"
+=======
+            "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\IOC\\IOC.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\IOC\\IOC.csproj"
+>>>>>>> c0d6bcf55d26d6de98fb96417bfd34c39c20abb2
             }
           }
         }
