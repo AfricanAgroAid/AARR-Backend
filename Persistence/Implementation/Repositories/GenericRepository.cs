@@ -33,7 +33,7 @@ public class GenericRepository<T> : IGenericRepository<T> where T : BaseEntity
         return entities;
     }
 
-    public T UpdateAsync(T entity)
+    public T Update(T entity)
     {
         _context.Set<T>().Update(entity);
 

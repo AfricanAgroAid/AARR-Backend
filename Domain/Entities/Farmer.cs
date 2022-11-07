@@ -8,6 +8,7 @@ public class Farmer : AuditableEntity
     public string CountryCode { get; private set; }
     public string CountryPhoneCode{get; private set;}
     public string PhoneNumber { get; private set; }
+    public string Password { get; private set; }
     public string Language { get; private set; }
     public ICollection<Farm> Farms { get; private set; }
     public Farmer(string name, string phoneNum, string language, 
@@ -21,6 +22,12 @@ public class Farmer : AuditableEntity
         CountryCode = countryCode;
         CreatedBy = createdBy;
         LastModifiedBy = modifiedBy;
+    }
+
+    public Farmer ChangePhoneNumber(string phonrNumber)
+    {
+        if (phonrNumber is not null && !phonrNumber.Equals(this.PhoneNumber)) PhoneNumber = phonrNumber;
+        return this;
     }
     public Farmer()
     {

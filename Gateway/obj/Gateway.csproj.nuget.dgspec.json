@@ -1,33 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Gateway\\Gateway.csproj": {}
+    "C:\\Users\\TOSHIBA\\AARR-Backend\\Gateway\\Gateway.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Application\\Application.csproj": {
+    "C:\\Users\\TOSHIBA\\AARR-Backend\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\TOSHIBA\\AARR-Backend\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Application\\obj\\",
+        "projectPath": "C:\\Users\\TOSHIBA\\AARR-Backend\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\TOSHIBA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TOSHIBA\\AARR-Backend\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\TOSHIBA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Domain\\Domain.csproj"
+              "C:\\Users\\TOSHIBA\\AARR-Backend\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\TOSHIBA\\AARR-Backend\\Domain\\Domain.csproj"
               }
             }
           }
@@ -69,8 +71,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -79,26 +80,28 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Domain\\Domain.csproj": {
+    "C:\\Users\\TOSHIBA\\AARR-Backend\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\TOSHIBA\\AARR-Backend\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\TOSHIBA\\AARR-Backend\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\TOSHIBA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TOSHIBA\\AARR-Backend\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\TOSHIBA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -122,8 +125,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -132,34 +134,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Gateway\\Gateway.csproj": {
+    "C:\\Users\\TOSHIBA\\AARR-Backend\\Gateway\\Gateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Gateway\\Gateway.csproj",
+        "projectUniqueName": "C:\\Users\\TOSHIBA\\AARR-Backend\\Gateway\\Gateway.csproj",
         "projectName": "Gateway",
-        "projectPath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Gateway\\Gateway.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Gateway\\obj\\",
+        "projectPath": "C:\\Users\\TOSHIBA\\AARR-Backend\\Gateway\\Gateway.csproj",
+        "packagesPath": "C:\\Users\\TOSHIBA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TOSHIBA\\AARR-Backend\\Gateway\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\TOSHIBA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Application\\Application.csproj"
+              "C:\\Users\\TOSHIBA\\AARR-Backend\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\TOSHIBA\\AARR-Backend\\Application\\Application.csproj"
               }
             }
           }
@@ -185,8 +189,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -195,7 +198,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
