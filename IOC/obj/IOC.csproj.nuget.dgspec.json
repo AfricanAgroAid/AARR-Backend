@@ -2,6 +2,7 @@
   "format": 1,
   "restore": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "C:\\Users\\OLALEKAN\\Desktop\\MyFiles\\Projects\\Cloned Projects\\AARR-Backend\\IOC\\IOC.csproj": {}
   },
   "projects": {
@@ -15,23 +16,36 @@
         "outputPath": "C:\\Users\\OLALEKAN\\Desktop\\MyFiles\\Projects\\Cloned Projects\\AARR-Backend\\Application\\obj\\",
 =======
     "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\IOC\\IOC.csproj": {}
+=======
+    "C:\\Users\\TOSHIBA\\AARR-Backend\\IOC\\IOC.csproj": {}
+>>>>>>> 3f23f1407f3d2f4d000f3f711cf6e7f6489be2c3
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Application\\Application.csproj": {
+    "C:\\Users\\TOSHIBA\\AARR-Backend\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\TOSHIBA\\AARR-Backend\\Application\\Application.csproj",
         "projectName": "Application",
+<<<<<<< HEAD
         "projectPath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Application\\obj\\",
 >>>>>>> c0d6bcf55d26d6de98fb96417bfd34c39c20abb2
+=======
+        "projectPath": "C:\\Users\\TOSHIBA\\AARR-Backend\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\TOSHIBA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TOSHIBA\\AARR-Backend\\Application\\obj\\",
+>>>>>>> 3f23f1407f3d2f4d000f3f711cf6e7f6489be2c3
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\OLALEKAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\TOSHIBA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 3f23f1407f3d2f4d000f3f711cf6e7f6489be2c3
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -46,12 +60,17 @@
             "targetAlias": "net6.0",
             "projectReferences": {
 <<<<<<< HEAD
+<<<<<<< HEAD
               "C:\\Users\\OLALEKAN\\Desktop\\MyFiles\\Projects\\Cloned Projects\\AARR-Backend\\Domain\\Domain.csproj": {
                 "projectPath": "C:\\Users\\OLALEKAN\\Desktop\\MyFiles\\Projects\\Cloned Projects\\AARR-Backend\\Domain\\Domain.csproj"
 =======
               "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Domain\\Domain.csproj": {
                 "projectPath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Domain\\Domain.csproj"
 >>>>>>> c0d6bcf55d26d6de98fb96417bfd34c39c20abb2
+=======
+              "C:\\Users\\TOSHIBA\\AARR-Backend\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\TOSHIBA\\AARR-Backend\\Domain\\Domain.csproj"
+>>>>>>> 3f23f1407f3d2f4d000f3f711cf6e7f6489be2c3
               }
             }
           }
@@ -102,6 +121,7 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
@@ -117,20 +137,37 @@
         "outputPath": "C:\\Users\\OLALEKAN\\Desktop\\MyFiles\\Projects\\Cloned Projects\\AARR-Backend\\Domain\\obj\\",
 =======
     "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Domain\\Domain.csproj": {
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\TOSHIBA\\AARR-Backend\\Domain\\Domain.csproj": {
+>>>>>>> 3f23f1407f3d2f4d000f3f711cf6e7f6489be2c3
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\TOSHIBA\\AARR-Backend\\Domain\\Domain.csproj",
         "projectName": "Domain",
+<<<<<<< HEAD
         "projectPath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Domain\\obj\\",
 >>>>>>> c0d6bcf55d26d6de98fb96417bfd34c39c20abb2
+=======
+        "projectPath": "C:\\Users\\TOSHIBA\\AARR-Backend\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\TOSHIBA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TOSHIBA\\AARR-Backend\\Domain\\obj\\",
+>>>>>>> 3f23f1407f3d2f4d000f3f711cf6e7f6489be2c3
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\OLALEKAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\TOSHIBA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 3f23f1407f3d2f4d000f3f711cf6e7f6489be2c3
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -170,6 +207,7 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
@@ -185,20 +223,37 @@
         "outputPath": "C:\\Users\\OLALEKAN\\Desktop\\MyFiles\\Projects\\Cloned Projects\\AARR-Backend\\Gateway\\obj\\",
 =======
     "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Gateway\\Gateway.csproj": {
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\TOSHIBA\\AARR-Backend\\Gateway\\Gateway.csproj": {
+>>>>>>> 3f23f1407f3d2f4d000f3f711cf6e7f6489be2c3
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Gateway\\Gateway.csproj",
+        "projectUniqueName": "C:\\Users\\TOSHIBA\\AARR-Backend\\Gateway\\Gateway.csproj",
         "projectName": "Gateway",
+<<<<<<< HEAD
         "projectPath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Gateway\\Gateway.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Gateway\\obj\\",
 >>>>>>> c0d6bcf55d26d6de98fb96417bfd34c39c20abb2
+=======
+        "projectPath": "C:\\Users\\TOSHIBA\\AARR-Backend\\Gateway\\Gateway.csproj",
+        "packagesPath": "C:\\Users\\TOSHIBA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TOSHIBA\\AARR-Backend\\Gateway\\obj\\",
+>>>>>>> 3f23f1407f3d2f4d000f3f711cf6e7f6489be2c3
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\OLALEKAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\TOSHIBA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 3f23f1407f3d2f4d000f3f711cf6e7f6489be2c3
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -213,12 +268,17 @@
             "targetAlias": "net6.0",
             "projectReferences": {
 <<<<<<< HEAD
+<<<<<<< HEAD
               "C:\\Users\\OLALEKAN\\Desktop\\MyFiles\\Projects\\Cloned Projects\\AARR-Backend\\Application\\Application.csproj": {
                 "projectPath": "C:\\Users\\OLALEKAN\\Desktop\\MyFiles\\Projects\\Cloned Projects\\AARR-Backend\\Application\\Application.csproj"
 =======
               "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Application\\Application.csproj": {
                 "projectPath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Application\\Application.csproj"
 >>>>>>> c0d6bcf55d26d6de98fb96417bfd34c39c20abb2
+=======
+              "C:\\Users\\TOSHIBA\\AARR-Backend\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\TOSHIBA\\AARR-Backend\\Application\\Application.csproj"
+>>>>>>> 3f23f1407f3d2f4d000f3f711cf6e7f6489be2c3
               }
             }
           }
@@ -253,6 +313,7 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
@@ -268,20 +329,37 @@
         "outputPath": "C:\\Users\\OLALEKAN\\Desktop\\MyFiles\\Projects\\Cloned Projects\\AARR-Backend\\IOC\\obj\\",
 =======
     "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\IOC\\IOC.csproj": {
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\TOSHIBA\\AARR-Backend\\IOC\\IOC.csproj": {
+>>>>>>> 3f23f1407f3d2f4d000f3f711cf6e7f6489be2c3
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\IOC\\IOC.csproj",
+        "projectUniqueName": "C:\\Users\\TOSHIBA\\AARR-Backend\\IOC\\IOC.csproj",
         "projectName": "IOC",
+<<<<<<< HEAD
         "projectPath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\IOC\\IOC.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\IOC\\obj\\",
 >>>>>>> c0d6bcf55d26d6de98fb96417bfd34c39c20abb2
+=======
+        "projectPath": "C:\\Users\\TOSHIBA\\AARR-Backend\\IOC\\IOC.csproj",
+        "packagesPath": "C:\\Users\\TOSHIBA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TOSHIBA\\AARR-Backend\\IOC\\obj\\",
+>>>>>>> 3f23f1407f3d2f4d000f3f711cf6e7f6489be2c3
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\OLALEKAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\TOSHIBA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 3f23f1407f3d2f4d000f3f711cf6e7f6489be2c3
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -296,12 +374,17 @@
             "targetAlias": "net6.0",
             "projectReferences": {
 <<<<<<< HEAD
+<<<<<<< HEAD
               "C:\\Users\\OLALEKAN\\Desktop\\MyFiles\\Projects\\Cloned Projects\\AARR-Backend\\Persistence\\Persistence.csproj": {
                 "projectPath": "C:\\Users\\OLALEKAN\\Desktop\\MyFiles\\Projects\\Cloned Projects\\AARR-Backend\\Persistence\\Persistence.csproj"
 =======
               "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Persistence\\Persistence.csproj": {
                 "projectPath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Persistence\\Persistence.csproj"
 >>>>>>> c0d6bcf55d26d6de98fb96417bfd34c39c20abb2
+=======
+              "C:\\Users\\TOSHIBA\\AARR-Backend\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Users\\TOSHIBA\\AARR-Backend\\Persistence\\Persistence.csproj"
+>>>>>>> 3f23f1407f3d2f4d000f3f711cf6e7f6489be2c3
               }
             }
           }
@@ -340,6 +423,7 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
@@ -355,20 +439,37 @@
         "outputPath": "C:\\Users\\OLALEKAN\\Desktop\\MyFiles\\Projects\\Cloned Projects\\AARR-Backend\\Persistence\\obj\\",
 =======
     "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Persistence\\Persistence.csproj": {
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\TOSHIBA\\AARR-Backend\\Persistence\\Persistence.csproj": {
+>>>>>>> 3f23f1407f3d2f4d000f3f711cf6e7f6489be2c3
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\TOSHIBA\\AARR-Backend\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
+<<<<<<< HEAD
         "projectPath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Persistence\\obj\\",
 >>>>>>> c0d6bcf55d26d6de98fb96417bfd34c39c20abb2
+=======
+        "projectPath": "C:\\Users\\TOSHIBA\\AARR-Backend\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\TOSHIBA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TOSHIBA\\AARR-Backend\\Persistence\\obj\\",
+>>>>>>> 3f23f1407f3d2f4d000f3f711cf6e7f6489be2c3
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\OLALEKAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\TOSHIBA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 3f23f1407f3d2f4d000f3f711cf6e7f6489be2c3
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -383,6 +484,7 @@
             "targetAlias": "net6.0",
             "projectReferences": {
 <<<<<<< HEAD
+<<<<<<< HEAD
               "C:\\Users\\OLALEKAN\\Desktop\\MyFiles\\Projects\\Cloned Projects\\AARR-Backend\\Application\\Application.csproj": {
                 "projectPath": "C:\\Users\\OLALEKAN\\Desktop\\MyFiles\\Projects\\Cloned Projects\\AARR-Backend\\Application\\Application.csproj"
               },
@@ -394,13 +496,22 @@
 =======
               "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Application\\Application.csproj": {
                 "projectPath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Application\\Application.csproj"
+=======
+              "C:\\Users\\TOSHIBA\\AARR-Backend\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\TOSHIBA\\AARR-Backend\\Application\\Application.csproj"
+>>>>>>> 3f23f1407f3d2f4d000f3f711cf6e7f6489be2c3
               },
-              "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Domain\\Domain.csproj"
+              "C:\\Users\\TOSHIBA\\AARR-Backend\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\TOSHIBA\\AARR-Backend\\Domain\\Domain.csproj"
               },
+<<<<<<< HEAD
               "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Gateway\\Gateway.csproj": {
                 "projectPath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Gateway\\Gateway.csproj"
 >>>>>>> c0d6bcf55d26d6de98fb96417bfd34c39c20abb2
+=======
+              "C:\\Users\\TOSHIBA\\AARR-Backend\\Gateway\\Gateway.csproj": {
+                "projectPath": "C:\\Users\\TOSHIBA\\AARR-Backend\\Gateway\\Gateway.csproj"
+>>>>>>> 3f23f1407f3d2f4d000f3f711cf6e7f6489be2c3
               }
             }
           }
@@ -435,7 +546,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+>>>>>>> 3f23f1407f3d2f4d000f3f711cf6e7f6489be2c3
         }
       }
     }

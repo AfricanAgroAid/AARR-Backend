@@ -2,6 +2,7 @@
   "format": 1,
   "restore": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "C:\\Users\\OLALEKAN\\Desktop\\MyFiles\\Projects\\Cloned Projects\\AARR-Backend\\Domain\\Domain.csproj": {}
   },
   "projects": {
@@ -15,23 +16,36 @@
         "outputPath": "C:\\Users\\OLALEKAN\\Desktop\\MyFiles\\Projects\\Cloned Projects\\AARR-Backend\\Domain\\obj\\",
 =======
     "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Domain\\Domain.csproj": {}
+=======
+    "C:\\Users\\TOSHIBA\\AARR-Backend\\Domain\\Domain.csproj": {}
+>>>>>>> 3f23f1407f3d2f4d000f3f711cf6e7f6489be2c3
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Domain\\Domain.csproj": {
+    "C:\\Users\\TOSHIBA\\AARR-Backend\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\TOSHIBA\\AARR-Backend\\Domain\\Domain.csproj",
         "projectName": "Domain",
+<<<<<<< HEAD
         "projectPath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Domain\\obj\\",
 >>>>>>> c0d6bcf55d26d6de98fb96417bfd34c39c20abb2
+=======
+        "projectPath": "C:\\Users\\TOSHIBA\\AARR-Backend\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\TOSHIBA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TOSHIBA\\AARR-Backend\\Domain\\obj\\",
+>>>>>>> 3f23f1407f3d2f4d000f3f711cf6e7f6489be2c3
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\OLALEKAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\TOSHIBA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 3f23f1407f3d2f4d000f3f711cf6e7f6489be2c3
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -71,7 +85,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+>>>>>>> 3f23f1407f3d2f4d000f3f711cf6e7f6489be2c3
         }
       }
     }
