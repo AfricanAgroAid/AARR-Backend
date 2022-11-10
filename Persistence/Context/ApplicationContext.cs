@@ -15,4 +15,5 @@ public class ApplicationContext : DbContext
     }
     public DbSet<Farm> Farms {get; set;}
     public DbSet<Farmer> Farmers {get; set;}
+    public DbSet<Message> Messages {get; set;}
 }

@@ -8,7 +8,6 @@ public class Farmer : AuditableEntity
     public string CountryCode { get; private set; }
     public string CountryPhoneCode{get; private set;}
     public string PhoneNumber { get; private set; }
-    public string Password { get; private set; }
     public string Language { get; private set; }
     public ICollection<Farm> Farms { get; private set; }
     public Farmer(string name, string phoneNum, string language, 
