@@ -29,7 +29,7 @@ namespace Application.Implementations.Commands
             var farmerExists = await _farmerRepository.ExistsAsync(farmer => farmer.PhoneNumber == request.PhoneNumber);
             if(farmerExists) return await Result<FarmerResponseModel>.FailAsync($"Farmer with the same phone number:{request.PhoneNumber} already exists");
             var farmer = 
-            new Farmer(request.Name,request.PhoneNumber, request.Password,
+            new Domain.Entities.Farmer(request.Name,request.PhoneNumber,
             request.Language,validatePhoneNumber.CountryPrefix,countryCode,request.PhoneNumber,request.PhoneNumber);
             var farmerReturned = await _farmerRepository.CreateAsync(farmer);
             var farmerResponse = farmerReturned.Adapt<FarmerResponseModel>();
