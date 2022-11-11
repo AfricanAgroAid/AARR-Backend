@@ -1,20 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
-<<<<<<< HEAD
-  "dgSpecHash": "0OHZhpTWuhtYO1+tm1dgz6x8Kq8EgPatnNiHu68CZGi5VTSgyFmsd1je59ycn+coBxl3Y2XekNSzjIAd0zbuOg==",
+  "dgSpecHash": "nBEVbfc+r38K5kctJ1gbrSv4CAyTaXTmGf+UhspDfRKpzHkx27hZNOfUBbOsfao54XD5MPSkENJC5Hs8FBRu9Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\OLALEKAN\\Desktop\\MyFiles\\Projects\\Cloned Projects\\AARR-Backend\\Domain\\Domain.csproj",
-=======
-  "dgSpecHash": "ImEWTNgjJ9JR0GNKmYIZjbtpNWZx6JMREmjHcOGl/8cygPCLkt8DTCm05ywZs3T44Q9Gi0L9BFmChgx/O2mZCg==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\Extern\\new\\AARR-Backend\\Domain\\Domain.csproj",
->>>>>>> c0d6bcf55d26d6de98fb96417bfd34c39c20abb2
-=======
-  "dgSpecHash": "c2yn2nBZn6WvyiC4jhVvhvAM34UN188b+xTYaLkOhC822rpZfOwiU1ro54BvZwAEpztaNbUNnbJDNUcYB9jfAw==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\TOSHIBA\\AARR-Backend\\Domain\\Domain.csproj",
->>>>>>> 3f23f1407f3d2f4d000f3f711cf6e7f6489be2c3
+  "projectFilePath": "c:\\Users\\user\\Desktop\\Extern\\AARR\\AARR-Backend\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file c:\\Users\\user\\Desktop\\Extern\\AARR\\AARR-Backend\\Domain\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
