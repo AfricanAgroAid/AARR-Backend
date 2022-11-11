@@ -4,7 +4,6 @@ using Application.Implementations.Commands.Farmers.BulkFarmerRegistration;
 using Application.Interfaces.Repositories;
 using Application.Interfaces.Services.GatewayServices;
 using Application.Wrapper;
-using Domain.Entities;
 using Mapster;
 
 namespace Application.Implementations.Commands

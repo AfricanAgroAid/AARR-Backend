@@ -1,7 +1,11 @@
+using System.ComponentModel;
+
 namespace Domain.Enums;
 
 public enum CropType
 {
-          DrySeason = 1,
-          RainSeason
+    [Description("Dry Season")]
+    DrySeason = 1,
+    [Description("Rainy Season")]
+    RainSeason
 }
