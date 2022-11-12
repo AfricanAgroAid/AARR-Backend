@@ -9,9 +9,10 @@ public class Farmer : AuditableEntity
     public string CountryPhoneCode{get; private set;}
     public string PhoneNumber { get; private set; }
     public string Language { get; private set; }
+    public string FarmerCity {get; private set;}
     public ICollection<Farm> Farms { get; private set; }
     public Farmer(string name, string phoneNum, string language, 
-    string countryPhoneCode, string countryCode, string createdBy,string modifiedBy)
+    string countryPhoneCode, string countryCode, string createdBy,string modifiedBy, string farmerCity)
     {
         Name = name;
         PhoneNumber = phoneNum;
@@ -21,6 +22,7 @@ public class Farmer : AuditableEntity
         CountryCode = countryCode;
         CreatedBy = createdBy;
         LastModifiedBy = modifiedBy;
+        FarmerCity = farmerCity;
     }
 
     public Farmer ChangePhoneNumber(string phonrNumber)
