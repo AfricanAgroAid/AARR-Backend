@@ -1,5 +1,6 @@
+
+using Application.JSONResponseModel;
 using Domain.Entities;
-using Persistence.Implementation.Repositories;
 
 namespace Application.Interfaces.Repositories
 {
