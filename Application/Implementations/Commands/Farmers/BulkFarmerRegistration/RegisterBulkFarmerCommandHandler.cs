@@ -45,7 +45,7 @@ namespace Application.Implementations.Commands
             {
                 var countryCode = response.SingleOrDefault(city => city.Cities.Contains(farmerRequest.Location)).CountryCode;
                 var validatePhoneNumber = await _numLookUp.VerifyPhoneNumber(farmerRequest.PhoneNumber, countryCode);
-                var farmer = new Domain.Entities.Farmer(farmerRequest.Name, farmerRequest.PhoneNumber, farmerRequest.Language, validatePhoneNumber.CountryPrefix, countryCode, farmerRequest.PhoneNumber, farmerRequest.PhoneNumber);
+                var farmer = new Domain.Entities.Farmer(farmerRequest.Name, farmerRequest.PhoneNumber, farmerRequest.Language, validatePhoneNumber.CountryPrefix, countryCode, farmerRequest.PhoneNumber, farmerRequest.PhoneNumber, farmerRequest.Location);
                 
                 var farmerReturned = await _farmerRepository.CreateAsync(farmer);
                 var farmerResponse = farmerReturned.Adapt<FarmerResponseModel>();

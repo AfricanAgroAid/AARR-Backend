@@ -1,7 +1,7 @@
 using Application.Extensions;
+using Persistence.Extensions;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using Persistence.Extensions;
 namespace IOC.Extensions;
 
 public static class ServiceCollectionExtension
