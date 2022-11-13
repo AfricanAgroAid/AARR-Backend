@@ -10,6 +10,7 @@ public static class ServiceCollectionExtension
         services.
         AddScoped<IOpenWeatherMapService,OpenWeatherMapService>()
         .AddScoped<INumLookUpService, NumberLookUpServices>()
+        .AddScoped<ITwilioSmsIntegration, TwilioSmsIntegration>()
         .AddScoped<ICityService, CityService>();
         return services;
     }
