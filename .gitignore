@@ -1,5 +1,21 @@
 WebApi/obj/Debug/net6.0/WebApi.assets.cache
+WebApi/bin
+WebApi/obj
+Application/bin
+Application/obj
+Gateway/bin
+Gateway/obj
+IOC/bin
+IOC/obj
+WebApi/appsettings.Development.json
+WebApi/appsettings.json
 IOC/obj/Debug/net6.0/IOC.assets.cache
 Domain/obj/Debug/net6.0/Domain.assets.cache
 Persistence/obj/Debug/net6.0/Persistence.assets.cache
 Application/obj/Debug/net6.0/Application.assets.cache
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
