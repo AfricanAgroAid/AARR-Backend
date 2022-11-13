@@ -8,9 +8,10 @@ public static class ServiceCollectionExtension
     public static IServiceCollection AddGateway(this IServiceCollection services)
     {
         services.
-        AddScoped<IOpenWeatherMapService,OpenWeatherMapService>()
+        AddScoped<IOpenWeatherMapService, OpenWeatherMapService>()
         .AddScoped<INumLookUpService, NumberLookUpServices>()
-        .AddScoped<ICityService, CityService>();
+        .AddScoped<ICityService, CityService>()
+        .AddScoped<ITwilioSmsIntegration, TwilioSmsIntegration>();
         return services;
     }
 }
