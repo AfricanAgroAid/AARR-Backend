@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Gmw0YMQXRCEpg12Lk6y+tyYRyHOuV4ABx2XgTlP8KMyHKl3XSEh2Cvu3G6zjAnkl4dH1ji9+8+G6qvJ0PjQbVA==",
+  "dgSpecHash": "4iOZmfqrvmB/I23FoqfPG430sNLnDbGFn0mtwbyk9+kdE5TVxw0y2Ck/XEsRHEG9KbqiLNDqgI5DflVfrc+kBw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\user\\Desktop\\Extern\\AARR\\AARR-Backend\\Application\\Application.csproj",
+  "projectFilePath": "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\mapster\\7.3.0\\mapster.7.3.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\mapster.core\\1.2.0\\mapster.core.1.2.0.nupkg.sha512",
@@ -41,12 +41,5 @@
     "C:\\Users\\user\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file c:\\Users\\user\\Desktop\\Extern\\AARR\\AARR-Backend\\Application\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

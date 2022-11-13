@@ -2,6 +2,7 @@
 using Application.Interfaces.Repositories;
 using Application.Interfaces.Services.GatewayServices;
 using Application.JSONResponseModel;
+using Application.JSONResponseModel.OpenWeatherMapServiceResponseModels;
 using Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 using Persistence.Context;
@@ -34,34 +35,56 @@ public class FarmRepository : GenericRepository<Farm>, IFarmRepository
         var ret = await _open.GetDaysClimaticForecastAsync(a, "metric", 30);
         foreach (var item in ret)
         {
-            var hazardous = item.DailyForecasts.Where(x => x.Temperature.Maximum > 9 - 3.5 || x.Temperature.Minimum < 36.5);
-            if (hazardous.Count() > 0)
+            var coolHazardous = item.DailyForecasts.Where(x => x.Temperature.Maximum > 34 || x.Temperature.Minimum < 2.5);
+            var hotHazardous = item.DailyForecasts.Where(x => x.Temperature.Maximum > 77 || x.Temperature.Minimum < 34);
+            if (coolHazardous.Count() > 0)
             {
                 var locations = item.City.Name;
                 var farms = await GetAllFarmsByLocation(locations);
                 foreach (var farm in farms)
                 {
-                    var weatherInfo = hazardous.Select(x => x.WeatherInformations).ToList();
-                    List<string> desc = new List<string>();
-                    foreach (var describe in weatherInfo)
-                    {
-                        foreach (var d in describe)
-                        {
-                            desc.Add(d.Description);
-                        }
-                    }
                     var weatherResponse = new WeatherResponse
                     {
-                        Description = desc,
+                        Description = AddDescription(coolHazardous),
                         FarmerPhoneNumber = farm.Farmer.PhoneNumber,
                         FarmLocation = farm.LocatedCity,
-                        FarmName = farm.FarmName
+                        FarmName = farm.FarmName,
+                        DateOfIncidence = hotHazardous.First().Dates.ForecastDate,
                     };
                     weatherResponses.Add(weatherResponse);
                 }
             }
-
+            if (hotHazardous.Count() > 0)
+            {
+                var locations = item.City.Name;
+                var farms = await GetAllFarmsByLocation(locations);
+                foreach (var farm in farms)
+                {
+                    var weatherResponse = new WeatherResponse
+                    {
+                        Description = AddDescription(hotHazardous),
+                        FarmerPhoneNumber = farm.Farmer.PhoneNumber,
+                        FarmLocation = farm.LocatedCity,
+                        FarmName = farm.FarmName,
+                        DateOfIncidence = hotHazardous.First().Dates.ForecastDate,
+                    };
+                    weatherResponses.Add(weatherResponse);
+                }
+            }
         }
         return weatherResponses;
+    }
+    private List<string> AddDescription(IEnumerable<DailyForecastInformation> hazardous)
+    {
+        var weatherInfo = hazardous.Select(x => x.WeatherInformations).ToList();
+        List<string> desc = new List<string>();
+        foreach (var describe in weatherInfo)
+        {
+            foreach (var d in describe)
+            {
+                desc.Add(d.Description);
+            }
+        }
+        return desc;
     }
 }
