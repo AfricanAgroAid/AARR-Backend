@@ -49,7 +49,7 @@ public class FarmRepository : GenericRepository<Farm>, IFarmRepository
                         FarmerPhoneNumber = farm.Farmer.PhoneNumber,
                         FarmLocation = farm.LocatedCity,
                         FarmName = farm.FarmName,
-                        DateOfIncidence = hotHazardous.First().Dates.ForecastDate,
+                        DateOfIncidence = coolHazardous.First().Dates.ForecastDate,
                     };
                     weatherResponses.Add(weatherResponse);
                 }
@@ -76,11 +76,11 @@ public class FarmRepository : GenericRepository<Farm>, IFarmRepository
     }
     private List<string> AddDescription(IEnumerable<DailyForecastInformation> hazardous)
     {
-        var weatherInfo = hazardous.Select(x => x.WeatherInformations).ToList();
+        var weatherInfos = hazardous.Select(x => x.WeatherInformations).ToList();
         List<string> desc = new List<string>();
-        foreach (var describe in weatherInfo)
+        foreach (var weatherInfo in weatherInfos)
         {
-            foreach (var d in describe)
+            foreach (var d in weatherInfo)
             {
                 desc.Add(d.Description);
             }
