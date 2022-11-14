@@ -46,6 +46,7 @@ public class FarmRepository : GenericRepository<Farm>, IFarmRepository
                 {
                     if(farms.Count() > 0)
                     {
+
                         foreach (var farm in farms)
                         {
                             var weatherResponse = new WeatherResponse
@@ -59,6 +60,7 @@ public class FarmRepository : GenericRepository<Farm>, IFarmRepository
                             weatherResponses.Add(weatherResponse);
                         }    
                     }
+
                 }
             }
             if (hotHazardous.Count() > 0)
@@ -88,4 +90,5 @@ public class FarmRepository : GenericRepository<Farm>, IFarmRepository
         }
         return weatherResponses;
     }
+
 }
