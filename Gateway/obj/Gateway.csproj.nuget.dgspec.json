@@ -4,14 +4,14 @@
     "C:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Gateway\\Gateway.csproj": {}
   },
   "projects": {
-    "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Application\\Application.csproj": {
+    "C:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Application\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Domain\\Domain.csproj": {
-                "projectPath": "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Domain\\Domain.csproj"
+              "C:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Domain\\Domain.csproj"
               }
             }
           }
@@ -83,14 +83,14 @@
         }
       }
     },
-    "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Domain\\Domain.csproj": {
+    "C:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -158,8 +158,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Application\\Application.csproj": {
-                "projectPath": "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Application\\Application.csproj"
+              "C:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Application\\Application.csproj"
               }
             }
           }
