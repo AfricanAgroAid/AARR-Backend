@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\user\\Desktop\\Extern\\AARR\\AARR-Backend\\Domain\\Domain.csproj": {}
+    "C:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "c:\\Users\\user\\Desktop\\Extern\\AARR\\AARR-Backend\\Domain\\Domain.csproj": {
+    "C:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\user\\Desktop\\Extern\\AARR\\AARR-Backend\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "c:\\Users\\user\\Desktop\\Extern\\AARR\\AARR-Backend\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\user\\Desktop\\Extern\\AARR\\AARR-Backend\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"

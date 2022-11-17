@@ -2419,11 +2419,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\user\\Desktop\\Extern\\AARR\\AARR-Backend\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "c:\\Users\\user\\Desktop\\Extern\\AARR\\AARR-Backend\\Application\\Application.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\user\\Desktop\\Extern\\AARR\\AARR-Backend\\Application\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -2438,8 +2438,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "c:\\Users\\user\\Desktop\\Extern\\AARR\\AARR-Backend\\Domain\\Domain.csproj": {
-              "projectPath": "c:\\Users\\user\\Desktop\\Extern\\AARR\\AARR-Backend\\Domain\\Domain.csproj"
+            "C:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Domain\\Domain.csproj"
             }
           }
         }
@@ -2494,13 +2494,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file c:\\Users\\user\\Desktop\\Extern\\AARR\\AARR-Backend\\Application\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }

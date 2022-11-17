@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nBEVbfc+r38K5kctJ1gbrSv4CAyTaXTmGf+UhspDfRKpzHkx27hZNOfUBbOsfao54XD5MPSkENJC5Hs8FBRu9Q==",
+  "dgSpecHash": "3oCr7DfHciWjBYpCI5veVxp3bPqjb8zRNmFQ7E4PWbGvIJ29fIrvvF1JkIbVenbN0O6oErFUzh/H0ksTNQhhuQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\user\\Desktop\\Extern\\AARR\\AARR-Backend\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file c:\\Users\\user\\Desktop\\Extern\\AARR\\AARR-Backend\\Domain\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }
