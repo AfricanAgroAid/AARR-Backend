@@ -11,7 +11,7 @@ public static class ServiceCollectionExtension
         services.
         AddDbConfiguration(configuration)
         .AddRepositories()
-        .AddApplication()
+        .AddApplication(configuration)
         .AddGateway();
         return services;
     }
