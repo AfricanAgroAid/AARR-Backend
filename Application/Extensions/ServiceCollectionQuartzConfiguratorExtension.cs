@@ -31,6 +31,6 @@ public static class ServiceCollectionQuartzConfiguratorExtensions
         quartz.AddTrigger(opts => opts
             .ForJob(jobKey)
             .WithIdentity(jobName + "-trigger")
-            .WithCronSchedule(CronScheduleBuilder.DailyAtHourAndMinute(17,32)));
+            .WithCronSchedule(CronScheduleBuilder.DailyAtHourAndMinute(0,00)));
     }
 }

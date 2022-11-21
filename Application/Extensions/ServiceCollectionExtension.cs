@@ -20,8 +20,7 @@ public static class ServiceCollectionExtension
                    q.AddJobAndTrigger<SaveWeatherForecastInformationToDatabaseJob>();
                    q.AddJobAndTriggerForCronSchedule<SendMessageJob>();
                }
-            )
-            .AddQuartzHostedService(
+            ).AddQuartzHostedService(
            q => q.WaitForJobsToComplete = true);
     }
 }

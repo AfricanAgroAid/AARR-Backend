@@ -15,7 +15,7 @@ public class SendMessageService : ISendMessageService
 
     public async Task<bool> SendHazardNotificationAsync()
     {
-       var messages = await _messageRepository.GetByConditionAsync(mes => mes.DateOfIncidence.Date == DateTime.UtcNow.Date);
+       var messages = await _messageRepository.GetByConditionAsync(mes => mes.DateOfIncidence.Date == DateTime.Now.Date);
        List<SendMessageModel> sendMessageModels = new List<SendMessageModel>();
        foreach(var message in messages)
        {

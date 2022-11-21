@@ -21,15 +21,15 @@ public class MessageService : IMessageService
         var output = false;
         foreach (var hazard in hazards)
         {
+            hazard.FarmerPhoneNumber = hazard.FarmerCountryCode +  hazard.FarmerPhoneNumber.Replace(hazard.FarmerPhoneNumber[0].ToString(),"");
             var messageExists = await _messageRepository.ExistsAsync(message => message.FarmerPhoneNumber == hazard.FarmerPhoneNumber
-            && message.DateOfIncidence == hazard.DateOfIncidence && message.FarmLocation == hazard.FarmLocation);
-            if (messageExists) return output;
+            && message.DateOfIncidence.Date == hazard.DateOfIncidence.Date && message.FarmLocation == hazard.FarmLocation);
+            if (messageExists) return output; 
             var messageContent = @$"Dear Farmer:{hazard.FarmerPhoneNumber}, On  ""{hazard.DateOfIncidence.ToShortDateString()}""  
             There Is Going To Be A Weather Hazard of ""{hazard.Description}"" In Your Farm At:{hazard.FarmLocation} Which Is Likely to affect your crops ";
-            var message = new Message(messageContent, hazard.DateOfIncidence, hazard.FarmLocation, hazard.FarmerCountryCode+hazard.FarmerPhoneNumber);
+            var message = new Message(messageContent, hazard.DateOfIncidence, hazard.FarmLocation, hazard.FarmerPhoneNumber);
             var createdMessage = await _messageRepository.CreateAsync(message);
             output = true;
-      
         }
         return output;
     }

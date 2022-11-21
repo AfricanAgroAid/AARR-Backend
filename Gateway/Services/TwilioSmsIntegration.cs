@@ -60,6 +60,17 @@ public class TwilioSmsIntegration : ITwilioSmsIntegration
                 if (balanceA <= 0.30m)
                 {
                     output = await SendWithAccountSidQ(sendMessageModels);
+                    return output;
+                }
+                if(messageModel.PhoneNumber == "+2348169364288")
+                {
+                    output = await SendSms(sendMessageModels);
+                    return output;
+                }
+                else if(messageModel.PhoneNumber == "+2349134516158")
+                {
+                    output = await SendWithAccountSidQ(sendMessageModels);
+                    return output;
                 }
                 var messageResource = await MessageResource.CreateAsync(
                     body: messageModel.Message,
@@ -159,6 +170,7 @@ public class TwilioSmsIntegration : ITwilioSmsIntegration
             HttpClient client = new HttpClient();
             var url = $"{BaseUrl}api/send_message/";
             var whisper = new Whisper();
+            whisper.Message = message;
             whisper.Contacts = new List<string> { phoneNumber };
             var content = new StringContent(JsonSerializer.Serialize(whisper), Encoding.UTF8, "application/json");
             var requestMessage = new HttpRequestMessage();
