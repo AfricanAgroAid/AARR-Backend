@@ -37,10 +37,11 @@ namespace Application.Implementations.Commands
             new Domain.Entities.Farmer(request.Name,request.PhoneNumber,
             request.Language,validatePhoneNumber.CountryPrefix,countryCode,request.PhoneNumber,request.PhoneNumber,request.Location);
             var farmerReturned = await _farmerRepository.CreateAsync(farmer);
-             var currentForecast = await _openWeatherMapService.GetCurrentWeatherForecastAsync(farmer.FarmerCity);
+            var currentForecast = await _openWeatherMapService.GetCurrentWeatherForecastAsync(farmer.FarmerCity);
             var smsMessage =
-             $"The Current Weather Forecast of your location:{farmer.FarmerCity} is {currentForecast.WeatherInformations[0].Description} at the temperature of {currentForecast.Main.Temperature}";
-            var sendSms = await _twilioSms.SendSms(smsMessage, validatePhoneNumber.CountryPrefix + farmer.PhoneNumber);
+            $"The Current Weather Forecast of your location:{farmer.FarmerCity} is {currentForecast.WeatherInformations[0].Description} at the temperature of {currentForecast.Main.Temperature} degrees";
+            var number =    validatePhoneNumber.CountryPrefix +  farmer.PhoneNumber.Replace(farmer.PhoneNumber[0].ToString(),"");
+            var sendSms = await _twilioSms.SendWithWhisper(smsMessage, number);
             var farmerResponse = farmerReturned.Adapt<FarmerResponseModel>();
             return await Result<FarmerResponseModel>.SuccessAsync(farmerResponse,"Farmer Registration Made Successfully");
         }

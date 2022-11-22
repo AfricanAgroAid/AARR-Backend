@@ -1,62 +1,332 @@
-2022-10-29 09:16:13.1796 Info Message Template Auto Format enabled
-2022-10-29 09:16:13.2416 Info Loading assembly: NLog.Web.AspNetCore
-2022-10-29 09:16:13.3372 Info Adding target FileTarget(Name=alldata)
-2022-10-29 09:16:13.4751 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
-2022-10-29 09:16:13.5250 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=C:\Users\user\Desktop\AARR2\AARR\WebApi\bin\Debug\net6.0\NLog.config
-2022-10-29 09:16:13.6094 Info Configuration initialized.
-2022-10-29 09:16:13.6094 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
-2022-10-29 09:18:34.2833 Info Message Template Auto Format enabled
-2022-10-29 09:18:34.3226 Info Loading assembly: NLog.Web.AspNetCore
-2022-10-29 09:18:34.3974 Info Adding target FileTarget(Name=alldata)
-2022-10-29 09:18:34.5381 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
-2022-10-29 09:18:34.5978 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=C:\Users\user\Desktop\AARR2\AARR\WebApi\bin\Debug\net6.0\NLog.config
-2022-10-29 09:18:34.6228 Info Configuration initialized.
-2022-10-29 09:18:34.6228 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
-2022-10-29 12:21:00.6868 Info Message Template Auto Format enabled
-2022-10-29 12:21:00.7189 Info Loading assembly: NLog.Web.AspNetCore
-2022-10-29 12:21:00.8522 Info Adding target FileTarget(Name=alldata)
-2022-10-29 12:21:00.8702 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
-2022-10-29 12:21:00.9619 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=c:\Users\user\Desktop\AARR2\AARR\WebApi\bin\Debug\net6.0\NLog.config
-2022-10-29 12:21:01.0224 Info Configuration initialized.
-2022-10-29 12:21:01.0224 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
-2022-10-29 12:30:49.6779 Info AppDomain Shutting down. Logger closing...
-2022-10-29 12:30:49.7510 Info Logger has been shut down.
-2022-10-29 12:32:18.9159 Info Message Template Auto Format enabled
-2022-10-29 12:32:18.9450 Info Loading assembly: NLog.Web.AspNetCore
-2022-10-29 12:32:19.0602 Info Adding target FileTarget(Name=alldata)
-2022-10-29 12:32:19.1489 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
-2022-10-29 12:32:19.1816 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=C:\Users\user\Desktop\AARR2\AARR\WebApi\bin\Debug\net6.0\NLog.config
-2022-10-29 12:32:19.2395 Info Configuration initialized.
-2022-10-29 12:32:19.2395 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
-2022-10-29 12:33:50.0827 Info AppDomain Shutting down. Logger closing...
-2022-10-29 12:33:50.0991 Info Logger has been shut down.
-2022-10-29 12:34:43.1897 Info Message Template Auto Format enabled
-2022-10-29 12:34:43.3327 Info Loading assembly: NLog.Web.AspNetCore
-2022-10-29 12:34:43.4753 Info Adding target FileTarget(Name=alldata)
-2022-10-29 12:34:43.5913 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
-2022-10-29 12:34:43.6201 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=C:\Users\user\Desktop\AARR2\AARR\WebApi\bin\Debug\net6.0\NLog.config
-2022-10-29 12:34:43.6506 Info Configuration initialized.
-2022-10-29 12:34:43.6521 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
-2022-10-29 21:56:23.3207 Info Message Template Auto Format enabled
-2022-10-29 21:56:23.4120 Info Loading assembly: NLog.Web.AspNetCore
-2022-10-29 21:56:23.6009 Info Adding target FileTarget(Name=alldata)
-2022-10-29 21:56:23.8073 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
-2022-10-29 21:56:23.8379 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=C:\Users\user\Desktop\AARR2\AARR\WebApi\bin\Debug\net6.0\NLog.config
-2022-10-29 21:56:23.9140 Info Configuration initialized.
-2022-10-29 21:56:23.9140 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
-2022-10-30 17:37:10.6161 Info Message Template Auto Format enabled
-2022-10-30 17:37:10.6431 Info Loading assembly: NLog.Web.AspNetCore
-2022-10-30 17:37:10.7927 Info Adding target FileTarget(Name=alldata)
-2022-10-30 17:37:10.8266 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
-2022-10-30 17:37:10.8811 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=c:\Users\user\Desktop\Extern\AARR\WebApi\bin\Debug\net6.0\NLog.config
-2022-10-30 17:37:10.9316 Info Configuration initialized.
-2022-10-30 17:37:10.9363 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
-2022-10-30 17:46:45.9632 Info AppDomain Shutting down. Logger closing...
-2022-10-30 17:46:47.1453 Info Logger has been shut down.
-2022-10-30 17:52:56.0772 Info Message Template Auto Format enabled
-2022-10-30 17:52:56.3586 Info Loading assembly: NLog.Web.AspNetCore
-2022-10-30 17:52:56.7688 Info Adding target FileTarget(Name=alldata)
-2022-10-30 17:52:57.1896 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
-2022-10-30 17:52:57.3796 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=C:\Users\user\Desktop\Extern\AARR\WebApi\bin\Debug\net6.0\NLog.config
-2022-10-30 17:52:57.5690 Info Configuration initialized.
-2022-10-30 17:52:57.5690 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-11-17 11:26:59.4505 Info Message Template Auto Format enabled
+2022-11-17 11:26:59.4676 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-17 11:26:59.5515 Info Adding target FileTarget(Name=alldata)
+2022-11-17 11:26:59.5843 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2022-11-17 11:26:59.6115 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=C:\Users\user\Desktop\AARR-Backend\WebApi\bin\Debug\net6.0\NLog.config
+2022-11-17 11:26:59.6394 Info Configuration initialized.
+2022-11-17 11:26:59.6394 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-11-17 11:33:58.9376 Info Message Template Auto Format enabled
+2022-11-17 11:33:58.9537 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-17 11:33:59.0284 Info Adding target FileTarget(Name=alldata)
+2022-11-17 11:33:59.0755 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2022-11-17 11:33:59.1124 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=C:\Users\user\Desktop\AARR-Backend\WebApi\bin\Debug\net6.0\NLog.config
+2022-11-17 11:33:59.1409 Info Configuration initialized.
+2022-11-17 11:33:59.1409 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-11-17 12:05:52.6799 Info AppDomain Shutting down. Logger closing...
+2022-11-17 12:05:53.3938 Info Logger has been shut down.
+2022-11-17 12:08:58.3162 Info Message Template Auto Format enabled
+2022-11-17 12:08:58.3291 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-17 12:08:58.4029 Info Adding target FileTarget(Name=alldata)
+2022-11-17 12:08:58.4197 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2022-11-17 12:08:58.4474 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=C:\Users\user\Desktop\AARR-Backend\WebApi\bin\Debug\net6.0\NLog.config
+2022-11-17 12:08:58.4759 Info Configuration initialized.
+2022-11-17 12:08:58.4759 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-11-17 12:27:49.6004 Info AppDomain Shutting down. Logger closing...
+2022-11-17 12:27:49.6599 Info Logger has been shut down.
+2022-11-17 12:31:21.7196 Info Message Template Auto Format enabled
+2022-11-17 12:31:21.7810 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-17 12:31:21.8576 Info Adding target FileTarget(Name=alldata)
+2022-11-17 12:31:21.8763 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2022-11-17 12:31:21.9092 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=C:\Users\user\Desktop\AARR-Backend\WebApi\bin\Debug\net6.0\NLog.config
+2022-11-17 12:31:21.9483 Info Configuration initialized.
+2022-11-17 12:31:21.9512 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-11-17 13:54:42.4351 Info Message Template Auto Format enabled
+2022-11-17 13:54:42.4761 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-17 13:54:42.6988 Info Adding target FileTarget(Name=alldata)
+2022-11-17 13:54:42.7188 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2022-11-17 13:54:42.7782 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=C:\Users\user\Desktop\AARR-Backend\WebApi\bin\Debug\net6.0\NLog.config
+2022-11-17 13:54:42.8168 Info Configuration initialized.
+2022-11-17 13:54:42.8168 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-11-17 14:47:39.1199 Info Message Template Auto Format enabled
+2022-11-17 14:47:39.1550 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-17 14:47:39.2468 Info Adding target FileTarget(Name=alldata)
+2022-11-17 14:47:39.2641 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2022-11-17 14:47:39.3007 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=C:\Users\user\Desktop\AARR-Backend\WebApi\bin\Debug\net6.0\NLog.config
+2022-11-17 14:47:39.3279 Info Configuration initialized.
+2022-11-17 14:47:39.3279 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-11-17 15:14:36.4136 Info Message Template Auto Format enabled
+2022-11-17 15:14:36.4483 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-17 15:14:36.6415 Info Adding target FileTarget(Name=alldata)
+2022-11-17 15:14:36.6743 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2022-11-17 15:14:36.7101 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=C:\Users\user\Desktop\AARR-Backend\WebApi\bin\Debug\net6.0\NLog.config
+2022-11-17 15:14:36.7443 Info Configuration initialized.
+2022-11-17 15:14:36.7443 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-11-17 15:21:23.1380 Info Message Template Auto Format enabled
+2022-11-17 15:21:23.2056 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-17 15:21:23.8211 Info Adding target FileTarget(Name=alldata)
+2022-11-17 15:21:23.8469 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2022-11-17 15:21:23.9058 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=C:\Users\user\Desktop\AARR-Backend\WebApi\bin\Debug\net6.0\NLog.config
+2022-11-17 15:21:23.9912 Info Configuration initialized.
+2022-11-17 15:21:23.9912 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-11-17 16:23:59.4456 Info Message Template Auto Format enabled
+2022-11-17 16:23:59.5462 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-17 16:23:59.7861 Info Adding target FileTarget(Name=alldata)
+2022-11-17 16:23:59.8090 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2022-11-17 16:23:59.8722 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=C:\Users\user\Desktop\AARR-Backend\WebApi\bin\Debug\net6.0\NLog.config
+2022-11-17 16:23:59.9671 Info Configuration initialized.
+2022-11-17 16:24:00.0320 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-11-17 16:37:28.0760 Info Message Template Auto Format enabled
+2022-11-17 16:37:28.0980 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-17 16:37:28.2314 Info Adding target FileTarget(Name=alldata)
+2022-11-17 16:37:28.2490 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2022-11-17 16:37:28.3048 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=C:\Users\user\Desktop\AARR-Backend\WebApi\bin\Debug\net6.0\NLog.config
+2022-11-17 16:37:28.3533 Info Configuration initialized.
+2022-11-17 16:37:28.3533 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-11-17 16:47:19.5822 Info AppDomain Shutting down. Logger closing...
+2022-11-17 16:47:19.7145 Info Logger has been shut down.
+2022-11-17 17:49:02.7370 Info Message Template Auto Format enabled
+2022-11-17 17:49:02.8243 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-17 17:49:03.1257 Info Adding target FileTarget(Name=alldata)
+2022-11-17 17:49:03.1748 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2022-11-17 17:49:03.2492 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=C:\Users\user\Desktop\AARR-Backend\WebApi\bin\Debug\net6.0\NLog.config
+2022-11-17 17:49:03.3756 Info Configuration initialized.
+2022-11-17 17:49:03.4572 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-11-17 21:43:36.7203 Info Message Template Auto Format enabled
+2022-11-17 21:43:36.7605 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-17 21:43:36.8541 Info Adding target FileTarget(Name=alldata)
+2022-11-17 21:43:36.8786 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2022-11-17 21:43:36.9095 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=C:\Users\user\Desktop\AARR-Backend\WebApi\bin\Debug\net6.0\NLog.config
+2022-11-17 21:43:36.9434 Info Configuration initialized.
+2022-11-17 21:43:36.9434 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-11-17 21:45:06.6694 Info AppDomain Shutting down. Logger closing...
+2022-11-17 21:45:06.6883 Info Logger has been shut down.
+2022-11-17 21:50:36.1796 Info Message Template Auto Format enabled
+2022-11-17 21:50:36.2515 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-17 21:50:36.3591 Info Adding target FileTarget(Name=alldata)
+2022-11-17 21:50:36.3782 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2022-11-17 21:50:36.4189 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=C:\Users\user\Desktop\AARR-Backend\WebApi\bin\Debug\net6.0\NLog.config
+2022-11-17 21:50:36.4799 Info Configuration initialized.
+2022-11-17 21:50:36.4847 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-11-17 21:55:39.0163 Info Message Template Auto Format enabled
+2022-11-17 21:55:39.0496 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-17 21:55:39.1254 Info Adding target FileTarget(Name=alldata)
+2022-11-17 21:55:39.1432 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2022-11-17 21:55:39.1692 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=C:\Users\user\Desktop\AARR-Backend\WebApi\bin\Debug\net6.0\NLog.config
+2022-11-17 21:55:39.2167 Info Configuration initialized.
+2022-11-17 21:55:39.2167 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-11-17 22:05:06.9151 Info AppDomain Shutting down. Logger closing...
+2022-11-17 22:05:06.9514 Info Logger has been shut down.
+2022-11-17 22:06:36.4380 Info Message Template Auto Format enabled
+2022-11-17 22:06:36.4581 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-17 22:06:36.5462 Info Adding target FileTarget(Name=alldata)
+2022-11-17 22:06:36.5714 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2022-11-17 22:06:36.6129 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=C:\Users\user\Desktop\AARR-Backend\WebApi\bin\Debug\net6.0\NLog.config
+2022-11-17 22:06:36.6525 Info Configuration initialized.
+2022-11-17 22:06:36.6541 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-11-17 22:11:52.9632 Info AppDomain Shutting down. Logger closing...
+2022-11-17 22:11:52.9855 Info Logger has been shut down.
+2022-11-17 22:20:08.2896 Info Message Template Auto Format enabled
+2022-11-17 22:20:08.3167 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-17 22:20:08.4798 Info Adding target FileTarget(Name=alldata)
+2022-11-17 22:20:08.4976 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2022-11-17 22:20:08.5769 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=C:\Users\user\Desktop\AARR-Backend\WebApi\bin\Debug\net6.0\NLog.config
+2022-11-17 22:20:08.6078 Info Configuration initialized.
+2022-11-17 22:20:08.6078 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-11-17 22:38:20.6251 Info AppDomain Shutting down. Logger closing...
+2022-11-17 22:38:20.6408 Info Logger has been shut down.
+2022-11-17 22:55:37.9435 Info Message Template Auto Format enabled
+2022-11-17 22:55:37.9613 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-17 22:55:38.0784 Info Adding target FileTarget(Name=alldata)
+2022-11-17 22:55:38.1006 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2022-11-17 22:55:38.1310 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=C:\Users\user\Desktop\AARR-Backend\WebApi\bin\Debug\net6.0\NLog.config
+2022-11-17 22:55:38.1587 Info Configuration initialized.
+2022-11-17 22:55:38.1587 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-11-17 23:10:37.1001 Info AppDomain Shutting down. Logger closing...
+2022-11-17 23:10:37.1227 Info Logger has been shut down.
+2022-11-17 23:20:07.9253 Info Message Template Auto Format enabled
+2022-11-17 23:20:07.9374 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-17 23:20:08.1535 Info Adding target FileTarget(Name=alldata)
+2022-11-17 23:20:08.1708 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2022-11-17 23:20:08.1961 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=C:\Users\user\Desktop\AARR-Backend\WebApi\bin\Debug\net6.0\NLog.config
+2022-11-17 23:20:08.2204 Info Configuration initialized.
+2022-11-17 23:20:08.2204 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-11-18 10:22:12.3643 Info AppDomain Shutting down. Logger closing...
+2022-11-18 10:22:13.3498 Info Logger has been shut down.
+2022-11-19 01:47:50.7978 Info Message Template Auto Format enabled
+2022-11-19 01:47:50.8324 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-19 01:47:50.9329 Info Adding target FileTarget(Name=alldata)
+2022-11-19 01:47:50.9504 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2022-11-19 01:47:50.9874 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=C:\Users\user\Desktop\AARR-Backend\WebApi\bin\Debug\net6.0\NLog.config
+2022-11-19 01:47:51.0390 Info Configuration initialized.
+2022-11-19 01:47:51.0390 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-11-19 02:00:18.6604 Info AppDomain Shutting down. Logger closing...
+2022-11-19 02:00:18.6784 Info Logger has been shut down.
+2022-11-19 02:00:46.8475 Info Message Template Auto Format enabled
+2022-11-19 02:00:46.8608 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-19 02:00:46.9776 Info Adding target FileTarget(Name=alldata)
+2022-11-19 02:00:47.0037 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2022-11-19 02:00:47.0678 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=C:\Users\user\Desktop\AARR-Backend\WebApi\bin\Debug\net6.0\NLog.config
+2022-11-19 02:00:47.1035 Info Configuration initialized.
+2022-11-19 02:00:47.1055 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-11-19 10:26:47.7923 Info Message Template Auto Format enabled
+2022-11-19 10:26:47.8026 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-19 10:26:47.9344 Info Adding target FileTarget(Name=alldata)
+2022-11-19 10:26:47.9594 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2022-11-19 10:26:47.9861 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=C:\Users\user\Desktop\AARR-Backend\WebApi\bin\Debug\net6.0\NLog.config
+2022-11-19 10:26:48.0103 Info Configuration initialized.
+2022-11-19 10:26:48.0103 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-11-19 10:30:53.4323 Info AppDomain Shutting down. Logger closing...
+2022-11-19 10:30:53.4498 Info Logger has been shut down.
+2022-11-19 10:31:08.8180 Info Message Template Auto Format enabled
+2022-11-19 10:31:08.8456 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-19 10:31:08.9406 Info Adding target FileTarget(Name=alldata)
+2022-11-19 10:31:08.9582 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2022-11-19 10:31:08.9848 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=C:\Users\user\Desktop\AARR-Backend\WebApi\bin\Debug\net6.0\NLog.config
+2022-11-19 10:31:09.0239 Info Configuration initialized.
+2022-11-19 10:31:09.0239 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-11-19 10:33:22.4435 Info AppDomain Shutting down. Logger closing...
+2022-11-19 10:33:22.4601 Info Logger has been shut down.
+2022-11-19 10:39:07.5043 Info Message Template Auto Format enabled
+2022-11-19 10:39:07.5710 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-19 10:39:07.6487 Info Adding target FileTarget(Name=alldata)
+2022-11-19 10:39:07.6666 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2022-11-19 10:39:07.6987 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=C:\Users\user\Desktop\AARR-Backend\WebApi\bin\Debug\net6.0\NLog.config
+2022-11-19 10:39:07.7223 Info Configuration initialized.
+2022-11-19 10:39:07.7223 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-11-19 10:44:34.7841 Info Message Template Auto Format enabled
+2022-11-19 10:44:34.8266 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-19 10:44:34.9105 Info Adding target FileTarget(Name=alldata)
+2022-11-19 10:44:34.9453 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2022-11-19 10:44:34.9930 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=C:\Users\user\Desktop\AARR-Backend\WebApi\bin\Debug\net6.0\NLog.config
+2022-11-19 10:44:35.0168 Info Configuration initialized.
+2022-11-19 10:44:35.0168 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-11-19 10:45:59.4987 Info Message Template Auto Format enabled
+2022-11-19 10:45:59.5166 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-19 10:45:59.6185 Info Adding target FileTarget(Name=alldata)
+2022-11-19 10:45:59.6389 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2022-11-19 10:45:59.6645 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=C:\Users\user\Desktop\AARR-Backend\WebApi\bin\Debug\net6.0\NLog.config
+2022-11-19 10:45:59.6956 Info Configuration initialized.
+2022-11-19 10:45:59.6956 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-11-19 11:07:27.8400 Info Message Template Auto Format enabled
+2022-11-19 11:07:27.8982 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-19 11:07:28.7149 Info Adding target FileTarget(Name=alldata)
+2022-11-19 11:07:28.8872 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2022-11-19 11:07:29.0847 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=C:\Users\user\Desktop\AARR-Backend\WebApi\bin\Debug\net6.0\NLog.config
+2022-11-19 11:07:29.3490 Info Configuration initialized.
+2022-11-19 11:07:29.4194 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-11-19 11:19:32.6815 Info Message Template Auto Format enabled
+2022-11-19 11:19:32.8827 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-19 11:19:33.7306 Info Adding target FileTarget(Name=alldata)
+2022-11-19 11:19:33.8364 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2022-11-19 11:19:34.0130 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=C:\Users\user\Desktop\AARR-Backend\WebApi\bin\Debug\net6.0\NLog.config
+2022-11-19 11:19:34.1827 Info Configuration initialized.
+2022-11-19 11:19:34.1877 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-11-19 11:27:48.3388 Info Message Template Auto Format enabled
+2022-11-19 11:27:48.4128 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-19 11:27:48.8856 Info Adding target FileTarget(Name=alldata)
+2022-11-19 11:27:48.9664 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2022-11-19 11:27:49.1012 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=C:\Users\user\Desktop\AARR-Backend\WebApi\bin\Debug\net6.0\NLog.config
+2022-11-19 11:27:49.2512 Info Configuration initialized.
+2022-11-19 11:27:49.2512 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-11-19 12:38:40.6004 Info Message Template Auto Format enabled
+2022-11-19 12:38:40.6358 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-19 12:38:40.7385 Info Adding target FileTarget(Name=alldata)
+2022-11-19 12:38:40.7613 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2022-11-19 12:38:40.7956 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=C:\Users\user\Desktop\AARR-Backend\WebApi\bin\Debug\net6.0\NLog.config
+2022-11-19 12:38:40.8544 Info Configuration initialized.
+2022-11-19 12:38:40.8544 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-11-19 12:42:06.3708 Info Message Template Auto Format enabled
+2022-11-19 12:42:06.4789 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-19 12:42:06.5681 Info Adding target FileTarget(Name=alldata)
+2022-11-19 12:42:06.6140 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2022-11-19 12:42:06.6742 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=C:\Users\user\Desktop\AARR-Backend\WebApi\bin\Debug\net6.0\NLog.config
+2022-11-19 12:42:06.7296 Info Configuration initialized.
+2022-11-19 12:42:06.7296 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-11-19 12:45:54.8785 Info Message Template Auto Format enabled
+2022-11-19 12:45:54.8979 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-19 12:45:55.1928 Info Adding target FileTarget(Name=alldata)
+2022-11-19 12:45:55.2387 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2022-11-19 12:45:55.2705 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=C:\Users\user\Desktop\AARR-Backend\WebApi\bin\Debug\net6.0\NLog.config
+2022-11-19 12:45:55.2978 Info Configuration initialized.
+2022-11-19 12:45:55.2978 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-11-19 12:59:04.9566 Info Message Template Auto Format enabled
+2022-11-19 12:59:05.1651 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-19 12:59:05.3258 Info Adding target FileTarget(Name=alldata)
+2022-11-19 12:59:05.3445 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2022-11-19 12:59:05.3859 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=C:\Users\user\Desktop\AARR-Backend\WebApi\bin\Debug\net6.0\NLog.config
+2022-11-19 12:59:05.4571 Info Configuration initialized.
+2022-11-19 12:59:05.4571 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-11-19 13:03:52.7680 Info Message Template Auto Format enabled
+2022-11-19 13:03:52.7939 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-19 13:03:52.9468 Info Adding target FileTarget(Name=alldata)
+2022-11-19 13:03:52.9846 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2022-11-19 13:03:53.0349 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=C:\Users\user\Desktop\AARR-Backend\WebApi\bin\Debug\net6.0\NLog.config
+2022-11-19 13:03:53.0729 Info Configuration initialized.
+2022-11-19 13:03:53.0729 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-11-19 13:04:26.7325 Info Message Template Auto Format enabled
+2022-11-19 13:04:26.7602 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-19 13:04:26.8741 Info Adding target FileTarget(Name=alldata)
+2022-11-19 13:04:26.9043 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2022-11-19 13:04:26.9402 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=C:\Users\user\Desktop\AARR-Backend\WebApi\bin\Debug\net6.0\NLog.config
+2022-11-19 13:04:26.9695 Info Configuration initialized.
+2022-11-19 13:04:26.9695 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-11-19 13:11:01.1079 Info Message Template Auto Format enabled
+2022-11-19 13:11:01.1389 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-19 13:11:01.2827 Info Adding target FileTarget(Name=alldata)
+2022-11-19 13:11:01.3094 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2022-11-19 13:11:01.3437 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=C:\Users\user\Desktop\AARR-Backend\WebApi\bin\Debug\net6.0\NLog.config
+2022-11-19 13:11:01.3820 Info Configuration initialized.
+2022-11-19 13:11:01.3820 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-11-19 13:19:03.6373 Info Message Template Auto Format enabled
+2022-11-19 13:19:03.7177 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-19 13:19:03.8106 Info Adding target FileTarget(Name=alldata)
+2022-11-19 13:19:03.8280 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2022-11-19 13:19:03.8552 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=C:\Users\user\Desktop\AARR-Backend\WebApi\bin\Debug\net6.0\NLog.config
+2022-11-19 13:19:03.8900 Info Configuration initialized.
+2022-11-19 13:19:03.9234 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-11-19 13:36:21.7810 Info Message Template Auto Format enabled
+2022-11-19 13:36:21.8270 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-19 13:36:21.9442 Info Adding target FileTarget(Name=alldata)
+2022-11-19 13:36:21.9666 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2022-11-19 13:36:22.0162 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=C:\Users\user\Desktop\AARR-Backend\WebApi\bin\Debug\net6.0\NLog.config
+2022-11-19 13:36:22.0585 Info Configuration initialized.
+2022-11-19 13:36:22.0585 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-11-19 13:43:30.6457 Info Message Template Auto Format enabled
+2022-11-19 13:43:30.6779 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-19 13:43:30.7785 Info Adding target FileTarget(Name=alldata)
+2022-11-19 13:43:30.7994 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2022-11-19 13:43:30.8349 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=C:\Users\user\Desktop\AARR-Backend\WebApi\bin\Debug\net6.0\NLog.config
+2022-11-19 13:43:30.8661 Info Configuration initialized.
+2022-11-19 13:43:30.8661 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-11-19 14:12:38.1661 Info Message Template Auto Format enabled
+2022-11-19 14:12:38.1904 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-19 14:12:38.2914 Info Adding target FileTarget(Name=alldata)
+2022-11-19 14:12:38.3178 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2022-11-19 14:12:38.3472 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=C:\Users\user\Desktop\AARR-Backend\WebApi\bin\Debug\net6.0\NLog.config
+2022-11-19 14:12:38.3791 Info Configuration initialized.
+2022-11-19 14:12:38.3791 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-11-19 14:17:28.0543 Info Message Template Auto Format enabled
+2022-11-19 14:17:28.0860 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-19 14:17:28.1973 Info Adding target FileTarget(Name=alldata)
+2022-11-19 14:17:28.2455 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2022-11-19 14:17:28.2790 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=C:\Users\user\Desktop\AARR-Backend\WebApi\bin\Debug\net6.0\NLog.config
+2022-11-19 14:17:28.3098 Info Configuration initialized.
+2022-11-19 14:17:28.3098 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-11-19 14:34:03.0759 Info Message Template Auto Format enabled
+2022-11-19 14:34:03.1081 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-19 14:34:03.2392 Info Adding target FileTarget(Name=alldata)
+2022-11-19 14:34:03.2739 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2022-11-19 14:34:03.3064 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=C:\Users\user\Desktop\AARR-Backend\WebApi\bin\Debug\net6.0\NLog.config
+2022-11-19 14:34:03.3391 Info Configuration initialized.
+2022-11-19 14:34:03.3391 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-11-19 14:34:54.1847 Info Message Template Auto Format enabled
+2022-11-19 14:34:54.2033 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-19 14:34:54.2987 Info Adding target FileTarget(Name=alldata)
+2022-11-19 14:34:54.3356 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2022-11-19 14:34:54.3697 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=C:\Users\user\Desktop\AARR-Backend\WebApi\bin\Debug\net6.0\NLog.config
+2022-11-19 14:34:54.4080 Info Configuration initialized.
+2022-11-19 14:34:54.4080 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-11-19 14:38:53.1674 Info Message Template Auto Format enabled
+2022-11-19 14:38:53.1911 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-19 14:38:53.3336 Info Adding target FileTarget(Name=alldata)
+2022-11-19 14:38:53.3926 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2022-11-19 14:38:53.4306 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=C:\Users\user\Desktop\AARR-Backend\WebApi\bin\Debug\net6.0\NLog.config
+2022-11-19 14:38:53.4614 Info Configuration initialized.
+2022-11-19 14:38:53.4631 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-11-19 17:30:42.6443 Info Message Template Auto Format enabled
+2022-11-19 17:30:42.6801 Info Loading assembly: NLog.Web.AspNetCore
+2022-11-19 17:30:42.8928 Info Adding target FileTarget(Name=alldata)
+2022-11-19 17:30:42.9166 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2022-11-19 17:30:42.9665 Info Validating config: TargetNames=alldata, ConfigItems=24, FilePath=C:\Users\user\Desktop\AARR-Backend\WebApi\bin\Debug\net6.0\NLog.config
+2022-11-19 17:30:43.0052 Info Configuration initialized.
+2022-11-19 17:30:43.0052 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
