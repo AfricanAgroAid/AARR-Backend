@@ -28,7 +28,7 @@ namespace Application.Implementations.Commands
         public async Task<Result<FarmerResponseModel>> Handle(RegisterFarmerCommand request, CancellationToken cancellationToken)
         {
             var response = await _cityService.GetAllCitiesAsync();
-            var countryCode = (response.Where(city => city.Cities.Contains(request.Location)).SingleOrDefault()).CountryCode;
+            var countryCode = (response.Where(city => city.Cities.Contains(request.Location)).FirstOrDefault()).CountryCode;
             var validatePhoneNumber = await _numLookUp.VerifyPhoneNumber(request.PhoneNumber,countryCode);
             if(!validatePhoneNumber.Valid) return await Result<FarmerResponseModel>.FailAsync("phoneNumber Verification Failed");
             var farmerExists = await _farmerRepository.ExistsAsync(farmer => farmer.PhoneNumber == request.PhoneNumber);
@@ -37,11 +37,11 @@ namespace Application.Implementations.Commands
             new Domain.Entities.Farmer(request.Name,request.PhoneNumber,
             request.Language,validatePhoneNumber.CountryPrefix,countryCode,request.PhoneNumber,request.PhoneNumber,request.Location);
             var farmerReturned = await _farmerRepository.CreateAsync(farmer);
-            var currentForecast = await _openWeatherMapService.GetCurrentWeatherForecastAsync(farmer.FarmerCity);
-            var smsMessage =
-            $"The Current Weather Forecast of your location:{farmer.FarmerCity} is {currentForecast.WeatherInformations[0].Description} at the temperature of {currentForecast.Main.Temperature} degrees";
-            var number =    validatePhoneNumber.CountryPrefix +  farmer.PhoneNumber.Replace(farmer.PhoneNumber[0].ToString(),"");
-            var sendSms = await _twilioSms.SendWithWhisper(smsMessage, number);
+            // var currentForecast = await _openWeatherMapService.GetCurrentWeatherForecastAsync(farmer.FarmerCity);
+            // var smsMessage =
+            // $"The Current Weather Forecast of your location:{farmer.FarmerCity} is {currentForecast.WeatherInformations[0].Description} at the temperature of {currentForecast.Main.Temperature} degrees";
+            // var number =    validatePhoneNumber.CountryPrefix +  farmer.PhoneNumber.Replace(farmer.PhoneNumber[0].ToString(),"");
+            //var sendSms = await _twilioSms.SendWithWhisper(smsMessage, number);
             var farmerResponse = farmerReturned.Adapt<FarmerResponseModel>();
             return await Result<FarmerResponseModel>.SuccessAsync(farmerResponse,"Farmer Registration Made Successfully");
         }

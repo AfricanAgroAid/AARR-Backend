@@ -37,7 +37,7 @@ public class OpenWeatherMapService : IOpenWeatherMapService
                 return finalOutput;
             }
         }
-        catch (Exception ex)
+        catch (Exception)
         {
             throw;
         }
@@ -67,7 +67,7 @@ public class OpenWeatherMapService : IOpenWeatherMapService
                 return responseReturned;
             }
         }
-        catch (Exception ex)
+        catch (Exception)
         {
             throw;
         }
@@ -103,7 +103,7 @@ public class OpenWeatherMapService : IOpenWeatherMapService
             }
             return daysClimaticForecast;
         }
-        catch (Exception ex)
+        catch (Exception)
         {
             throw;
         }
@@ -139,7 +139,7 @@ public class OpenWeatherMapService : IOpenWeatherMapService
             }
             return daysClimaticForecast;
         }
-        catch (Exception ex)
+        catch (Exception)
         {
             throw;
         }

@@ -8,43 +8,52 @@ using WebApi.Controllers;
 // var logger = NLog.LogManager.Setup().LoadConfigurationFromAppSettings().GetCurrentClassLogger();
 // try
 // {
-    // logger.Debug("init main");
-    var builder = WebApplication.CreateBuilder(args);
+// logger.Debug("init main");
+var builder = WebApplication.CreateBuilder(args);
 
-    // Add services to the container.
-    builder.Services.AddIOCService(builder.Configuration);
-    // NLog: Setup NLog for Dependency injection
-    // builder.Logging.ClearProviders();
-    // builder.Logging.SetMinimumLevel(Microsoft.Extensions.Logging.LogLevel.Trace);
-    builder.Host.UseNLog();
+// Add services to the container.
+builder.Services.AddIOCService(builder.Configuration);
+// NLog: Setup NLog for Dependency injection
+// builder.Logging.ClearProviders();
+// builder.Logging.SetMinimumLevel(Microsoft.Extensions.Logging.LogLevel.Trace);
+builder.Host.UseNLog();
 
-    //other classes that need the logger 
-    // builder.Services.AddTransient<FarmController>();
-    // builder.Services.AddTransient<FarmerController>();
-    // builder.Services.AddTransient<UtilityController>();
-    builder.Services.AddControllers();
-    builder.Services.AddGateway();
+//other classes that need the logger 
+// builder.Services.AddTransient<FarmController>();
+// builder.Services.AddTransient<FarmerController>();
+// builder.Services.AddTransient<UtilityController>();
+builder.Services.AddCors(cor => cor.AddPolicy("AARRCORS", builder =>
+{
+    builder.AllowAnyHeader();
+    builder.AllowAnyMethod();
+    builder.AllowAnyOrigin();
+}));
 
-    // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-    builder.Services.AddEndpointsApiExplorer();
-    builder.Services.AddSwaggerGen();
+builder.Services.AddControllers();
+builder.Services.AddGateway();
 
-    var app = builder.Build();
+// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
 
-    // Configure the HTTP request pipeline.
-    if (app.Environment.IsDevelopment())
-    {
-        app.UseSwagger();
-        app.UseSwaggerUI();
-    }
+var app = builder.Build();
 
-    app.UseHttpsRedirection();
+// Configure the HTTP request pipeline.
+// if (app.Environment.IsDevelopment())
+// {
+//     app.UseSwagger();
+//     app.UseSwaggerUI();
+// }
+ app.UseSwagger();
+app.UseSwaggerUI();
+app.UseCors("AARRCORS");
+app.UseHttpsRedirection();
 
-    app.UseAuthorization();
+app.UseAuthorization();
 
-    app.MapControllers();
+app.MapControllers();
 
-    app.Run();
+app.Run();
 // }
 // catch (Exception ex)
 // {
