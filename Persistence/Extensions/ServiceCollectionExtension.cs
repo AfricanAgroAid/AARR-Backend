@@ -19,7 +19,7 @@ public static class ServiceCollectionExtension
     {
         var connectionString = configuration.GetConnectionString("AARRConnectionString");
         services.AddDbContext<ApplicationContext>(option => 
-        option.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
+        option.UseSqlServer(connectionString));
         return services;
     }
 
