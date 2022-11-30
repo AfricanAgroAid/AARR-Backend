@@ -1,0 +1,29 @@
+2022-11-30 00:00:00.1286|10403|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 6.0.7 initialized 'ApplicationContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.7' with options: None 
+2022-11-30 00:00:00.2757|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (14ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [m].[Id], [m].[CreatedBy], [m].[CreatedOn], [m].[DateOfIncidence], [m].[DeletedBy], [m].[DeletedOn], [m].[FarmLocation], [m].[FarmerPhoneNumber], [m].[IsDeleted], [m].[LastModifiedBy], [m].[LastModifiedOn], [m].[MessageContent]
+FROM [Messages] AS [m]
+WHERE CONVERT(date, [m].[DateOfIncidence]) = CONVERT(date, GETDATE()) 
+2022-11-30 09:05:12.3450||INFO|Quartz.Core.SchedulerSignalerImpl|Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl 
+2022-11-30 09:05:12.3973||INFO|Quartz.Core.QuartzScheduler|Quartz Scheduler created 
+2022-11-30 09:05:12.3973||INFO|Quartz.Core.QuartzScheduler|JobFactory set to: Quartz.Simpl.MicrosoftDependencyInjectionJobFactory 
+2022-11-30 09:05:12.4048||INFO|Quartz.Simpl.RAMJobStore|RAMJobStore initialized. 
+2022-11-30 09:05:12.4048||INFO|Quartz.Impl.StdSchedulerFactory|Quartz Scheduler 3.5.0.0 - 'QuartzScheduler' with instanceId 'NON_CLUSTERED' initialized 
+2022-11-30 09:05:12.4048||INFO|Quartz.Impl.StdSchedulerFactory|Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 10 
+2022-11-30 09:05:12.4048||INFO|Quartz.Impl.StdSchedulerFactory|Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False 
+2022-11-30 09:05:12.4475||INFO|Quartz.ContainerConfigurationProcessor|Adding 2 jobs, 2 triggers. 
+2022-11-30 09:05:12.4505||INFO|Quartz.ContainerConfigurationProcessor|Adding job: DEFAULT.SaveWeatherForecastInformationToDatabaseJob 
+2022-11-30 09:05:12.4505||DEBUG|Quartz.ContainerConfigurationProcessor|Scheduling job: DEFAULT.SaveWeatherForecastInformationToDatabaseJob with trigger: DEFAULT.SaveWeatherForecastInformationToDatabaseJob-trigger 
+2022-11-30 09:05:12.4759||INFO|Quartz.ContainerConfigurationProcessor|Adding job: DEFAULT.SendMessageJob 
+2022-11-30 09:05:12.4759||DEBUG|Quartz.ContainerConfigurationProcessor|Scheduling job: DEFAULT.SendMessageJob with trigger: DEFAULT.SendMessageJob-trigger 
+2022-11-30 09:05:12.4995||DEBUG|Quartz.ContainerConfigurationProcessor|Rescheduling job: DEFAULT.SaveWeatherForecastInformationToDatabaseJob with updated trigger: DEFAULT.SaveWeatherForecastInformationToDatabaseJob-trigger 
+2022-11-30 09:05:12.4995||DEBUG|Quartz.ContainerConfigurationProcessor|Rescheduling job: DEFAULT.SendMessageJob with updated trigger: DEFAULT.SendMessageJob-trigger 
+2022-11-30 09:05:12.8343|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7133 
+2022-11-30 09:05:12.8488|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5204 
+2022-11-30 09:05:12.8488||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-11-30 09:05:12.8488||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-11-30 09:05:12.8592||INFO|Microsoft.Hosting.Lifetime|Content root path: D:\staa99\Desktop\AARR-Backend\WebApi\ 
+2022-11-30 09:05:12.8592||INFO|Quartz.Core.QuartzScheduler|Scheduler QuartzScheduler_$_NON_CLUSTERED started. 
+2022-11-30 09:05:14.8206|10403|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 6.0.7 initialized 'ApplicationContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.7' with options: None 
+2022-11-30 09:05:17.6671|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (57ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT DISTINCT [f].[LocatedCity]
+FROM [Farms] AS [f] 

@@ -1,0 +1,15 @@
+D:\staa99\Desktop\AARR-Backend\Application\bin\Release\net6.0\Application.deps.json
+D:\staa99\Desktop\AARR-Backend\Application\bin\Release\net6.0\Application.dll
+D:\staa99\Desktop\AARR-Backend\Application\bin\Release\net6.0\Application.pdb
+D:\staa99\Desktop\AARR-Backend\Application\bin\Release\net6.0\Domain.dll
+D:\staa99\Desktop\AARR-Backend\Application\bin\Release\net6.0\Domain.pdb
+D:\staa99\Desktop\AARR-Backend\Application\obj\Release\net6.0\Application.csproj.AssemblyReference.cache
+D:\staa99\Desktop\AARR-Backend\Application\obj\Release\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\staa99\Desktop\AARR-Backend\Application\obj\Release\net6.0\Application.AssemblyInfoInputs.cache
+D:\staa99\Desktop\AARR-Backend\Application\obj\Release\net6.0\Application.AssemblyInfo.cs
+D:\staa99\Desktop\AARR-Backend\Application\obj\Release\net6.0\Application.csproj.CoreCompileInputs.cache
+D:\staa99\Desktop\AARR-Backend\Application\obj\Release\net6.0\Application.csproj.CopyComplete
+D:\staa99\Desktop\AARR-Backend\Application\obj\Release\net6.0\Application.dll
+D:\staa99\Desktop\AARR-Backend\Application\obj\Release\net6.0\refint\Application.dll
+D:\staa99\Desktop\AARR-Backend\Application\obj\Release\net6.0\Application.pdb
+D:\staa99\Desktop\AARR-Backend\Application\obj\Release\net6.0\ref\Application.dll
