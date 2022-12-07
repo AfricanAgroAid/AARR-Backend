@@ -57,7 +57,7 @@ public class FarmRepository : GenericRepository<Farm>, IFarmRepository
                                 FarmName = farm.FarmName,
                                 DateOfIncidence = info.Dates.ForecastDate,
                                 IncidenceType ="Cool Weather Hazard",
-                                FarmerCountryCode = farm.Farmer.CountryCode
+                                FarmerCountryCode = farm.Farmer.CountryPhoneCode
                             };
                             weatherResponses.Add(weatherResponse);
                         }    
