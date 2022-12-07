@@ -3690,23 +3690,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\staa99\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\staa99\\Desktop\\AARR-Backend\\IOC\\IOC.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\AARR-Backend\\IOC\\IOC.csproj",
       "projectName": "IOC",
-      "projectPath": "D:\\staa99\\Desktop\\AARR-Backend\\IOC\\IOC.csproj",
-      "packagesPath": "C:\\Users\\staa99\\.nuget\\packages\\",
-      "outputPath": "D:\\staa99\\Desktop\\AARR-Backend\\IOC\\obj\\",
+      "projectPath": "C:\\Users\\user\\Desktop\\AARR-Backend\\IOC\\IOC.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\AARR-Backend\\IOC\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\staa99\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3714,16 +3710,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "D:\\Tools\\NUPKG": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.syncfusion.com/nuget_xamarin/nuget/getsyncfusionpackages/xamarin": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\staa99\\Desktop\\AARR-Backend\\Persistence\\Persistence.csproj": {
-              "projectPath": "D:\\staa99\\Desktop\\AARR-Backend\\Persistence\\Persistence.csproj"
+            "C:\\Users\\user\\Desktop\\AARR-Backend\\Persistence\\Persistence.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\AARR-Backend\\Persistence\\Persistence.csproj"
             }
           }
         }
@@ -3762,7 +3756,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
