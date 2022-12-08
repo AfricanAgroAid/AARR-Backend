@@ -3480,11 +3480,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "C:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\WebApi\\WebApi.csproj",
+      "projectPath": "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\WebApi\\WebApi.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\WebApi\\obj\\",
+      "outputPath": "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"

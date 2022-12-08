@@ -18,7 +18,7 @@ public class FarmerController : ControllerBase
     }
  
     [HttpPost("RegisterFarmerAsync")]
-    public async Task<IActionResult> RegisterFarmerAsync([FromBody] RegisterFarmerCommand command )
+    public async Task<IActionResult> RegisterFarmerAsync(RegisterFarmerCommand command )
     {
        var response = await _mediatr.Send(command);
        return response.Succeeded? Ok(response) : BadRequest(response);

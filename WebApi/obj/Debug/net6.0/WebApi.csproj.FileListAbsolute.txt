@@ -115,7 +115,6 @@ C:\Users\user\Desktop\Extern\new\AARR-Backend\WebApi\obj\Debug\net6.0\WebApi.pdb
 c:\Users\user\Desktop\Extern\new\AARR-Backend\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
 c:\Users\user\Desktop\Extern\new\AARR-Backend\WebApi\obj\Debug\net6.0\ref\WebApi.dll
 C:\Users\user\Desktop\Extern\AARR-Backend\WebApi\bin\Debug\net6.0\nlog.config
-C:\Users\user\Desktop\Extern\AARR-Backend\WebApi\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\user\Desktop\Extern\AARR-Backend\WebApi\bin\Debug\net6.0\appsettings.json
 C:\Users\user\Desktop\Extern\AARR-Backend\WebApi\bin\Debug\net6.0\WebApi.exe
 C:\Users\user\Desktop\Extern\AARR-Backend\WebApi\bin\Debug\net6.0\WebApi.deps.json
@@ -178,3 +177,4 @@ C:\Users\user\Desktop\Extern\AARR-Backend\WebApi\obj\Debug\net6.0\refint\WebApi.
 C:\Users\user\Desktop\Extern\AARR-Backend\WebApi\obj\Debug\net6.0\WebApi.pdb
 C:\Users\user\Desktop\Extern\AARR-Backend\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
 C:\Users\user\Desktop\Extern\AARR-Backend\WebApi\obj\Debug\net6.0\ref\WebApi.dll
+c:\Users\user\Desktop\Extern\AARR-Backend\WebApi\bin\Debug\net6.0\appsettings.Development.json

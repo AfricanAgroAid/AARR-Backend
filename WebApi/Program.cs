@@ -3,7 +3,12 @@ using IOC.Extensions;
 
 
 var builder = WebApplication.CreateBuilder(args);
-
+builder.Services.AddCors(c => c.AddPolicy("AARRPolicy", app =>
+{
+    app.AllowAnyHeader();
+    app.AllowAnyMethod();
+    app.AllowAnyOrigin();
+}));
 // Add services to the container.
 builder.Services.AddIOCService(builder.Configuration);
 builder.Services.AddControllers();
@@ -25,6 +30,8 @@ app.UseHttpsRedirection();
 
 app.UseAuthorization();
 
+app.UseCors("AARRPolicy");
+ 
 app.MapControllers();
 
 app.Run();
