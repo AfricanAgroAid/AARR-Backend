@@ -1,0 +1,184 @@
+2022-11-29 23:51:34.9975|10403|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 6.0.7 initialized 'ApplicationContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.3' with options: None 
+2022-11-29 23:52:13.2178|10403|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 6.0.7 initialized 'ApplicationContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.3' with options: None 
+2022-11-29 23:52:17.1846|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (412ms) [Parameters=[], CommandType='Text', CommandTimeout='60']
+CREATE DATABASE [AARR]; 
+2022-11-29 23:52:17.3156|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (122ms) [Parameters=[], CommandType='Text', CommandTimeout='60']
+IF SERVERPROPERTY('EngineEdition') <> 5
+BEGIN
+    ALTER DATABASE [AARR] SET READ_COMMITTED_SNAPSHOT ON;
+END; 
+2022-11-29 23:52:17.3852|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (22ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1 
+2022-11-29 23:52:17.6201|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (26ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [__EFMigrationsHistory] (
+    [MigrationId] nvarchar(150) NOT NULL,
+    [ProductVersion] nvarchar(32) NOT NULL,
+    CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY ([MigrationId])
+); 
+2022-11-29 23:52:17.6370|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (11ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1 
+2022-11-29 23:52:17.6952|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (42ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]'); 
+2022-11-29 23:52:17.7269|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (21ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId]; 
+2022-11-29 23:52:17.7822|20402|INFO|Microsoft.EntityFrameworkCore.Migrations|Applying migration '20221113145255_init'. 
+2022-11-29 23:52:17.9848|20102|ERROR|Microsoft.EntityFrameworkCore.Database.Command|Failed executing DbCommand (11ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [Farmers] (
+    [Id] varchar(255) NOT NULL,
+    [Name] longtext NULL,
+    [CountryCode] longtext NULL,
+    [CountryPhoneCode] longtext NULL,
+    [PhoneNumber] longtext NULL,
+    [Language] longtext NULL,
+    [FarmerCity] longtext NULL,
+    [CreatedBy] longtext NULL,
+    [CreatedOn] datetime(6) NOT NULL,
+    [LastModifiedBy] longtext NULL,
+    [LastModifiedOn] datetime(6) NULL,
+    [DeletedOn] datetime(6) NULL,
+    [DeletedBy] longtext NULL,
+    [IsDeleted] tinyint(1) NOT NULL,
+    CONSTRAINT [PK_Farmers] PRIMARY KEY ([Id])
+); 
+2022-11-29 23:54:09.3840|10403|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 6.0.7 initialized 'ApplicationContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.3' with options: None 
+2022-11-29 23:54:10.0346|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (29ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1 
+2022-11-29 23:54:10.1026|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (43ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]'); 
+2022-11-29 23:54:10.1215|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (12ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1 
+2022-11-29 23:54:10.1371|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (13ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]'); 
+2022-11-29 23:54:10.2018|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (15ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId]; 
+2022-11-29 23:54:10.2439|20402|INFO|Microsoft.EntityFrameworkCore.Migrations|Applying migration '20221113145255_init'. 
+2022-11-29 23:54:10.4489|20102|ERROR|Microsoft.EntityFrameworkCore.Database.Command|Failed executing DbCommand (5ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [Farmers] (
+    [Id] varchar(255) NOT NULL,
+    [Name] longtext NULL,
+    [CountryCode] longtext NULL,
+    [CountryPhoneCode] longtext NULL,
+    [PhoneNumber] longtext NULL,
+    [Language] longtext NULL,
+    [FarmerCity] longtext NULL,
+    [CreatedBy] longtext NULL,
+    [CreatedOn] datetime(6) NOT NULL,
+    [LastModifiedBy] longtext NULL,
+    [LastModifiedOn] datetime(6) NULL,
+    [DeletedOn] datetime(6) NULL,
+    [DeletedBy] longtext NULL,
+    [IsDeleted] tinyint(1) NOT NULL,
+    CONSTRAINT [PK_Farmers] PRIMARY KEY ([Id])
+); 
+2022-11-29 23:54:44.9312|10403|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 6.0.7 initialized 'ApplicationContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.7' with options: None 
+2022-11-29 23:56:12.9159|10403|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 6.0.7 initialized 'ApplicationContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.7' with options: None 
+2022-11-29 23:56:13.5995|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (32ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1 
+2022-11-29 23:56:13.6758|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (45ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]'); 
+2022-11-29 23:56:13.6935|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (12ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1 
+2022-11-29 23:56:13.7134|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (18ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]'); 
+2022-11-29 23:56:13.7671|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (12ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId]; 
+2022-11-29 23:56:13.8074|20402|INFO|Microsoft.EntityFrameworkCore.Migrations|Applying migration '20221129225445_Database'. 
+2022-11-29 23:56:13.9617|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (9ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [Farmers] (
+    [Id] nvarchar(450) NOT NULL,
+    [Name] nvarchar(max) NULL,
+    [CountryCode] nvarchar(max) NULL,
+    [CountryPhoneCode] nvarchar(max) NULL,
+    [PhoneNumber] nvarchar(max) NULL,
+    [Language] nvarchar(max) NULL,
+    [FarmerCity] nvarchar(max) NULL,
+    [CreatedBy] nvarchar(max) NULL,
+    [CreatedOn] datetime2 NOT NULL,
+    [LastModifiedBy] nvarchar(max) NULL,
+    [LastModifiedOn] datetime2 NULL,
+    [DeletedOn] datetime2 NULL,
+    [DeletedBy] nvarchar(max) NULL,
+    [IsDeleted] bit NOT NULL,
+    CONSTRAINT [PK_Farmers] PRIMARY KEY ([Id])
+); 
+2022-11-29 23:56:13.9671|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (3ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [Messages] (
+    [Id] nvarchar(450) NOT NULL,
+    [MessageContent] nvarchar(max) NULL,
+    [DateOfIncidence] datetime2 NOT NULL,
+    [FarmLocation] nvarchar(max) NULL,
+    [FarmerPhoneNumber] nvarchar(max) NULL,
+    [CreatedBy] nvarchar(max) NULL,
+    [CreatedOn] datetime2 NOT NULL,
+    [LastModifiedBy] nvarchar(max) NULL,
+    [LastModifiedOn] datetime2 NULL,
+    [DeletedOn] datetime2 NULL,
+    [DeletedBy] nvarchar(max) NULL,
+    [IsDeleted] bit NOT NULL,
+    CONSTRAINT [PK_Messages] PRIMARY KEY ([Id])
+); 
+2022-11-29 23:56:13.9671|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (4ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [Farms] (
+    [Id] nvarchar(450) NOT NULL,
+    [FarmName] nvarchar(max) NULL,
+    [LocatedCity] nvarchar(max) NULL,
+    [CropType] int NOT NULL,
+    [FarmerId] nvarchar(450) NULL,
+    [CreatedBy] nvarchar(max) NULL,
+    [CreatedOn] datetime2 NOT NULL,
+    [LastModifiedBy] nvarchar(max) NULL,
+    [LastModifiedOn] datetime2 NULL,
+    [DeletedOn] datetime2 NULL,
+    [DeletedBy] nvarchar(max) NULL,
+    [IsDeleted] bit NOT NULL,
+    CONSTRAINT [PK_Farms] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_Farms_Farmers_FarmerId] FOREIGN KEY ([FarmerId]) REFERENCES [Farmers] ([Id])
+); 
+2022-11-29 23:56:14.0276|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (3ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE INDEX [IX_Farms_FarmerId] ON [Farms] ([FarmerId]); 
+2022-11-29 23:56:14.0345|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (5ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20221129225445_Database', N'6.0.7'); 
+2022-11-29 23:56:33.7344||INFO|Quartz.Core.SchedulerSignalerImpl|Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl 
+2022-11-29 23:56:33.8170||INFO|Quartz.Core.QuartzScheduler|Quartz Scheduler created 
+2022-11-29 23:56:33.8356||INFO|Quartz.Core.QuartzScheduler|JobFactory set to: Quartz.Simpl.MicrosoftDependencyInjectionJobFactory 
+2022-11-29 23:56:33.8445||INFO|Quartz.Simpl.RAMJobStore|RAMJobStore initialized. 
+2022-11-29 23:56:33.8603||INFO|Quartz.Impl.StdSchedulerFactory|Quartz Scheduler 3.5.0.0 - 'QuartzScheduler' with instanceId 'NON_CLUSTERED' initialized 
+2022-11-29 23:56:33.8726||INFO|Quartz.Impl.StdSchedulerFactory|Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 10 
+2022-11-29 23:56:33.8923||INFO|Quartz.Impl.StdSchedulerFactory|Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False 
+2022-11-29 23:56:34.0913||INFO|Quartz.ContainerConfigurationProcessor|Adding 2 jobs, 2 triggers. 
+2022-11-29 23:56:34.1039||INFO|Quartz.ContainerConfigurationProcessor|Adding job: DEFAULT.SaveWeatherForecastInformationToDatabaseJob 
+2022-11-29 23:56:34.1160||DEBUG|Quartz.ContainerConfigurationProcessor|Scheduling job: DEFAULT.SaveWeatherForecastInformationToDatabaseJob with trigger: DEFAULT.SaveWeatherForecastInformationToDatabaseJob-trigger 
+2022-11-29 23:56:34.2123||INFO|Quartz.ContainerConfigurationProcessor|Adding job: DEFAULT.SendMessageJob 
+2022-11-29 23:56:34.2123||DEBUG|Quartz.ContainerConfigurationProcessor|Scheduling job: DEFAULT.SendMessageJob with trigger: DEFAULT.SendMessageJob-trigger 
+2022-11-29 23:56:34.3059||DEBUG|Quartz.ContainerConfigurationProcessor|Rescheduling job: DEFAULT.SaveWeatherForecastInformationToDatabaseJob with updated trigger: DEFAULT.SaveWeatherForecastInformationToDatabaseJob-trigger 
+2022-11-29 23:56:34.3265||DEBUG|Quartz.ContainerConfigurationProcessor|Rescheduling job: DEFAULT.SendMessageJob with updated trigger: DEFAULT.SendMessageJob-trigger 
+2022-11-29 23:56:34.9873|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7133 
+2022-11-29 23:56:35.0216|14|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5204 
+2022-11-29 23:56:35.0309||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-11-29 23:56:35.0446||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-11-29 23:56:35.0446||INFO|Microsoft.Hosting.Lifetime|Content root path: D:\staa99\Desktop\AARR-Backend\WebApi\ 
+2022-11-29 23:56:35.0653||INFO|Quartz.Core.QuartzScheduler|Scheduler QuartzScheduler_$_NON_CLUSTERED started. 
+2022-11-29 23:56:40.5576|10403|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 6.0.7 initialized 'ApplicationContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.7' with options: None 
+2022-11-29 23:56:42.3570|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (69ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT DISTINCT [f].[LocatedCity]
+FROM [Farms] AS [f] 
+2022-11-29 23:58:54.9089|10403|INFO|Microsoft.EntityFrameworkCore.Infrastructure|Entity Framework Core 6.0.7 initialized 'ApplicationContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.7' with options: None 
+2022-11-29 23:58:55.1449|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (85ms) [Parameters=[@__request_PhoneNumber_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Farmers] AS [f]
+        WHERE [f].[PhoneNumber] = @__request_PhoneNumber_0) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END 
+2022-11-29 23:58:55.6617|20101|INFO|Microsoft.EntityFrameworkCore.Database.Command|Executed DbCommand (12ms) [Parameters=[@p0='?' (Size = 450), @p1='?' (Size = 4000), @p2='?' (Size = 4000), @p3='?' (Size = 4000), @p4='?' (DbType = DateTime2), @p5='?' (Size = 4000), @p6='?' (DbType = DateTime2), @p7='?' (Size = 4000), @p8='?' (DbType = Boolean), @p9='?' (Size = 4000), @p10='?' (Size = 4000), @p11='?' (DbType = DateTime2), @p12='?' (Size = 4000), @p13='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Farmers] ([Id], [CountryCode], [CountryPhoneCode], [CreatedBy], [CreatedOn], [DeletedBy], [DeletedOn], [FarmerCity], [IsDeleted], [Language], [LastModifiedBy], [LastModifiedOn], [Name], [PhoneNumber])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10, @p11, @p12, @p13); 
