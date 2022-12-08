@@ -40,3 +40,11 @@ c:\Users\user\Desktop\AARR-Backend\Persistence\obj\Debug\net6.0\Persistence.cspr
 c:\Users\user\Desktop\AARR-Backend\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
 c:\Users\user\Desktop\AARR-Backend\Persistence\obj\Debug\net6.0\Persistence.genruntimeconfig.cache
 c:\Users\user\Desktop\AARR-Backend\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+c:\Users\user\Desktop\Extern\AARR-Backend\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+c:\Users\user\Desktop\Extern\AARR-Backend\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\user\Desktop\Extern\AARR-Backend\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+c:\Users\user\Desktop\Extern\AARR-Backend\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+c:\Users\user\Desktop\Extern\AARR-Backend\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+c:\Users\user\Desktop\Extern\AARR-Backend\Persistence\obj\Debug\net6.0\Persistence.dll
+c:\Users\user\Desktop\Extern\AARR-Backend\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+c:\Users\user\Desktop\Extern\AARR-Backend\Persistence\obj\Debug\net6.0\Persistence.pdb

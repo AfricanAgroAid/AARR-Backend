@@ -177,3 +177,6 @@ c:\Users\user\Desktop\AARR-Backend\WebApi\obj\Debug\net6.0\WebApi.csproj.CopyCom
 c:\Users\user\Desktop\AARR-Backend\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
 c:\Users\user\Desktop\AARR-Backend\WebApi\obj\Debug\net6.0\ref\WebApi.dll
 C:\Users\user\Desktop\AARR-Backend\WebApi\bin\Debug\net6.0\WebApi.staticwebassets.runtime.json
+c:\Users\user\Desktop\Extern\AARR-Backend\WebApi\obj\Debug\net6.0\WebApi.dll
+c:\Users\user\Desktop\Extern\AARR-Backend\WebApi\obj\Debug\net6.0\refint\WebApi.dll
+c:\Users\user\Desktop\Extern\AARR-Backend\WebApi\obj\Debug\net6.0\WebApi.pdb
