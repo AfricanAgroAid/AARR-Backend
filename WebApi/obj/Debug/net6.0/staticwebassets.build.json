@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0/nmnWUZtOSz7E65m7tjGt/0oavHXbxV0p7UOXj1Dqk=",
+  "Hash": "4JcHecAqP4tNthrHACgJpwaTNS2zZB6yJm0J8YUMhpc=",
   "Source": "WebApi",
   "BasePath": "_content/WebApi",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "WebApi\\wwwroot",
       "Source": "WebApi",
-      "ContentRoot": "c:\\Users\\user\\Desktop\\AARR-Backend\\WebApi\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\WebApi\\wwwroot\\",
       "BasePath": "_content/WebApi",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\user\\Desktop\\AARR-Backend\\WebApi\\wwwroot\\Cities.json",
+      "Identity": "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\WebApi\\wwwroot\\Cities.json",
       "SourceId": "WebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\user\\Desktop\\AARR-Backend\\WebApi\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\WebApi\\wwwroot\\",
       "BasePath": "_content/WebApi",
       "RelativePath": "Cities.json",
       "AssetKind": "All",
