@@ -1,63 +1,24 @@
-C:\Users\user\Desktop\Extern\AARR\Domain\bin\Debug\net6.0\Domain.deps.json
-C:\Users\user\Desktop\Extern\AARR\Domain\bin\Debug\net6.0\Domain.dll
-C:\Users\user\Desktop\Extern\AARR\Domain\bin\Debug\net6.0\Domain.pdb
-C:\Users\user\Desktop\Extern\AARR\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
-C:\Users\user\Desktop\Extern\AARR\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\user\Desktop\Extern\AARR\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
-C:\Users\user\Desktop\Extern\AARR\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
-C:\Users\user\Desktop\Extern\AARR\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
-C:\Users\user\Desktop\Extern\AARR\Domain\obj\Debug\net6.0\Domain.dll
-C:\Users\user\Desktop\Extern\AARR\Domain\obj\Debug\net6.0\refint\Domain.dll
-C:\Users\user\Desktop\Extern\AARR\Domain\obj\Debug\net6.0\Domain.pdb
-C:\Users\user\Desktop\Extern\AARR\Domain\obj\Debug\net6.0\ref\Domain.dll
-c:\Users\user\Desktop\Extern\Group\AARR\Domain\bin\Debug\net6.0\Domain.deps.json
-c:\Users\user\Desktop\Extern\Group\AARR\Domain\bin\Debug\net6.0\Domain.dll
-c:\Users\user\Desktop\Extern\Group\AARR\Domain\bin\Debug\net6.0\Domain.pdb
-c:\Users\user\Desktop\Extern\Group\AARR\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
-c:\Users\user\Desktop\Extern\Group\AARR\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
-c:\Users\user\Desktop\Extern\Group\AARR\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
-c:\Users\user\Desktop\Extern\Group\AARR\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
-c:\Users\user\Desktop\Extern\Group\AARR\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
-c:\Users\user\Desktop\Extern\Group\AARR\Domain\obj\Debug\net6.0\Domain.dll
-c:\Users\user\Desktop\Extern\Group\AARR\Domain\obj\Debug\net6.0\refint\Domain.dll
-c:\Users\user\Desktop\Extern\Group\AARR\Domain\obj\Debug\net6.0\Domain.pdb
-c:\Users\user\Desktop\Extern\Group\AARR\Domain\obj\Debug\net6.0\ref\Domain.dll
-<<<<<<< HEAD
-C:\Users\OLALEKAN\Desktop\MyFiles\Projects\Cloned Projects\AARR-Backend\Domain\bin\Debug\net6.0\Domain.deps.json
-C:\Users\OLALEKAN\Desktop\MyFiles\Projects\Cloned Projects\AARR-Backend\Domain\bin\Debug\net6.0\Domain.dll
-C:\Users\OLALEKAN\Desktop\MyFiles\Projects\Cloned Projects\AARR-Backend\Domain\bin\Debug\net6.0\Domain.pdb
-C:\Users\OLALEKAN\Desktop\MyFiles\Projects\Cloned Projects\AARR-Backend\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
-C:\Users\OLALEKAN\Desktop\MyFiles\Projects\Cloned Projects\AARR-Backend\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\OLALEKAN\Desktop\MyFiles\Projects\Cloned Projects\AARR-Backend\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
-C:\Users\OLALEKAN\Desktop\MyFiles\Projects\Cloned Projects\AARR-Backend\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
-C:\Users\OLALEKAN\Desktop\MyFiles\Projects\Cloned Projects\AARR-Backend\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
-C:\Users\OLALEKAN\Desktop\MyFiles\Projects\Cloned Projects\AARR-Backend\Domain\obj\Debug\net6.0\Domain.dll
-C:\Users\OLALEKAN\Desktop\MyFiles\Projects\Cloned Projects\AARR-Backend\Domain\obj\Debug\net6.0\refint\Domain.dll
-C:\Users\OLALEKAN\Desktop\MyFiles\Projects\Cloned Projects\AARR-Backend\Domain\obj\Debug\net6.0\Domain.pdb
-C:\Users\OLALEKAN\Desktop\MyFiles\Projects\Cloned Projects\AARR-Backend\Domain\obj\Debug\net6.0\ref\Domain.dll
-=======
-c:\Users\user\Desktop\Extern\new\AARR-Backend\Domain\bin\Debug\net6.0\Domain.deps.json
-c:\Users\user\Desktop\Extern\new\AARR-Backend\Domain\bin\Debug\net6.0\Domain.dll
-c:\Users\user\Desktop\Extern\new\AARR-Backend\Domain\bin\Debug\net6.0\Domain.pdb
-c:\Users\user\Desktop\Extern\new\AARR-Backend\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
-c:\Users\user\Desktop\Extern\new\AARR-Backend\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
-c:\Users\user\Desktop\Extern\new\AARR-Backend\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
-c:\Users\user\Desktop\Extern\new\AARR-Backend\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
-c:\Users\user\Desktop\Extern\new\AARR-Backend\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
-c:\Users\user\Desktop\Extern\new\AARR-Backend\Domain\obj\Debug\net6.0\Domain.dll
-c:\Users\user\Desktop\Extern\new\AARR-Backend\Domain\obj\Debug\net6.0\refint\Domain.dll
-c:\Users\user\Desktop\Extern\new\AARR-Backend\Domain\obj\Debug\net6.0\Domain.pdb
-c:\Users\user\Desktop\Extern\new\AARR-Backend\Domain\obj\Debug\net6.0\ref\Domain.dll
->>>>>>> c0d6bcf55d26d6de98fb96417bfd34c39c20abb2
-C:\Users\user\Desktop\Extern\AARR-Backend\Domain\bin\Debug\net6.0\Domain.deps.json
-C:\Users\user\Desktop\Extern\AARR-Backend\Domain\bin\Debug\net6.0\Domain.dll
-C:\Users\user\Desktop\Extern\AARR-Backend\Domain\bin\Debug\net6.0\Domain.pdb
-C:\Users\user\Desktop\Extern\AARR-Backend\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
-C:\Users\user\Desktop\Extern\AARR-Backend\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\user\Desktop\Extern\AARR-Backend\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
-C:\Users\user\Desktop\Extern\AARR-Backend\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
-C:\Users\user\Desktop\Extern\AARR-Backend\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
-C:\Users\user\Desktop\Extern\AARR-Backend\Domain\obj\Debug\net6.0\Domain.dll
-C:\Users\user\Desktop\Extern\AARR-Backend\Domain\obj\Debug\net6.0\refint\Domain.dll
-C:\Users\user\Desktop\Extern\AARR-Backend\Domain\obj\Debug\net6.0\Domain.pdb
-C:\Users\user\Desktop\Extern\AARR-Backend\Domain\obj\Debug\net6.0\ref\Domain.dll
+D:\staa99\Desktop\AARR-Backend\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\staa99\Desktop\AARR-Backend\Domain\bin\Debug\net6.0\Domain.dll
+D:\staa99\Desktop\AARR-Backend\Domain\bin\Debug\net6.0\Domain.pdb
+D:\staa99\Desktop\AARR-Backend\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\staa99\Desktop\AARR-Backend\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\staa99\Desktop\AARR-Backend\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\staa99\Desktop\AARR-Backend\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\staa99\Desktop\AARR-Backend\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\staa99\Desktop\AARR-Backend\Domain\obj\Debug\net6.0\Domain.dll
+D:\staa99\Desktop\AARR-Backend\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\staa99\Desktop\AARR-Backend\Domain\obj\Debug\net6.0\Domain.pdb
+D:\staa99\Desktop\AARR-Backend\Domain\obj\Debug\net6.0\ref\Domain.dll
+c:\Users\user\Desktop\AARR-Backend\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\user\Desktop\AARR-Backend\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\user\Desktop\AARR-Backend\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\user\Desktop\AARR-Backend\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\AARR-Backend\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\AARR-Backend\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\AARR-Backend\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\user\Desktop\AARR-Backend\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\AARR-Backend\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\user\Desktop\AARR-Backend\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\user\Desktop\AARR-Backend\Domain\obj\Debug\net6.0\Domain.pdb
+c:\Users\user\Desktop\AARR-Backend\Domain\obj\Debug\net6.0\ref\Domain.dll
