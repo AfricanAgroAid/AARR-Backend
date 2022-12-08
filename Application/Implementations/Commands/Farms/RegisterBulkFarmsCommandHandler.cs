@@ -1,6 +1,7 @@
 ﻿using Application.Abstractions.Messaging;
 using Application.DTOs.Farms;
 using Application.Interfaces.Repositories;
+using Application.Interfaces.Services.ApplicationServices;
 using Application.Wrapper;
 using Domain.Entities;
 
@@ -9,11 +10,12 @@ namespace Application.Implementations.Commands.Farms
     public class RegisterBulkFarmsCommandHandler : ICommandHandler<RegisterBulkFarmsCommand, IList<string>>
     {
         private readonly IFarmRepository _farmRepository;
+        private readonly IMessageService _messageService;
         private readonly ICityService _cityService;
 
 
-        public RegisterBulkFarmsCommandHandler(ICityService cityService, IFarmRepository farmRepository)
-            => (_cityService, this._farmRepository) = (cityService, farmRepository);
+        public RegisterBulkFarmsCommandHandler(ICityService cityService, IFarmRepository farmRepository, IMessageService messageService)
+            => (_cityService, this._farmRepository, _messageService) = (cityService, farmRepository, messageService);
 
         public async Task<Result<IList<string>>> Handle(RegisterBulkFarmsCommand requests, CancellationToken cancellationToken)
         {
@@ -52,6 +54,7 @@ namespace Application.Implementations.Commands.Farms
             messages.Add(message1);
             messages.Add(message2);
             messages.Add(message3);
+            await _messageService.CreateMessageAsync();
             return await Result<IList<string>>.SuccessAsync(successfulRegistrations, messages);
         }
     }

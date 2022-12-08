@@ -1,35 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\AARR-Backend\\WebApi\\WebApi.csproj": {}
+    "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\AARR-Backend\\Application\\Application.csproj": {
+    "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\AARR-Backend\\Application\\Application.csproj",
+        "projectUniqueName": "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\user\\Desktop\\AARR-Backend\\Application\\Application.csproj",
+        "projectPath": "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\AARR-Backend\\Application\\obj\\",
+        "outputPath": "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\AARR-Backend\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\AARR-Backend\\Domain\\Domain.csproj"
+              "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Domain\\Domain.csproj": {
+                "projectPath": "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Domain\\Domain.csproj"
               }
             }
           }
@@ -75,7 +73,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -84,28 +83,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\AARR-Backend\\Domain\\Domain.csproj": {
+    "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\AARR-Backend\\Domain\\Domain.csproj",
+        "projectUniqueName": "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\user\\Desktop\\AARR-Backend\\Domain\\Domain.csproj",
+        "projectPath": "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\AARR-Backend\\Domain\\obj\\",
+        "outputPath": "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -129,7 +126,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -138,36 +136,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\AARR-Backend\\Gateway\\Gateway.csproj": {
+    "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Gateway\\Gateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\AARR-Backend\\Gateway\\Gateway.csproj",
+        "projectUniqueName": "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Gateway\\Gateway.csproj",
         "projectName": "Gateway",
-        "projectPath": "C:\\Users\\user\\Desktop\\AARR-Backend\\Gateway\\Gateway.csproj",
+        "projectPath": "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Gateway\\Gateway.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\AARR-Backend\\Gateway\\obj\\",
+        "outputPath": "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Gateway\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\AARR-Backend\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\AARR-Backend\\Application\\Application.csproj"
+              "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Application\\Application.csproj": {
+                "projectPath": "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Application\\Application.csproj"
               }
             }
           }
@@ -197,7 +193,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -206,36 +203,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\AARR-Backend\\IOC\\IOC.csproj": {
+    "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\IOC\\IOC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\AARR-Backend\\IOC\\IOC.csproj",
+        "projectUniqueName": "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\IOC\\IOC.csproj",
         "projectName": "IOC",
-        "projectPath": "C:\\Users\\user\\Desktop\\AARR-Backend\\IOC\\IOC.csproj",
+        "projectPath": "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\IOC\\IOC.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\AARR-Backend\\IOC\\obj\\",
+        "outputPath": "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\IOC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\AARR-Backend\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\AARR-Backend\\Persistence\\Persistence.csproj"
+              "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Persistence\\Persistence.csproj": {
+                "projectPath": "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -265,7 +260,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -274,42 +270,40 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\AARR-Backend\\Persistence\\Persistence.csproj": {
+    "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\AARR-Backend\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\user\\Desktop\\AARR-Backend\\Persistence\\Persistence.csproj",
+        "projectPath": "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\AARR-Backend\\Persistence\\obj\\",
+        "outputPath": "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\AARR-Backend\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\AARR-Backend\\Application\\Application.csproj"
+              "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Application\\Application.csproj": {
+                "projectPath": "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Application\\Application.csproj"
               },
-              "C:\\Users\\user\\Desktop\\AARR-Backend\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\AARR-Backend\\Domain\\Domain.csproj"
+              "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Domain\\Domain.csproj": {
+                "projectPath": "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\user\\Desktop\\AARR-Backend\\Gateway\\Gateway.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\AARR-Backend\\Gateway\\Gateway.csproj"
+              "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Gateway\\Gateway.csproj": {
+                "projectPath": "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Gateway\\Gateway.csproj"
               }
             }
           }
@@ -349,7 +343,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -358,39 +353,37 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\AARR-Backend\\WebApi\\WebApi.csproj": {
+    "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\AARR-Backend\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "C:\\Users\\user\\Desktop\\AARR-Backend\\WebApi\\WebApi.csproj",
+        "projectPath": "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\WebApi\\WebApi.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\AARR-Backend\\WebApi\\obj\\",
+        "outputPath": "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\AARR-Backend\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\AARR-Backend\\Application\\Application.csproj"
+              "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Application\\Application.csproj": {
+                "projectPath": "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\Application\\Application.csproj"
               },
-              "C:\\Users\\user\\Desktop\\AARR-Backend\\IOC\\IOC.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\AARR-Backend\\IOC\\IOC.csproj"
+              "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\IOC\\IOC.csproj": {
+                "projectPath": "c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\IOC\\IOC.csproj"
               }
             }
           }
@@ -438,7 +431,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -450,7 +444,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
