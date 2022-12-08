@@ -1,1 +1,1 @@
-{"ContentRoots":["c:\\Users\\user\\Desktop\\AARR-Backend\\WebApi\\wwwroot\\"],"Root":{"Children":{"Cities.json":{"Children":null,"Asset":{"ContentRootIndex":0,"SubPath":"Cities.json"},"Patterns":null}},"Asset":null,"Patterns":[{"ContentRootIndex":0,"Pattern":"**","Depth":0}]}}
+{"ContentRoots":["c:\\Users\\user\\Desktop\\Extern\\AARR-Backend\\WebApi\\wwwroot\\"],"Root":{"Children":{"Cities.json":{"Children":null,"Asset":{"ContentRootIndex":0,"SubPath":"Cities.json"},"Patterns":null}},"Asset":null,"Patterns":[{"ContentRootIndex":0,"Pattern":"**","Depth":0}]}}
